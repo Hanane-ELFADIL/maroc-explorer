@@ -1,0 +1,334 @@
+[
+  {
+    "slug": "tanger-tanjazz",
+    "city": "Tanger",
+    "region": "Tanger-Tétouan-Al Hoceïma",
+    "name": "Tanjazz",
+    "category": "Événement",
+    "subcategory": "Festival",
+    "description": "Festival de jazz et musiques du monde, concerts en salle et en plein air.",
+    "address": "Ville, Tanger, Maroc",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -5.812,
+        35.787
+      ]
+    },
+    "tags": [
+      "musique",
+      "jazz",
+      "festival"
+    ],
+    "suitable_for": [
+      "couple",
+      "famille",
+      "solo",
+      "groupe"
+    ],
+    "event_type": "Festival",
+    "typical_period": "septembre",
+    "date_confidence": "moyenne"
+  },
+  {
+    "slug": "tanger-festival-national-du-film",
+    "city": "Tanger",
+    "region": "Tanger-Tétouan-Al Hoceïma",
+    "name": "Festival National du Film",
+    "category": "Événement",
+    "subcategory": "Festival",
+    "description": "Rencontre annuelle du cinéma marocain avec projections et compétition.",
+    "address": "Ville, Tanger, Maroc",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -5.81,
+        35.786
+      ]
+    },
+    "tags": [
+      "cinéma",
+      "culture"
+    ],
+    "suitable_for": [
+      "couple",
+      "famille",
+      "solo",
+      "groupe"
+    ],
+    "event_type": "Festival",
+    "typical_period": "variable",
+    "date_confidence": "faible"
+  },
+  {
+    "slug": "rabat-mawazine-rythmes-du-monde",
+    "city": "Rabat",
+    "region": "Rabat-Salé-Kénitra",
+    "name": "Mawazine – Rythmes du Monde",
+    "category": "Événement",
+    "subcategory": "Festival",
+    "description": "Grand festival de musique international, concerts gratuits et payants sur plusieurs scènes.",
+    "address": "Ville, Rabat, Maroc",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -6.835,
+        34.018
+      ]
+    },
+    "tags": [
+      "musique",
+      "festival",
+      "gratuit"
+    ],
+    "suitable_for": [
+      "couple",
+      "famille",
+      "solo",
+      "groupe"
+    ],
+    "event_type": "Festival",
+    "typical_period": "juin",
+    "date_confidence": "élevée"
+  },
+  {
+    "slug": "rabat-jazz-au-chellah",
+    "city": "Rabat",
+    "region": "Rabat-Salé-Kénitra",
+    "name": "Jazz au Chellah",
+    "category": "Événement",
+    "subcategory": "Festival",
+    "description": "Festival de jazz dans le décor de la nécropole du Chellah.",
+    "address": "Ville, Rabat, Maroc",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -6.8214,
+        34.0067
+      ]
+    },
+    "tags": [
+      "musique",
+      "jazz",
+      "site-historique"
+    ],
+    "suitable_for": [
+      "couple",
+      "famille",
+      "solo",
+      "groupe"
+    ],
+    "event_type": "Festival",
+    "typical_period": "octobre",
+    "date_confidence": "moyenne"
+  },
+  {
+    "slug": "rabat-festival-du-film-d-auteur-de-rabat",
+    "city": "Rabat",
+    "region": "Rabat-Salé-Kénitra",
+    "name": "Festival du film d'auteur de Rabat",
+    "category": "Événement",
+    "subcategory": "Festival",
+    "description": "Festival de cinéma d'auteur avec films internationaux et rencontres.",
+    "address": "Ville, Rabat, Maroc",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -6.8395,
+        34.017
+      ]
+    },
+    "tags": [
+      "cinéma",
+      "culture"
+    ],
+    "suitable_for": [
+      "couple",
+      "famille",
+      "solo",
+      "groupe"
+    ],
+    "event_type": "Festival",
+    "typical_period": "variable",
+    "date_confidence": "faible"
+  },
+  {
+    "slug": "chefchaouen-moussem-de-moulay-abdeslam-ben-mchich",
+    "city": "Chefchaouen",
+    "region": "Tanger-Tétouan-Al Hoceïma",
+    "name": "Moussem de Moulay Abdeslam Ben Mchich",
+    "category": "Événement",
+    "subcategory": "Moussem",
+    "description": "Pèlerinage et fête traditionnelle dans les montagnes du Rif, date mobile.",
+    "address": "Ville, Chefchaouen, Maroc",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -5.2636,
+        35.1688
+      ]
+    },
+    "tags": [
+      "tradition",
+      "religion",
+      "rif"
+    ],
+    "suitable_for": [
+      "couple",
+      "famille",
+      "solo",
+      "groupe"
+    ],
+    "event_type": "Moussem",
+    "typical_period": "variable (calendrier religieux)",
+    "date_confidence": "faible"
+  },
+  {
+    "slug": "agadir-timitar-festival-des-musiques-amazighes",
+    "city": "Agadir",
+    "region": "Souss-Massa",
+    "name": "Timitar - Festival des musiques amazighes",
+    "category": "Événement",
+    "subcategory": "Festival",
+    "description": "Festival de musique célébrant la culture amazighe et les musiques du monde, avec concerts gratuits.",
+    "address": "Ville, Agadir, Maroc",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -9.619,
+        30.422
+      ]
+    },
+    "tags": [
+      "musique",
+      "amazigh",
+      "festival",
+      "gratuit"
+    ],
+    "suitable_for": [
+      "couple",
+      "famille",
+      "solo",
+      "groupe"
+    ],
+    "event_type": "Festival",
+    "typical_period": "juillet",
+    "date_confidence": "moyenne"
+  },
+  {
+    "slug": "essaouira-festival-gnaoua-et-musiques-du-monde",
+    "city": "Essaouira",
+    "region": "Marrakech-Safi",
+    "name": "Festival Gnaoua et Musiques du Monde",
+    "category": "Événement",
+    "subcategory": "Festival",
+    "description": "Grand festival de musique gnaoua mêlant artistes marocains et internationaux dans la médina et sur la plage.",
+    "address": "Ville, Essaouira, Maroc",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -9.77,
+        31.5105
+      ]
+    },
+    "tags": [
+      "musique",
+      "gnaoua",
+      "festival",
+      "incontournable"
+    ],
+    "suitable_for": [
+      "couple",
+      "famille",
+      "solo",
+      "groupe"
+    ],
+    "event_type": "Festival",
+    "typical_period": "juin",
+    "date_confidence": "élevée"
+  },
+  {
+    "slug": "essaouira-printemps-musical-des-alizes",
+    "city": "Essaouira",
+    "region": "Marrakech-Safi",
+    "name": "Printemps Musical des Alizés",
+    "category": "Événement",
+    "subcategory": "Festival",
+    "description": "Festival de musique classique et du monde dans des lieux historiques de la médina.",
+    "address": "Ville, Essaouira, Maroc",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -9.77,
+        31.512
+      ]
+    },
+    "tags": [
+      "musique",
+      "classique",
+      "culture"
+    ],
+    "suitable_for": [
+      "couple",
+      "famille",
+      "solo",
+      "groupe"
+    ],
+    "event_type": "Festival",
+    "typical_period": "avril/mai",
+    "date_confidence": "faible"
+  },
+  {
+    "slug": "ouarzazate-festival-des-roses-de-kelaat-m-gouna",
+    "city": "Ouarzazate",
+    "region": "Drâa-Tafilalet",
+    "name": "Festival des Roses de Kelaat M'Gouna",
+    "category": "Événement",
+    "subcategory": "Festival",
+    "description": "Fête annuelle de la récolte des roses, avec défilés, musique et artisanat.",
+    "address": "Ville, Ouarzazate, Maroc",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -6.126,
+        31.237
+      ]
+    },
+    "tags": [
+      "roses",
+      "tradition",
+      "fête"
+    ],
+    "suitable_for": [
+      "couple",
+      "famille",
+      "solo",
+      "groupe"
+    ],
+    "event_type": "Festival",
+    "typical_period": "mai",
+    "date_confidence": "moyenne"
+  },
+  {
+    "city": "Marrakech",
+    "region": "Marrakech-Safi",
+    "name": "Festival International du Film de Marrakech",
+    "category": "Événement",
+    "description": "Festival de cinéma qui a généralement lieu à l'automne ou au début de l'hiver ; dates à vérifier chaque année.",
+    "tags": [
+      "culture"
+    ],
+    "slug": "marrakech-festival-international-du-film-de-marrakech"
+  },
+  {
+    "city": "Fès",
+    "region": "Fès-Meknès",
+    "name": "Festival de Fès des Musiques Sacrées du Monde",
+    "category": "Événement",
+    "description": "Festival de musique spirituelle, historiquement organisé au printemps ; dates à vérifier.",
+    "tags": [
+      "culture"
+    ],
+    "slug": "fes-festival-de-fes-des-musiques-sacrees-du-monde"
+  }
+]

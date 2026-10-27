@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org" th:lang="${#locale.language}">
+<head th:replace="~{fragments :: head(#{nav.itinerary})}"></head>
+<body>
+<header th:replace="~{fragments :: nav}"></header>
+<main class="container narrow-xl">
+  <div class="sec-head first"><div><h1 th:text="#{it.title}"></h1><p class="muted" th:text="#{it.sub}"></p></div></div>
+  <form class="filters panel" method="get" th:action="@{/itinerary}">
+    <select name="city" required><option value="" th:text="#{ex.city}"></option><option th:each="c : ${cityNames}" th:value="${c}" th:text="${c}" th:selected="${sel['city'] == c}"></option></select>
+    <input type="number" name="days" min="1" max="7" th:value="${sel['days']}" th:placeholder="#{it.days}" th:title="#{it.days}">
+    <select name="level"><option th:each="i : ${levels}" th:value="${i}" th:text="#{'lvl.' + ${i}}" th:selected="${sel['level'] == i}"></option></select>
+    <select name="who"><option value="" th:text="#{it.who}"></option><option th:each="w : ${whos}" th:value="${w}" th:text="#{'who.' + ${w}}" th:selected="${sel['who'] == w}"></option></select>
+    <button class="btn" th:text="#{it.go}"></button>
+  </form>
+  <th:block th:if="${plan != null}">
+    <div class="day" th:if="${!plan['hotel'].isEmpty()}"><h2 th:text="'🛏 ' + #{it.stay}"></h2>
+      <div class="stop"><img th:src="@{${@places.img(plan['hotel'])}}" alt=""><div><a th:href="@{/place/hotels/{s}(s=${plan['hotel']['slug']})}"><b th:text="${plan['hotel']['name']}"></b></a><p th:text="${plan['hotel']['description']}"></p></div></div></div>
+    <section class="day" th:each="d : ${plan['days']}">
+      <h2><span th:text="#{it.day}"></span> <span th:text="${d['n']}"></span></h2>
+      <p th:if="${d['stops'].isEmpty()}" class="muted" th:text="#{it.empty}"></p>
+      <div class="stop" th:each="s : ${d['stops']}"><img th:src="@{${@places.img(s)}}" alt="">
+        <div><a th:href="@{/place/attractions/{x}(x=${s['slug']})}"><b th:text="${s['name']}"></b></a> <small class="muted" th:text="'· ' + ${s['visit_duration_min']} + ' min'" th:if="${s['visit_duration_min'] != null}"></small><p th:text="${s['description']}"></p></div></div>
+      <div class="stop meal" th:if="${!d['meal'].isEmpty()}"><img th:src="@{${@places.img(d['meal'])}}" alt="">
+        <div><small class="muted" th:text="'🍽 ' + #{it.meal}"></small><br><a th:href="@{/place/restaurants/{x}(x=${d['meal']['slug']})}"><b th:text="${d['meal']['name']}"></b></a> <small class="muted" th:text="${@places.price(d['meal'])}"></small></div></div>
+    </section>
+  </th:block>
+</main>
+<footer th:replace="~{fragments :: footer}"></footer>
+</body></html>

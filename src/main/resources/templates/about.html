@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org" th:lang="${#locale.language}">
+<head th:replace="~{fragments :: head(#{nav.about})}"></head>
+<body>
+<header th:replace="~{fragments :: nav}"></header>
+<main class="container prose"><h1 th:text="#{about.title}"></h1>
+  <p class="lead" th:text="#{about.p1}"></p><p th:text="#{about.p2}"></p><p class="muted" th:text="#{about.p3}"></p></main>
+<footer th:replace="~{fragments :: footer}"></footer>
+</body></html>

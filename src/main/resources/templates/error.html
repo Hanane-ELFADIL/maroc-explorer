@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org" th:lang="${#locale.language}">
+<head th:replace="~{fragments :: head(#{err.title})}"></head>
+<body>
+<header th:replace="~{fragments :: nav}"></header>
+<main class="container prose"><h1 th:text="${status} + ' · ' + #{err.title}"></h1>
+  <p class="muted" th:if="${message != null}" th:text="${message}"></p>
+  <a class="btn" th:href="@{/}" th:text="#{err.back}"></a></main>
+<footer th:replace="~{fragments :: footer}"></footer>
+</body></html>

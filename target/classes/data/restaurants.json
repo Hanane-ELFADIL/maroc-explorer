@@ -1,0 +1,2144 @@
+[
+  {
+    "slug": "tanger-restaurant-hammadi",
+    "city": "Tanger",
+    "region": "Tanger-Tétouan-Al Hoceïma",
+    "name": "Restaurant Hammadi",
+    "category": "Restaurant",
+    "subcategory": "Restaurant",
+    "description": "Restaurant traditionnel de la médina, cuisine marocaine classique dans un cadre décoré.",
+    "address": "Médina, Tanger, Maroc",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -5.8122,
+        35.7872
+      ]
+    },
+    "tags": [
+      "traditionnel",
+      "médina",
+      "groupe"
+    ],
+    "suitable_for": [
+      "couple",
+      "famille",
+      "solo",
+      "groupe"
+    ],
+    "cuisine": "Marocaine",
+    "type": "Restaurant",
+    "avg_price_per_person_mad": {
+      "min": 150,
+      "max": 350
+    },
+    "price_level": 3,
+    "specialties": [
+      "tajine",
+      "couscous",
+      "pastilla",
+      "harira"
+    ],
+    "halal": true,
+    "vegetarian_options": true,
+    "alcohol_served": false,
+    "reservation_required": false
+  },
+  {
+    "slug": "tanger-saveur-de-poisson",
+    "city": "Tanger",
+    "region": "Tanger-Tétouan-Al Hoceïma",
+    "name": "Saveur de Poisson",
+    "category": "Restaurant",
+    "subcategory": "Restaurant",
+    "description": "Restaurant à menu fixe de poisson et fruits de mer, très prisé.",
+    "address": "Centre, Tanger, Maroc",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -5.812,
+        35.7858
+      ]
+    },
+    "tags": [
+      "poisson",
+      "local",
+      "authentique"
+    ],
+    "suitable_for": [
+      "couple",
+      "famille",
+      "solo",
+      "groupe"
+    ],
+    "cuisine": "Fruits de mer",
+    "type": "Restaurant",
+    "avg_price_per_person_mad": {
+      "min": 200,
+      "max": 400
+    },
+    "price_level": 3,
+    "specialties": [
+      "poisson",
+      "fruits de mer",
+      "paella"
+    ],
+    "halal": true,
+    "vegetarian_options": true,
+    "alcohol_served": false,
+    "reservation_required": false
+  },
+  {
+    "slug": "tanger-gran-cafe-de-paris",
+    "city": "Tanger",
+    "region": "Tanger-Tétouan-Al Hoceïma",
+    "name": "Gran Café de Paris",
+    "category": "Café",
+    "subcategory": "Café",
+    "description": "Café mythique de la place de France, lieu de rendez-vous des écrivains et artistes.",
+    "address": "Place de France, Tanger, Maroc",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -5.81,
+        35.7852
+      ]
+    },
+    "tags": [
+      "historique",
+      "café",
+      "terrasse"
+    ],
+    "suitable_for": [
+      "couple",
+      "solo",
+      "groupe"
+    ],
+    "cuisine": "Café",
+    "type": "Café",
+    "avg_price_per_person_mad": {
+      "min": 30,
+      "max": 80
+    },
+    "price_level": 1,
+    "specialties": [
+      "café",
+      "thé",
+      "pâtisserie"
+    ],
+    "halal": true,
+    "vegetarian_options": true,
+    "alcohol_served": false,
+    "reservation_required": false
+  },
+  {
+    "slug": "tanger-cafe-hafa",
+    "city": "Tanger",
+    "region": "Tanger-Tétouan-Al Hoceïma",
+    "name": "Café Hafa",
+    "category": "Café",
+    "subcategory": "Café",
+    "description": "Café en terrasses sur la falaise, face au détroit, ouvert depuis 1921.",
+    "address": "Marshan, Tanger, Maroc",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -5.8221,
+        35.7897
+      ]
+    },
+    "tags": [
+      "vue",
+      "historique",
+      "thé"
+    ],
+    "suitable_for": [
+      "couple",
+      "solo",
+      "groupe"
+    ],
+    "cuisine": "Café",
+    "type": "Café",
+    "avg_price_per_person_mad": {
+      "min": 20,
+      "max": 50
+    },
+    "price_level": 1,
+    "specialties": [
+      "thé à la menthe",
+      "gâteaux"
+    ],
+    "halal": true,
+    "vegetarian_options": true,
+    "alcohol_served": false,
+    "reservation_required": false
+  },
+  {
+    "slug": "tanger-cafe-central",
+    "city": "Tanger",
+    "region": "Tanger-Tétouan-Al Hoceïma",
+    "name": "Café Central",
+    "category": "Café",
+    "subcategory": "Café",
+    "description": "Café-terrasse du Petit Socco, idéal pour observer la vie de la médina.",
+    "address": "Petit Socco, Tanger, Maroc",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -5.8125,
+        35.7872
+      ]
+    },
+    "tags": [
+      "médina",
+      "terrasse",
+      "authentique"
+    ],
+    "suitable_for": [
+      "couple",
+      "solo",
+      "groupe"
+    ],
+    "cuisine": "Café",
+    "type": "Café",
+    "avg_price_per_person_mad": {
+      "min": 20,
+      "max": 50
+    },
+    "price_level": 1,
+    "specialties": [
+      "café",
+      "thé"
+    ],
+    "halal": true,
+    "vegetarian_options": true,
+    "alcohol_served": false,
+    "reservation_required": false
+  },
+  {
+    "slug": "tanger-le-salon-bleu",
+    "city": "Tanger",
+    "region": "Tanger-Tétouan-Al Hoceïma",
+    "name": "Le Salon Bleu",
+    "category": "Restaurant",
+    "subcategory": "Rooftop",
+    "description": "Terrasse avec vue sur la Kasbah et le détroit, ambiance décontractée.",
+    "address": "Kasbah, Tanger, Maroc",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -5.8125,
+        35.789
+      ]
+    },
+    "tags": [
+      "vue",
+      "rooftop",
+      "romantique"
+    ],
+    "suitable_for": [
+      "couple",
+      "solo"
+    ],
+    "cuisine": "Marocaine",
+    "type": "Rooftop",
+    "avg_price_per_person_mad": {
+      "min": 150,
+      "max": 300
+    },
+    "price_level": 3,
+    "specialties": [
+      "tajine",
+      "salades",
+      "cuisine fusion"
+    ],
+    "halal": true,
+    "vegetarian_options": true,
+    "alcohol_served": false,
+    "reservation_required": true
+  },
+  {
+    "slug": "tanger-el-morocco-club",
+    "city": "Tanger",
+    "region": "Tanger-Tétouan-Al Hoceïma",
+    "name": "El Morocco Club",
+    "category": "Restaurant",
+    "subcategory": "Restaurant",
+    "description": "Restaurant raffiné dans une maison de maître, ambiance chic.",
+    "address": "Médina, Tanger, Maroc",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -5.8128,
+        35.7877
+      ]
+    },
+    "tags": [
+      "chic",
+      "romantique",
+      "dîner"
+    ],
+    "suitable_for": [
+      "couple"
+    ],
+    "cuisine": "Marocaine",
+    "type": "Restaurant",
+    "avg_price_per_person_mad": {
+      "min": 400,
+      "max": 800
+    },
+    "price_level": 4,
+    "specialties": [
+      "tajine",
+      "pastilla",
+      "cuisine raffinée"
+    ],
+    "halal": true,
+    "vegetarian_options": true,
+    "alcohol_served": true,
+    "reservation_required": true
+  },
+  {
+    "slug": "tanger-dar-naji",
+    "city": "Tanger",
+    "region": "Tanger-Tétouan-Al Hoceïma",
+    "name": "Dar Naji",
+    "category": "Restaurant",
+    "subcategory": "Restaurant",
+    "description": "Restaurant populaire à prix doux, idéal pour déjeuner rapidement.",
+    "address": "Place de France, Tanger, Maroc",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -5.8108,
+        35.785
+      ]
+    },
+    "tags": [
+      "budget",
+      "local",
+      "rapide"
+    ],
+    "suitable_for": [
+      "famille",
+      "solo",
+      "groupe"
+    ],
+    "cuisine": "Marocaine",
+    "type": "Restaurant",
+    "avg_price_per_person_mad": {
+      "min": 70,
+      "max": 150
+    },
+    "price_level": 2,
+    "specialties": [
+      "tajine",
+      "couscous",
+      "brochettes"
+    ],
+    "halal": true,
+    "vegetarian_options": true,
+    "alcohol_served": false,
+    "reservation_required": false
+  },
+  {
+    "slug": "tanger-cafe-baba",
+    "city": "Tanger",
+    "region": "Tanger-Tétouan-Al Hoceïma",
+    "name": "Café Baba",
+    "category": "Café",
+    "subcategory": "Café",
+    "description": "Café intimiste de la médina, associé à l'histoire des Beatniks.",
+    "address": "Médina, Tanger, Maroc",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -5.8118,
+        35.7881
+      ]
+    },
+    "tags": [
+      "histoire",
+      "culture",
+      "calme"
+    ],
+    "suitable_for": [
+      "couple",
+      "solo",
+      "groupe"
+    ],
+    "cuisine": "Café",
+    "type": "Café",
+    "avg_price_per_person_mad": {
+      "min": 30,
+      "max": 70
+    },
+    "price_level": 1,
+    "specialties": [
+      "thé",
+      "café"
+    ],
+    "halal": true,
+    "vegetarian_options": true,
+    "alcohol_served": false,
+    "reservation_required": false
+  },
+  {
+    "slug": "tanger-grillades-de-poisson-du-port-de-peche",
+    "city": "Tanger",
+    "region": "Tanger-Tétouan-Al Hoceïma",
+    "name": "Grillades de poisson du port de pêche",
+    "category": "Restaurant",
+    "subcategory": "Street food",
+    "description": "Grillades de poisson et fruits de mer simples près du port, au prix du marché.",
+    "address": "Port de pêche, Tanger, Maroc",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -5.8035,
+        35.7885
+      ]
+    },
+    "tags": [
+      "street-food",
+      "poisson",
+      "budget"
+    ],
+    "suitable_for": [
+      "famille",
+      "solo",
+      "groupe"
+    ],
+    "cuisine": "Fruits de mer",
+    "type": "Street food",
+    "avg_price_per_person_mad": {
+      "min": 60,
+      "max": 120
+    },
+    "price_level": 2,
+    "specialties": [
+      "poisson grillé",
+      "calamars",
+      "friture"
+    ],
+    "halal": true,
+    "vegetarian_options": true,
+    "alcohol_served": false,
+    "reservation_required": false
+  },
+  {
+    "slug": "rabat-dinarjat",
+    "city": "Rabat",
+    "region": "Rabat-Salé-Kénitra",
+    "name": "Dinarjat",
+    "category": "Restaurant",
+    "subcategory": "Restaurant",
+    "description": "Restaurant traditionnel haut de gamme dans une maison de la médina avec musique live.",
+    "address": "Médina, Rabat, Maroc",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -6.8362,
+        34.0235
+      ]
+    },
+    "tags": [
+      "chic",
+      "traditionnel",
+      "romantique"
+    ],
+    "suitable_for": [
+      "couple",
+      "groupe"
+    ],
+    "cuisine": "Marocaine",
+    "type": "Restaurant",
+    "avg_price_per_person_mad": {
+      "min": 300,
+      "max": 600
+    },
+    "price_level": 4,
+    "specialties": [
+      "tajine",
+      "pastilla",
+      "couscous",
+      "méchoui"
+    ],
+    "halal": true,
+    "vegetarian_options": true,
+    "alcohol_served": false,
+    "reservation_required": true
+  },
+  {
+    "slug": "rabat-le-dhow",
+    "city": "Rabat",
+    "region": "Rabat-Salé-Kénitra",
+    "name": "Le Dhow",
+    "category": "Restaurant",
+    "subcategory": "Restaurant",
+    "description": "Restaurant sur un bateau amarré au Bouregreg, ambiance festive en soirée.",
+    "address": "Quai du Bouregreg, Rabat, Maroc",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -6.8315,
+        34.0268
+      ]
+    },
+    "tags": [
+      "bateau",
+      "soirée",
+      "vue"
+    ],
+    "suitable_for": [
+      "couple",
+      "solo",
+      "groupe"
+    ],
+    "cuisine": "Internationale",
+    "type": "Restaurant",
+    "avg_price_per_person_mad": {
+      "min": 250,
+      "max": 500
+    },
+    "price_level": 4,
+    "specialties": [
+      "poisson",
+      "grillades",
+      "cuisine internationale"
+    ],
+    "halal": true,
+    "vegetarian_options": true,
+    "alcohol_served": true,
+    "reservation_required": true
+  },
+  {
+    "slug": "rabat-cafe-maure-des-oudayas",
+    "city": "Rabat",
+    "region": "Rabat-Salé-Kénitra",
+    "name": "Café Maure des Oudayas",
+    "category": "Café",
+    "subcategory": "Café",
+    "description": "Café andalou en terrasse dans les Oudayas avec vue sur l'embouchure du fleuve.",
+    "address": "Oudayas, Rabat, Maroc",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -6.8368,
+        34.032
+      ]
+    },
+    "tags": [
+      "vue",
+      "historique",
+      "thé"
+    ],
+    "suitable_for": [
+      "couple",
+      "solo",
+      "groupe"
+    ],
+    "cuisine": "Café",
+    "type": "Café",
+    "avg_price_per_person_mad": {
+      "min": 20,
+      "max": 50
+    },
+    "price_level": 1,
+    "specialties": [
+      "thé à la menthe",
+      "gâteaux"
+    ],
+    "halal": true,
+    "vegetarian_options": true,
+    "alcohol_served": false,
+    "reservation_required": false
+  },
+  {
+    "slug": "rabat-restaurant-al-marsa",
+    "city": "Rabat",
+    "region": "Rabat-Salé-Kénitra",
+    "name": "Restaurant Al Marsa",
+    "category": "Restaurant",
+    "subcategory": "Restaurant",
+    "description": "Restaurant de la marina avec cuisine de poisson et terrasse sur le fleuve.",
+    "address": "Marina Bouregreg, Rabat, Maroc",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -6.83,
+        34.0275
+      ]
+    },
+    "tags": [
+      "marina",
+      "poisson",
+      "terrasse"
+    ],
+    "suitable_for": [
+      "couple",
+      "famille",
+      "solo",
+      "groupe"
+    ],
+    "cuisine": "Fruits de mer",
+    "type": "Restaurant",
+    "avg_price_per_person_mad": {
+      "min": 250,
+      "max": 500
+    },
+    "price_level": 4,
+    "specialties": [
+      "poisson",
+      "fruits de mer",
+      "tajine de poisson"
+    ],
+    "halal": true,
+    "vegetarian_options": true,
+    "alcohol_served": true,
+    "reservation_required": true
+  },
+  {
+    "slug": "rabat-le-ziryab",
+    "city": "Rabat",
+    "region": "Rabat-Salé-Kénitra",
+    "name": "Le Ziryab",
+    "category": "Restaurant",
+    "subcategory": "Restaurant",
+    "description": "Restaurant traditionnel de la médina, cuisine marocaine soignée.",
+    "address": "Médina, Rabat, Maroc",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -6.837,
+        34.023
+      ]
+    },
+    "tags": [
+      "traditionnel",
+      "médina",
+      "groupe"
+    ],
+    "suitable_for": [
+      "couple",
+      "groupe"
+    ],
+    "cuisine": "Marocaine",
+    "type": "Restaurant",
+    "avg_price_per_person_mad": {
+      "min": 280,
+      "max": 500
+    },
+    "price_level": 4,
+    "specialties": [
+      "pastilla",
+      "tanjia",
+      "tajine"
+    ],
+    "halal": true,
+    "vegetarian_options": true,
+    "alcohol_served": false,
+    "reservation_required": true
+  },
+  {
+    "slug": "rabat-cafe-clock-rabat",
+    "city": "Rabat",
+    "region": "Rabat-Salé-Kénitra",
+    "name": "Café Clock Rabat",
+    "category": "Café",
+    "subcategory": "Café",
+    "description": "Café culturel de la médina, concerts, ateliers et cuisine décontractée.",
+    "address": "Médina, Rabat, Maroc",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -6.8368,
+        34.0238
+      ]
+    },
+    "tags": [
+      "culture",
+      "jeunes",
+      "végétarien"
+    ],
+    "suitable_for": [
+      "solo",
+      "groupe"
+    ],
+    "cuisine": "Café",
+    "type": "Café",
+    "avg_price_per_person_mad": {
+      "min": 80,
+      "max": 160
+    },
+    "price_level": 2,
+    "specialties": [
+      "burgers de chameau",
+      "jus",
+      "pâtisseries"
+    ],
+    "halal": true,
+    "vegetarian_options": true,
+    "alcohol_served": false,
+    "reservation_required": false
+  },
+  {
+    "slug": "rabat-patisserie-majestic",
+    "city": "Rabat",
+    "region": "Rabat-Salé-Kénitra",
+    "name": "Pâtisserie Majestic",
+    "category": "Café",
+    "subcategory": "Café",
+    "description": "Pâtisserie-salon de thé bien connue du centre, pour petit-déjeuner et goûter.",
+    "address": "Ville nouvelle, Rabat, Maroc",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -6.8385,
+        34.021
+      ]
+    },
+    "tags": [
+      "pâtisserie",
+      "petit-déjeuner"
+    ],
+    "suitable_for": [
+      "couple",
+      "famille",
+      "solo"
+    ],
+    "cuisine": "Café",
+    "type": "Café",
+    "avg_price_per_person_mad": {
+      "min": 30,
+      "max": 90
+    },
+    "price_level": 1,
+    "specialties": [
+      "viennoiseries",
+      "pâtisseries",
+      "café"
+    ],
+    "halal": true,
+    "vegetarian_options": true,
+    "alcohol_served": false,
+    "reservation_required": false
+  },
+  {
+    "slug": "rabat-street-food-du-marche-central",
+    "city": "Rabat",
+    "region": "Rabat-Salé-Kénitra",
+    "name": "Street food du Marché central",
+    "category": "Restaurant",
+    "subcategory": "Street food",
+    "description": "Étals et petites échoppes autour du marché central, déjeuner rapide à petit prix.",
+    "address": "Ville nouvelle, Rabat, Maroc",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -6.838,
+        34.0189
+      ]
+    },
+    "tags": [
+      "budget",
+      "marché",
+      "rapide"
+    ],
+    "suitable_for": [
+      "famille",
+      "solo",
+      "groupe"
+    ],
+    "cuisine": "Marocaine",
+    "type": "Street food",
+    "avg_price_per_person_mad": {
+      "min": 30,
+      "max": 70
+    },
+    "price_level": 1,
+    "specialties": [
+      "sandwichs",
+      "brochettes",
+      "jus",
+      "olives"
+    ],
+    "halal": true,
+    "vegetarian_options": true,
+    "alcohol_served": false,
+    "reservation_required": false
+  },
+  {
+    "slug": "rabat-restaurant-de-medina-cuisine-marocaine",
+    "city": "Rabat",
+    "region": "Rabat-Salé-Kénitra",
+    "name": "Restaurant de médina (cuisine marocaine)",
+    "category": "Restaurant",
+    "subcategory": "Restaurant",
+    "description": "Restaurants simples de la médina servant tajines et couscous à prix modérés.",
+    "address": "Médina, Rabat, Maroc",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -6.8372,
+        34.0222
+      ]
+    },
+    "tags": [
+      "médina",
+      "budget",
+      "authentique"
+    ],
+    "suitable_for": [
+      "famille",
+      "solo",
+      "groupe"
+    ],
+    "cuisine": "Marocaine",
+    "type": "Restaurant",
+    "avg_price_per_person_mad": {
+      "min": 70,
+      "max": 150
+    },
+    "price_level": 2,
+    "specialties": [
+      "tajine",
+      "couscous",
+      "harira"
+    ],
+    "halal": true,
+    "vegetarian_options": true,
+    "alcohol_served": false,
+    "reservation_required": false
+  },
+  {
+    "slug": "rabat-restaurants-de-la-marina-grillades",
+    "city": "Rabat",
+    "region": "Rabat-Salé-Kénitra",
+    "name": "Restaurants de la Marina (grillades)",
+    "category": "Restaurant",
+    "subcategory": "Restaurant",
+    "description": "Cluster de restaurants et cafés le long du fleuve, vue sur les Oudayas.",
+    "address": "Marina Bouregreg, Rabat, Maroc",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -6.8298,
+        34.027
+      ]
+    },
+    "tags": [
+      "marina",
+      "famille",
+      "terrasse"
+    ],
+    "suitable_for": [
+      "couple",
+      "famille",
+      "solo",
+      "groupe"
+    ],
+    "cuisine": "Internationale",
+    "type": "Restaurant",
+    "avg_price_per_person_mad": {
+      "min": 120,
+      "max": 300
+    },
+    "price_level": 3,
+    "specialties": [
+      "grillades",
+      "pizzas",
+      "poisson"
+    ],
+    "halal": true,
+    "vegetarian_options": true,
+    "alcohol_served": true,
+    "reservation_required": false
+  },
+  {
+    "slug": "chefchaouen-restaurant-assaada",
+    "city": "Chefchaouen",
+    "region": "Tanger-Tétouan-Al Hoceïma",
+    "name": "Restaurant Assaada",
+    "category": "Restaurant",
+    "subcategory": "Restaurant",
+    "description": "Restaurant populaire à prix doux proche de la place centrale.",
+    "address": "Médina, Chefchaouen, Maroc",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -5.2632,
+        35.1688
+      ]
+    },
+    "tags": [
+      "budget",
+      "local",
+      "terrasse"
+    ],
+    "suitable_for": [
+      "famille",
+      "solo",
+      "groupe"
+    ],
+    "cuisine": "Marocaine",
+    "type": "Restaurant",
+    "avg_price_per_person_mad": {
+      "min": 70,
+      "max": 140
+    },
+    "price_level": 2,
+    "specialties": [
+      "tajine",
+      "harira",
+      "couscous"
+    ],
+    "halal": true,
+    "vegetarian_options": true,
+    "alcohol_served": false,
+    "reservation_required": false
+  },
+  {
+    "slug": "chefchaouen-bab-ssour-restaurant",
+    "city": "Chefchaouen",
+    "region": "Tanger-Tétouan-Al Hoceïma",
+    "name": "Bab Ssour Restaurant",
+    "category": "Restaurant",
+    "subcategory": "Restaurant",
+    "description": "Restaurant de la médina près de la porte, avec cuisine marocaine soignée.",
+    "address": "Médina, Chefchaouen, Maroc",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -5.265,
+        35.1694
+      ]
+    },
+    "tags": [
+      "médina",
+      "terrasse",
+      "authentique"
+    ],
+    "suitable_for": [
+      "couple",
+      "solo",
+      "groupe"
+    ],
+    "cuisine": "Marocaine",
+    "type": "Restaurant",
+    "avg_price_per_person_mad": {
+      "min": 90,
+      "max": 180
+    },
+    "price_level": 2,
+    "specialties": [
+      "tajine",
+      "pastilla",
+      "salades"
+    ],
+    "halal": true,
+    "vegetarian_options": true,
+    "alcohol_served": false,
+    "reservation_required": false
+  },
+  {
+    "slug": "chefchaouen-casa-aladdin",
+    "city": "Chefchaouen",
+    "region": "Tanger-Tétouan-Al Hoceïma",
+    "name": "Casa Aladdin",
+    "category": "Restaurant",
+    "subcategory": "Rooftop",
+    "description": "Restaurant-terrasse avec vue sur la place et les toits bleus.",
+    "address": "Médina, Chefchaouen, Maroc",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -5.2634,
+        35.1687
+      ]
+    },
+    "tags": [
+      "vue",
+      "rooftop",
+      "photo"
+    ],
+    "suitable_for": [
+      "couple",
+      "solo",
+      "groupe"
+    ],
+    "cuisine": "Marocaine",
+    "type": "Rooftop",
+    "avg_price_per_person_mad": {
+      "min": 100,
+      "max": 200
+    },
+    "price_level": 2,
+    "specialties": [
+      "tajine",
+      "brochettes",
+      "jus frais"
+    ],
+    "halal": true,
+    "vegetarian_options": true,
+    "alcohol_served": false,
+    "reservation_required": false
+  },
+  {
+    "slug": "chefchaouen-cafe-clock-chefchaouen",
+    "city": "Chefchaouen",
+    "region": "Tanger-Tétouan-Al Hoceïma",
+    "name": "Café Clock Chefchaouen",
+    "category": "Café",
+    "subcategory": "Café",
+    "description": "Café culturel avec cuisine décontractée et animations.",
+    "address": "Médina, Chefchaouen, Maroc",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -5.263,
+        35.1689
+      ]
+    },
+    "tags": [
+      "culture",
+      "jeunes",
+      "végétarien"
+    ],
+    "suitable_for": [
+      "solo",
+      "groupe"
+    ],
+    "cuisine": "Café",
+    "type": "Café",
+    "avg_price_per_person_mad": {
+      "min": 70,
+      "max": 140
+    },
+    "price_level": 2,
+    "specialties": [
+      "burgers",
+      "jus",
+      "pâtisseries"
+    ],
+    "halal": true,
+    "vegetarian_options": true,
+    "alcohol_served": false,
+    "reservation_required": false
+  },
+  {
+    "slug": "chefchaouen-street-food-de-la-place-outa-el-hammam",
+    "city": "Chefchaouen",
+    "region": "Tanger-Tétouan-Al Hoceïma",
+    "name": "Street food de la place Outa el Hammam",
+    "category": "Restaurant",
+    "subcategory": "Street food",
+    "description": "Étals de brochettes, sandwichs et jus autour de la place, repas rapide à petit prix.",
+    "address": "Médina, Chefchaouen, Maroc",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -5.2633,
+        35.1689
+      ]
+    },
+    "tags": [
+      "budget",
+      "rapide",
+      "local"
+    ],
+    "suitable_for": [
+      "famille",
+      "solo",
+      "groupe"
+    ],
+    "cuisine": "Marocaine",
+    "type": "Street food",
+    "avg_price_per_person_mad": {
+      "min": 30,
+      "max": 70
+    },
+    "price_level": 1,
+    "specialties": [
+      "brochettes",
+      "sandwichs",
+      "jus"
+    ],
+    "halal": true,
+    "vegetarian_options": true,
+    "alcohol_served": false,
+    "reservation_required": false
+  },
+  {
+    "slug": "chefchaouen-restaurant-avec-terrasse-sur-la-medina",
+    "city": "Chefchaouen",
+    "region": "Tanger-Tétouan-Al Hoceïma",
+    "name": "Restaurant avec terrasse sur la médina",
+    "category": "Restaurant",
+    "subcategory": "Restaurant",
+    "description": "Restaurants avec vue sur les toits de la médina bleue, adaptés aux repas tranquilles.",
+    "address": "Médina, Chefchaouen, Maroc",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -5.2628,
+        35.169
+      ]
+    },
+    "tags": [
+      "vue",
+      "terrasse",
+      "couple"
+    ],
+    "suitable_for": [
+      "couple",
+      "famille",
+      "solo",
+      "groupe"
+    ],
+    "cuisine": "Marocaine",
+    "type": "Restaurant",
+    "avg_price_per_person_mad": {
+      "min": 100,
+      "max": 220
+    },
+    "price_level": 3,
+    "specialties": [
+      "tajine",
+      "couscous",
+      "omelette berbère"
+    ],
+    "halal": true,
+    "vegetarian_options": true,
+    "alcohol_served": false,
+    "reservation_required": false
+  },
+  {
+    "slug": "chefchaouen-fromagerie-et-produits-du-terroir-jben",
+    "city": "Chefchaouen",
+    "region": "Tanger-Tétouan-Al Hoceïma",
+    "name": "Fromagerie et produits du terroir (jben)",
+    "category": "Restaurant",
+    "subcategory": "Street food",
+    "description": "Boutiques de fromage frais de chèvre et de produits locaux du Rif.",
+    "address": "Médina, Chefchaouen, Maroc",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -5.2641,
+        35.1687
+      ]
+    },
+    "tags": [
+      "terroir",
+      "local",
+      "dégustation"
+    ],
+    "suitable_for": [
+      "couple",
+      "famille",
+      "solo",
+      "groupe"
+    ],
+    "cuisine": "Marocaine",
+    "type": "Street food",
+    "avg_price_per_person_mad": {
+      "min": 20,
+      "max": 60
+    },
+    "price_level": 1,
+    "specialties": [
+      "jben",
+      "miel",
+      "huile d'olive",
+      "pain"
+    ],
+    "halal": true,
+    "vegetarian_options": true,
+    "alcohol_served": false,
+    "reservation_required": false
+  },
+  {
+    "slug": "chefchaouen-cafe-de-ras-el-maa",
+    "city": "Chefchaouen",
+    "region": "Tanger-Tétouan-Al Hoceïma",
+    "name": "Café de Ras el Maa",
+    "category": "Café",
+    "subcategory": "Café",
+    "description": "Terrasses de café proches de la source, ambiance fraîche et calme.",
+    "address": "Ras el Maa, Chefchaouen, Maroc",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -5.2585,
+        35.1695
+      ]
+    },
+    "tags": [
+      "calme",
+      "eau",
+      "détente"
+    ],
+    "suitable_for": [
+      "couple",
+      "famille",
+      "solo"
+    ],
+    "cuisine": "Café",
+    "type": "Café",
+    "avg_price_per_person_mad": {
+      "min": 20,
+      "max": 50
+    },
+    "price_level": 1,
+    "specialties": [
+      "thé",
+      "café",
+      "crêpes"
+    ],
+    "halal": true,
+    "vegetarian_options": true,
+    "alcohol_served": false,
+    "reservation_required": false
+  },
+  {
+    "slug": "chefchaouen-restaurant-de-montagne-akchour",
+    "city": "Chefchaouen",
+    "region": "Tanger-Tétouan-Al Hoceïma",
+    "name": "Restaurant de montagne – Akchour",
+    "category": "Restaurant",
+    "subcategory": "Restaurant",
+    "description": "Petits restaurants au bord de l'oued à l'entrée du sentier des cascades.",
+    "address": "Akchour, Chefchaouen, Maroc",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -5.18,
+        35.22
+      ]
+    },
+    "tags": [
+      "nature",
+      "randonnée",
+      "rivière"
+    ],
+    "suitable_for": [
+      "couple",
+      "famille",
+      "solo",
+      "groupe"
+    ],
+    "cuisine": "Marocaine",
+    "type": "Restaurant",
+    "avg_price_per_person_mad": {
+      "min": 50,
+      "max": 120
+    },
+    "price_level": 2,
+    "specialties": [
+      "poisson de rivière",
+      "tajine",
+      "omelette"
+    ],
+    "halal": true,
+    "vegetarian_options": true,
+    "alcohol_served": false,
+    "reservation_required": false
+  },
+  {
+    "slug": "chefchaouen-patisserie-et-salon-de-the-centre",
+    "city": "Chefchaouen",
+    "region": "Tanger-Tétouan-Al Hoceïma",
+    "name": "Pâtisserie et salon de thé (centre)",
+    "category": "Café",
+    "subcategory": "Café",
+    "description": "Salons de thé et pâtisseries autour de la place Mohammed V.",
+    "address": "Centre-ville, Chefchaouen, Maroc",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -5.2655,
+        35.1697
+      ]
+    },
+    "tags": [
+      "pâtisserie",
+      "café",
+      "petit-déjeuner"
+    ],
+    "suitable_for": [
+      "couple",
+      "famille",
+      "solo"
+    ],
+    "cuisine": "Café",
+    "type": "Café",
+    "avg_price_per_person_mad": {
+      "min": 30,
+      "max": 80
+    },
+    "price_level": 1,
+    "specialties": [
+      "pâtisseries",
+      "café",
+      "jus"
+    ],
+    "halal": true,
+    "vegetarian_options": true,
+    "alcohol_served": false,
+    "reservation_required": false
+  },
+  {
+    "slug": "agadir-ocean-vagabond",
+    "city": "Agadir",
+    "region": "Souss-Massa",
+    "name": "Ocean Vagabond",
+    "category": "Restaurant",
+    "subcategory": "Restaurant",
+    "description": "Restaurant de plage à Taghazout, ambiance surf et coucher de soleil.",
+    "address": "Taghazout, Agadir, Maroc",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -9.712,
+        30.543
+      ]
+    },
+    "tags": [
+      "plage",
+      "surf",
+      "vue"
+    ],
+    "suitable_for": [
+      "couple",
+      "solo",
+      "groupe"
+    ],
+    "cuisine": "Internationale",
+    "type": "Restaurant",
+    "avg_price_per_person_mad": {
+      "min": 120,
+      "max": 250
+    },
+    "price_level": 3,
+    "specialties": [
+      "poisson grillé",
+      "burgers",
+      "salades"
+    ],
+    "halal": true,
+    "vegetarian_options": true,
+    "alcohol_served": true,
+    "reservation_required": false
+  },
+  {
+    "slug": "agadir-grillades-de-poisson-du-port",
+    "city": "Agadir",
+    "region": "Souss-Massa",
+    "name": "Grillades de poisson du port",
+    "category": "Restaurant",
+    "subcategory": "Street food",
+    "description": "Étals de poisson frais grillé près du port, à manger sur place.",
+    "address": "Port d'Agadir, Agadir, Maroc",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -9.629,
+        30.422
+      ]
+    },
+    "tags": [
+      "poisson",
+      "street-food",
+      "authentique"
+    ],
+    "suitable_for": [
+      "famille",
+      "solo",
+      "groupe"
+    ],
+    "cuisine": "Fruits de mer",
+    "type": "Street food",
+    "avg_price_per_person_mad": {
+      "min": 60,
+      "max": 140
+    },
+    "price_level": 2,
+    "specialties": [
+      "poisson grillé",
+      "calamars",
+      "friture"
+    ],
+    "halal": true,
+    "vegetarian_options": true,
+    "alcohol_served": false,
+    "reservation_required": false
+  },
+  {
+    "slug": "agadir-street-food-du-souk-el-had",
+    "city": "Agadir",
+    "region": "Souss-Massa",
+    "name": "Street food du souk El Had",
+    "category": "Restaurant",
+    "subcategory": "Street food",
+    "description": "Petites échoppes du marché pour déjeuner à petit prix.",
+    "address": "Souk El Had, Agadir, Maroc",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -9.5753,
+        30.4098
+      ]
+    },
+    "tags": [
+      "budget",
+      "marché",
+      "rapide"
+    ],
+    "suitable_for": [
+      "famille",
+      "solo",
+      "groupe"
+    ],
+    "cuisine": "Marocaine",
+    "type": "Street food",
+    "avg_price_per_person_mad": {
+      "min": 30,
+      "max": 80
+    },
+    "price_level": 1,
+    "specialties": [
+      "brochettes",
+      "sandwichs",
+      "harira"
+    ],
+    "halal": true,
+    "vegetarian_options": true,
+    "alcohol_served": false,
+    "reservation_required": false
+  },
+  {
+    "slug": "agadir-restaurants-de-la-marina",
+    "city": "Agadir",
+    "region": "Souss-Massa",
+    "name": "Restaurants de la Marina",
+    "category": "Restaurant",
+    "subcategory": "Restaurant",
+    "description": "Terrasses face aux bateaux avec cuisine méditerranéenne et marocaine.",
+    "address": "Marina, Agadir, Maroc",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -9.6285,
+        30.4235
+      ]
+    },
+    "tags": [
+      "marina",
+      "terrasse",
+      "famille"
+    ],
+    "suitable_for": [
+      "couple",
+      "famille",
+      "solo",
+      "groupe"
+    ],
+    "cuisine": "Internationale",
+    "type": "Restaurant",
+    "avg_price_per_person_mad": {
+      "min": 120,
+      "max": 350
+    },
+    "price_level": 3,
+    "specialties": [
+      "poisson",
+      "pizzas",
+      "grillades"
+    ],
+    "halal": true,
+    "vegetarian_options": true,
+    "alcohol_served": true,
+    "reservation_required": false
+  },
+  {
+    "slug": "agadir-cafes-et-glaciers-de-la-corniche",
+    "city": "Agadir",
+    "region": "Souss-Massa",
+    "name": "Cafés et glaciers de la Corniche",
+    "category": "Café",
+    "subcategory": "Café",
+    "description": "Cafés et glaciers en bord de mer, parfaits pour une pause en promenade.",
+    "address": "Front de mer, Agadir, Maroc",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -9.622,
+        30.417
+      ]
+    },
+    "tags": [
+      "promenade",
+      "famille",
+      "glace"
+    ],
+    "suitable_for": [
+      "couple",
+      "famille",
+      "solo"
+    ],
+    "cuisine": "Café",
+    "type": "Café",
+    "avg_price_per_person_mad": {
+      "min": 30,
+      "max": 90
+    },
+    "price_level": 1,
+    "specialties": [
+      "glaces",
+      "jus",
+      "crêpes"
+    ],
+    "halal": true,
+    "vegetarian_options": true,
+    "alcohol_served": false,
+    "reservation_required": false
+  },
+  {
+    "slug": "agadir-cafes-et-petits-restos-de-taghazout",
+    "city": "Agadir",
+    "region": "Souss-Massa",
+    "name": "Cafés et petits restos de Taghazout",
+    "category": "Café",
+    "subcategory": "Café",
+    "description": "Petits restaurants de village, ambiance décontractée entre deux sessions de surf.",
+    "address": "Taghazout, Agadir, Maroc",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -9.709,
+        30.544
+      ]
+    },
+    "tags": [
+      "surf",
+      "budget",
+      "décontracté"
+    ],
+    "suitable_for": [
+      "solo",
+      "groupe"
+    ],
+    "cuisine": "Café",
+    "type": "Café",
+    "avg_price_per_person_mad": {
+      "min": 40,
+      "max": 120
+    },
+    "price_level": 2,
+    "specialties": [
+      "tajine",
+      "jus",
+      "petit-déjeuner"
+    ],
+    "halal": true,
+    "vegetarian_options": true,
+    "alcohol_served": false,
+    "reservation_required": false
+  },
+  {
+    "slug": "essaouira-chez-sam",
+    "city": "Essaouira",
+    "region": "Marrakech-Safi",
+    "name": "Chez Sam",
+    "category": "Restaurant",
+    "subcategory": "Restaurant",
+    "description": "Restaurant historique au bout du port, spécialisé dans le poisson frais.",
+    "address": "Port, Essaouira, Maroc",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -9.769,
+        31.511
+      ]
+    },
+    "tags": [
+      "port",
+      "poisson",
+      "vue"
+    ],
+    "suitable_for": [
+      "couple",
+      "famille",
+      "solo",
+      "groupe"
+    ],
+    "cuisine": "Fruits de mer",
+    "type": "Restaurant",
+    "avg_price_per_person_mad": {
+      "min": 200,
+      "max": 400
+    },
+    "price_level": 3,
+    "specialties": [
+      "poisson grillé",
+      "fruits de mer",
+      "langouste"
+    ],
+    "halal": true,
+    "vegetarian_options": true,
+    "alcohol_served": true,
+    "reservation_required": false
+  },
+  {
+    "slug": "essaouira-le-taros",
+    "city": "Essaouira",
+    "region": "Marrakech-Safi",
+    "name": "Le Taros",
+    "category": "Restaurant",
+    "subcategory": "Rooftop",
+    "description": "Café-rooftop très connu avec vue sur le port, concerts et ambiance conviviale.",
+    "address": "Place Moulay Hassan, Essaouira, Maroc",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -9.77,
+        31.5105
+      ]
+    },
+    "tags": [
+      "rooftop",
+      "vue",
+      "musique"
+    ],
+    "suitable_for": [
+      "couple",
+      "solo",
+      "groupe"
+    ],
+    "cuisine": "Internationale",
+    "type": "Rooftop",
+    "avg_price_per_person_mad": {
+      "min": 150,
+      "max": 300
+    },
+    "price_level": 3,
+    "specialties": [
+      "tajine",
+      "salades",
+      "poisson"
+    ],
+    "halal": true,
+    "vegetarian_options": true,
+    "alcohol_served": true,
+    "reservation_required": false
+  },
+  {
+    "slug": "essaouira-la-table-by-madada",
+    "city": "Essaouira",
+    "region": "Marrakech-Safi",
+    "name": "La Table by Madada",
+    "category": "Restaurant",
+    "subcategory": "Restaurant",
+    "description": "Table gastronomique à base de produits locaux, dans un cadre intime.",
+    "address": "Médina, Essaouira, Maroc",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -9.77,
+        31.512
+      ]
+    },
+    "tags": [
+      "gastronomie",
+      "chic",
+      "romantique"
+    ],
+    "suitable_for": [
+      "couple"
+    ],
+    "cuisine": "Marocaine moderne",
+    "type": "Restaurant",
+    "avg_price_per_person_mad": {
+      "min": 300,
+      "max": 550
+    },
+    "price_level": 4,
+    "specialties": [
+      "cuisine créative",
+      "tajine revisité"
+    ],
+    "halal": true,
+    "vegetarian_options": true,
+    "alcohol_served": false,
+    "reservation_required": true
+  },
+  {
+    "slug": "essaouira-grillades-de-poisson-du-port",
+    "city": "Essaouira",
+    "region": "Marrakech-Safi",
+    "name": "Grillades de poisson du port",
+    "category": "Restaurant",
+    "subcategory": "Street food",
+    "description": "Étals de poisson frais sélectionné sur place puis grillé devant vous.",
+    "address": "Port d'Essaouira, Essaouira, Maroc",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -9.768,
+        31.51
+      ]
+    },
+    "tags": [
+      "poisson",
+      "street-food",
+      "authentique"
+    ],
+    "suitable_for": [
+      "famille",
+      "solo",
+      "groupe"
+    ],
+    "cuisine": "Fruits de mer",
+    "type": "Street food",
+    "avg_price_per_person_mad": {
+      "min": 60,
+      "max": 140
+    },
+    "price_level": 2,
+    "specialties": [
+      "poisson grillé",
+      "calamars",
+      "sardines"
+    ],
+    "halal": true,
+    "vegetarian_options": true,
+    "alcohol_served": false,
+    "reservation_required": false
+  },
+  {
+    "slug": "essaouira-cafe-de-france",
+    "city": "Essaouira",
+    "region": "Marrakech-Safi",
+    "name": "Café de France",
+    "category": "Café",
+    "subcategory": "Café",
+    "description": "Café historique de la place, pour boire un thé à la menthe.",
+    "address": "Place Moulay Hassan, Essaouira, Maroc",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -9.7705,
+        31.5105
+      ]
+    },
+    "tags": [
+      "historique",
+      "café",
+      "place"
+    ],
+    "suitable_for": [
+      "couple",
+      "solo",
+      "groupe"
+    ],
+    "cuisine": "Café",
+    "type": "Café",
+    "avg_price_per_person_mad": {
+      "min": 20,
+      "max": 60
+    },
+    "price_level": 1,
+    "specialties": [
+      "thé",
+      "café",
+      "pâtisseries"
+    ],
+    "halal": true,
+    "vegetarian_options": true,
+    "alcohol_served": false,
+    "reservation_required": false
+  },
+  {
+    "slug": "essaouira-street-food-de-la-place-moulay-hassan",
+    "city": "Essaouira",
+    "region": "Marrakech-Safi",
+    "name": "Street food de la place Moulay Hassan",
+    "category": "Restaurant",
+    "subcategory": "Street food",
+    "description": "Petits stands de brochettes et sandwichs autour de la place.",
+    "address": "Médina, Essaouira, Maroc",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -9.77,
+        31.5105
+      ]
+    },
+    "tags": [
+      "budget",
+      "rapide",
+      "local"
+    ],
+    "suitable_for": [
+      "famille",
+      "solo",
+      "groupe"
+    ],
+    "cuisine": "Marocaine",
+    "type": "Street food",
+    "avg_price_per_person_mad": {
+      "min": 30,
+      "max": 80
+    },
+    "price_level": 1,
+    "specialties": [
+      "brochettes",
+      "sandwichs",
+      "jus"
+    ],
+    "halal": true,
+    "vegetarian_options": true,
+    "alcohol_served": false,
+    "reservation_required": false
+  },
+  {
+    "slug": "ouarzazate-chez-dmitri",
+    "city": "Ouarzazate",
+    "region": "Drâa-Tafilalet",
+    "name": "Chez Dmitri",
+    "category": "Restaurant",
+    "subcategory": "Restaurant",
+    "description": "Adresse historique de la ville, fréquentée par les équipes de cinéma.",
+    "address": "Centre, Ouarzazate, Maroc",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -6.894,
+        30.919
+      ]
+    },
+    "tags": [
+      "historique",
+      "cinéma",
+      "traditionnel"
+    ],
+    "suitable_for": [
+      "couple",
+      "famille",
+      "solo",
+      "groupe"
+    ],
+    "cuisine": "Marocaine",
+    "type": "Restaurant",
+    "avg_price_per_person_mad": {
+      "min": 150,
+      "max": 300
+    },
+    "price_level": 3,
+    "specialties": [
+      "tajine",
+      "couscous",
+      "grillades"
+    ],
+    "halal": true,
+    "vegetarian_options": true,
+    "alcohol_served": true,
+    "reservation_required": false
+  },
+  {
+    "slug": "ouarzazate-le-petit-riad",
+    "city": "Ouarzazate",
+    "region": "Drâa-Tafilalet",
+    "name": "Le Petit Riad",
+    "category": "Restaurant",
+    "subcategory": "Restaurant",
+    "description": "Restaurant à l'ambiance de riad, avec cuisine marocaine et terrasse.",
+    "address": "Centre, Ouarzazate, Maroc",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -6.893,
+        30.921
+      ]
+    },
+    "tags": [
+      "terrasse",
+      "traditionnel",
+      "couple"
+    ],
+    "suitable_for": [
+      "couple",
+      "solo",
+      "groupe"
+    ],
+    "cuisine": "Marocaine",
+    "type": "Restaurant",
+    "avg_price_per_person_mad": {
+      "min": 120,
+      "max": 250
+    },
+    "price_level": 3,
+    "specialties": [
+      "tajine",
+      "couscous",
+      "salades"
+    ],
+    "halal": true,
+    "vegetarian_options": true,
+    "alcohol_served": false,
+    "reservation_required": false
+  },
+  {
+    "slug": "ouarzazate-restaurants-autour-de-taourirt",
+    "city": "Ouarzazate",
+    "region": "Drâa-Tafilalet",
+    "name": "Restaurants autour de Taourirt",
+    "category": "Restaurant",
+    "subcategory": "Restaurant",
+    "description": "Petites terrasses face à la kasbah, pour déjeuner après la visite.",
+    "address": "Taourirt, Ouarzazate, Maroc",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -6.887,
+        30.9247
+      ]
+    },
+    "tags": [
+      "kasbah",
+      "terrasse",
+      "authentique"
+    ],
+    "suitable_for": [
+      "couple",
+      "famille",
+      "solo",
+      "groupe"
+    ],
+    "cuisine": "Marocaine",
+    "type": "Restaurant",
+    "avg_price_per_person_mad": {
+      "min": 80,
+      "max": 200
+    },
+    "price_level": 2,
+    "specialties": [
+      "tajine",
+      "brochettes",
+      "omelette berbère"
+    ],
+    "halal": true,
+    "vegetarian_options": true,
+    "alcohol_served": false,
+    "reservation_required": false
+  },
+  {
+    "slug": "ouarzazate-grillades-de-l-avenue-mohammed-v",
+    "city": "Ouarzazate",
+    "region": "Drâa-Tafilalet",
+    "name": "Grillades de l'avenue Mohammed V",
+    "category": "Restaurant",
+    "subcategory": "Street food",
+    "description": "Rôtisseries et snacks de la ville pour un repas rapide.",
+    "address": "Centre, Ouarzazate, Maroc",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -6.894,
+        30.9195
+      ]
+    },
+    "tags": [
+      "budget",
+      "rapide",
+      "grillades"
+    ],
+    "suitable_for": [
+      "famille",
+      "solo",
+      "groupe"
+    ],
+    "cuisine": "Marocaine",
+    "type": "Street food",
+    "avg_price_per_person_mad": {
+      "min": 40,
+      "max": 100
+    },
+    "price_level": 2,
+    "specialties": [
+      "brochettes",
+      "sandwichs",
+      "tanjia"
+    ],
+    "halal": true,
+    "vegetarian_options": true,
+    "alcohol_served": false,
+    "reservation_required": false
+  },
+  {
+    "slug": "ouarzazate-cafes-de-la-place-al-mouahidine",
+    "city": "Ouarzazate",
+    "region": "Drâa-Tafilalet",
+    "name": "Cafés de la place Al Mouahidine",
+    "category": "Café",
+    "subcategory": "Café",
+    "description": "Cafés animés en soirée, parfaits pour observer la vie locale.",
+    "address": "Centre, Ouarzazate, Maroc",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -6.8935,
+        30.9195
+      ]
+    },
+    "tags": [
+      "café",
+      "soirée",
+      "local"
+    ],
+    "suitable_for": [
+      "couple",
+      "solo",
+      "groupe"
+    ],
+    "cuisine": "Café",
+    "type": "Café",
+    "avg_price_per_person_mad": {
+      "min": 20,
+      "max": 60
+    },
+    "price_level": 1,
+    "specialties": [
+      "thé",
+      "café",
+      "pâtisseries"
+    ],
+    "halal": true,
+    "vegetarian_options": true,
+    "alcohol_served": false,
+    "reservation_required": false
+  },
+  {
+    "city": "Marrakech",
+    "region": "Marrakech-Safi",
+    "name": "Nomad",
+    "category": "Restaurant",
+    "description": "Terrasse sur les souks avec cuisine marocaine revisitée.",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -7.9873,
+        31.631
+      ]
+    },
+    "tags": [
+      "rooftop",
+      "vue",
+      "médina"
+    ],
+    "cuisine": "Marocaine moderne",
+    "type": "Rooftop",
+    "avg_price_per_person_mad": {
+      "min": null,
+      "max": null
+    },
+    "price_level": 3,
+    "specialties": [
+      "tajine",
+      "salades"
+    ],
+    "slug": "marrakech-nomad"
+  },
+  {
+    "city": "Marrakech",
+    "region": "Marrakech-Safi",
+    "name": "Café des Épices",
+    "category": "Restaurant",
+    "description": "Café-terrasse sur la place des Épices, pratique pendant la visite des souks.",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -7.986,
+        31.6322
+      ]
+    },
+    "tags": [
+      "souks",
+      "terrasse"
+    ],
+    "cuisine": "Marocaine",
+    "type": "Café",
+    "avg_price_per_person_mad": {
+      "min": null,
+      "max": null
+    },
+    "price_level": 2,
+    "specialties": [
+      "jus",
+      "salades",
+      "tajine"
+    ],
+    "slug": "marrakech-cafe-des-epices"
+  },
+  {
+    "city": "Fès",
+    "region": "Fès-Meknès",
+    "name": "Café Clock",
+    "category": "Restaurant",
+    "description": "Café culturel de la médina, avec concerts et ateliers de cuisine selon la saison.",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -4.978,
+        34.064
+      ]
+    },
+    "tags": [
+      "culture",
+      "médina"
+    ],
+    "cuisine": "Marocaine / internationale",
+    "type": "Café",
+    "avg_price_per_person_mad": {
+      "min": null,
+      "max": null
+    },
+    "price_level": 2,
+    "specialties": [
+      "burger de chameau",
+      "pastilla"
+    ],
+    "slug": "fes-cafe-clock"
+  },
+  {
+    "city": "Meknès",
+    "region": "Fès-Meknès",
+    "name": "Restaurant Le Collier de la Colombe",
+    "category": "Restaurant",
+    "description": "Restaurant installé dans une maison traditionnelle à proximité de la médina.",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -5.5565,
+        33.8925
+      ]
+    },
+    "tags": [
+      "médina",
+      "dîner"
+    ],
+    "cuisine": "Marocaine / internationale",
+    "type": "Restaurant",
+    "avg_price_per_person_mad": {
+      "min": null,
+      "max": null
+    },
+    "price_level": 3,
+    "specialties": [
+      "tajine",
+      "pastilla"
+    ],
+    "slug": "meknes-restaurant-le-collier-de-la-colombe"
+  }
+]

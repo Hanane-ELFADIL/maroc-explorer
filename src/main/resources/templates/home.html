@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org" th:lang="${#locale.language}">
+<head th:replace="~{fragments :: head(#{brand})}"></head>
+<body>
+<header th:replace="~{fragments :: nav}"></header>
+<section class="hero"><div class="container">
+  <h1 th:text="#{home.title}"></h1><p th:text="#{home.sub}"></p>
+  <form class="hero-search" th:action="@{/explore}">
+    <input name="q" th:placeholder="#{nav.search}">
+    <select name="city"><option value="" th:text="#{ex.city}"></option><option th:each="n : ${cityNames}" th:value="${n}" th:text="${n}"></option></select>
+    <button class="btn" th:text="#{home.search}"></button>
+  </form>
+  <div class="chips"><a th:each="c : ${cols}" th:href="@{/explore(col=${c})}" th:text="#{'col.' + ${c}}"></a></div>
+  <div class="stats"><div><b th:text="${cities.size()}"></b><span th:text="#{stat.cities}"></span></div><div><b th:text="${totalPlaces}"></b><span th:text="#{stat.places}"></span></div></div>
+</div></section>
+
+<main class="container">
+  <div class="sec-head"><div><h2 th:text="#{home.cities}"></h2><p class="muted" th:text="#{home.cities.sub}"></p></div></div>
+  <div class="grid cities">
+    <a class="city-card" th:each="c : ${cities}" th:href="@{/city/{n}(n=${c['name']})}">
+      <img loading="lazy" th:src="@{${@places.img(c)}}" th:alt="${c['name']}" th:data-wiki="${@places.wikiQuery(c)}">
+      <div class="city-info"><small th:text="${c['region']}"></small><h3 th:text="${c['name']}"></h3><span><b th:text="${c['total']}"></b> <span th:text="#{home.places}"></span></span></div>
+    </a>
+  </div>
+
+  <div class="sec-head"><h2 th:text="#{home.browse}"></h2></div>
+  <div class="grid cats">
+    <a class="cat-tile" th:each="c : ${cols}" th:href="@{/explore(col=${c})}">
+      <img loading="lazy" th:src="@{'/images/_defaults/' + ${c} + '.svg'}" alt=""><span><b th:text="#{'col.' + ${c}}"></b><small th:text="${stats.get(c)}"></small></span>
+    </a>
+  </div>
+
+  <div class="sec-head"><h2 th:text="#{home.featured}"></h2><a class="more" th:href="@{/explore}" th:text="#{nav.all}"></a></div>
+  <div class="grid"><th:block th:each="d : ${featured}"><div th:replace="~{fragments :: card(${d})}"></div></th:block></div>
+
+  <section class="cta"><div><h2 th:text="#{home.cta2.t}"></h2><p th:text="#{home.cta2.d}"></p></div><a class="btn light" th:href="@{/itinerary}" th:text="#{nav.itinerary}"></a></section>
+
+  <div class="sec-head"><h2 th:text="#{home.how}"></h2></div>
+  <div class="grid how">
+    <div class="box"><span class="num">1</span><h3 th:text="#{how.1.t}"></h3><p th:text="#{how.1.d}"></p></div>
+    <div class="box"><span class="num">2</span><h3 th:text="#{how.2.t}"></h3><p th:text="#{how.2.d}"></p></div>
+    <div class="box"><span class="num">3</span><h3 th:text="#{how.3.t}"></h3><p th:text="#{how.3.d}"></p></div>
+  </div>
+</main>
+<footer th:replace="~{fragments :: footer}"></footer>
+</body></html>

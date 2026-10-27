@@ -1,0 +1,1639 @@
+[
+  {
+    "slug": "tanger-balade-a-dromadaire-pres-de-cap-spartel",
+    "city": "Tanger",
+    "region": "Tanger-Tétouan-Al Hoceïma",
+    "name": "Balade à dromadaire près de Cap Spartel",
+    "category": "Activité",
+    "subcategory": "aventure",
+    "description": "Courte balade à dos de dromadaire, proche des côtes atlantiques.",
+    "address": "Cap Spartel, Tanger, Maroc",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -5.91,
+        35.79
+      ]
+    },
+    "tags": [
+      "famille",
+      "photo",
+      "animaux"
+    ],
+    "suitable_for": [
+      "couple",
+      "famille",
+      "groupe"
+    ],
+    "activity_type": "aventure",
+    "price_mad": 100,
+    "price_level": 1,
+    "duration_hours": 1,
+    "difficulty": "facile",
+    "min_age": 4,
+    "season": "toute l'année",
+    "provider_name": "Opérateurs locaux / guides agréés",
+    "group_size": "1-6"
+  },
+  {
+    "slug": "tanger-visite-guidee-de-la-medina-et-kasbah",
+    "city": "Tanger",
+    "region": "Tanger-Tétouan-Al Hoceïma",
+    "name": "Visite guidée de la médina et Kasbah",
+    "category": "Activité",
+    "subcategory": "culture",
+    "description": "Parcours guidé de la médina, de la Kasbah et du Grand Socco avec guide agréé.",
+    "address": "Médina, Tanger, Maroc",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -5.8135,
+        35.7875
+      ]
+    },
+    "tags": [
+      "culture",
+      "histoire",
+      "guide"
+    ],
+    "suitable_for": [
+      "couple",
+      "famille",
+      "solo",
+      "groupe"
+    ],
+    "activity_type": "culture",
+    "price_mad": 250,
+    "price_level": 2,
+    "duration_hours": 3,
+    "difficulty": "facile",
+    "min_age": 0,
+    "season": "toute l'année",
+    "provider_name": "Opérateurs locaux / guides agréés",
+    "group_size": "1-10"
+  },
+  {
+    "slug": "tanger-cours-de-cuisine-marocaine",
+    "city": "Tanger",
+    "region": "Tanger-Tétouan-Al Hoceïma",
+    "name": "Cours de cuisine marocaine",
+    "category": "Activité",
+    "subcategory": "gastronomie",
+    "description": "Atelier de cuisine avec visite de marché et dégustation de tajine et pastilla.",
+    "address": "Médina, Tanger, Maroc",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -5.812,
+        35.788
+      ]
+    },
+    "tags": [
+      "cuisine",
+      "marché",
+      "dégustation"
+    ],
+    "suitable_for": [
+      "couple",
+      "famille",
+      "solo",
+      "groupe"
+    ],
+    "activity_type": "gastronomie",
+    "price_mad": 450,
+    "price_level": 3,
+    "duration_hours": 3,
+    "difficulty": "facile",
+    "min_age": 10,
+    "season": "toute l'année",
+    "provider_name": "Opérateurs locaux / guides agréés",
+    "group_size": "2-10"
+  },
+  {
+    "slug": "tanger-hammam-traditionnel",
+    "city": "Tanger",
+    "region": "Tanger-Tétouan-Al Hoceïma",
+    "name": "Hammam traditionnel",
+    "category": "Activité",
+    "subcategory": "détente",
+    "description": "Hammam traditionnel avec gommage au savon noir et massage.",
+    "address": "Médina, Tanger, Maroc",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -5.811,
+        35.787
+      ]
+    },
+    "tags": [
+      "détente",
+      "bien-être",
+      "authentique"
+    ],
+    "suitable_for": [
+      "couple",
+      "solo"
+    ],
+    "activity_type": "détente",
+    "price_mad": 150,
+    "price_level": 2,
+    "duration_hours": 1.5,
+    "difficulty": "facile",
+    "min_age": 12,
+    "season": "toute l'année",
+    "provider_name": "Opérateurs locaux / guides agréés",
+    "group_size": "1-6"
+  },
+  {
+    "slug": "tanger-excursion-a-asilah",
+    "city": "Tanger",
+    "region": "Tanger-Tétouan-Al Hoceïma",
+    "name": "Excursion à Asilah",
+    "category": "Activité",
+    "subcategory": "culture",
+    "description": "Journée dans la ville côtière d'Asilah, connue pour ses murs peints et ses remparts.",
+    "address": "Asilah, Tanger, Maroc",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -6.034,
+        35.465
+      ]
+    },
+    "tags": [
+      "excursion",
+      "art",
+      "plage"
+    ],
+    "suitable_for": [
+      "couple",
+      "famille",
+      "solo",
+      "groupe"
+    ],
+    "activity_type": "culture",
+    "price_mad": 400,
+    "price_level": 3,
+    "duration_hours": 8,
+    "difficulty": "facile",
+    "min_age": 0,
+    "season": "toute l'année",
+    "provider_name": "Opérateurs locaux / guides agréés",
+    "group_size": "2-10"
+  },
+  {
+    "slug": "tanger-excursion-a-chefchaouen-depuis-tanger",
+    "city": "Tanger",
+    "region": "Tanger-Tétouan-Al Hoceïma",
+    "name": "Excursion à Chefchaouen depuis Tanger",
+    "category": "Activité",
+    "subcategory": "culture",
+    "description": "Journée vers la ville bleue avec transport et visite guidée.",
+    "address": "Chefchaouen, Tanger, Maroc",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -5.2636,
+        35.1688
+      ]
+    },
+    "tags": [
+      "excursion",
+      "photo",
+      "bleu"
+    ],
+    "suitable_for": [
+      "couple",
+      "famille",
+      "solo",
+      "groupe"
+    ],
+    "activity_type": "culture",
+    "price_mad": 500,
+    "price_level": 3,
+    "duration_hours": 12,
+    "difficulty": "facile",
+    "min_age": 0,
+    "season": "toute l'année",
+    "provider_name": "Opérateurs locaux / guides agréés",
+    "group_size": "2-10"
+  },
+  {
+    "slug": "tanger-balade-en-bateau-dans-le-detroit",
+    "city": "Tanger",
+    "region": "Tanger-Tétouan-Al Hoceïma",
+    "name": "Balade en bateau dans le détroit",
+    "category": "Activité",
+    "subcategory": "aventure",
+    "description": "Sortie en mer dans le détroit, avec possibilité d'observer des dauphins selon la saison.",
+    "address": "Port, Tanger, Maroc",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -5.803,
+        35.787
+      ]
+    },
+    "tags": [
+      "mer",
+      "dauphins",
+      "famille"
+    ],
+    "suitable_for": [
+      "couple",
+      "famille",
+      "solo",
+      "groupe"
+    ],
+    "activity_type": "aventure",
+    "price_mad": 350,
+    "price_level": 3,
+    "duration_hours": 2,
+    "difficulty": "facile",
+    "min_age": 4,
+    "season": "avril-octobre",
+    "provider_name": "Opérateurs locaux / guides agréés",
+    "group_size": "4-20"
+  },
+  {
+    "slug": "tanger-randonnee-a-cheval-en-foret-cap-spartel",
+    "city": "Tanger",
+    "region": "Tanger-Tétouan-Al Hoceïma",
+    "name": "Randonnée à cheval en forêt (Cap Spartel)",
+    "category": "Activité",
+    "subcategory": "aventure",
+    "description": "Balade à cheval dans la forêt et le long des falaises, avec guide.",
+    "address": "Route de Cap Spartel, Tanger, Maroc",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -5.87,
+        35.8
+      ]
+    },
+    "tags": [
+      "nature",
+      "cheval",
+      "paysages"
+    ],
+    "suitable_for": [
+      "couple",
+      "solo",
+      "groupe"
+    ],
+    "activity_type": "aventure",
+    "price_mad": 250,
+    "price_level": 2,
+    "duration_hours": 2,
+    "difficulty": "moyenne",
+    "min_age": 8,
+    "season": "printemps-automne",
+    "provider_name": "Opérateurs locaux / guides agréés",
+    "group_size": "1-8"
+  },
+  {
+    "slug": "rabat-visite-guidee-de-la-medina-et-des-oudayas",
+    "city": "Rabat",
+    "region": "Rabat-Salé-Kénitra",
+    "name": "Visite guidée de la médina et des Oudayas",
+    "category": "Activité",
+    "subcategory": "culture",
+    "description": "Parcours de la médina, rue des Consuls et Oudayas avec guide agréé.",
+    "address": "Médina, Rabat, Maroc",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -6.8365,
+        34.021
+      ]
+    },
+    "tags": [
+      "culture",
+      "histoire",
+      "guide"
+    ],
+    "suitable_for": [
+      "couple",
+      "famille",
+      "solo",
+      "groupe"
+    ],
+    "activity_type": "culture",
+    "price_mad": 250,
+    "price_level": 2,
+    "duration_hours": 3,
+    "difficulty": "facile",
+    "min_age": 0,
+    "season": "toute l'année",
+    "provider_name": "Opérateurs locaux / guides agréés",
+    "group_size": "1-10"
+  },
+  {
+    "slug": "rabat-traversee-du-bouregreg-en-barque",
+    "city": "Rabat",
+    "region": "Rabat-Salé-Kénitra",
+    "name": "Traversée du Bouregreg en barque",
+    "category": "Activité",
+    "subcategory": "culture",
+    "description": "Traversée traditionnelle en barque entre Rabat et Salé, à petit prix.",
+    "address": "Bouregreg, Rabat, Maroc",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -6.833,
+        34.0285
+      ]
+    },
+    "tags": [
+      "authentique",
+      "fleuve",
+      "budget"
+    ],
+    "suitable_for": [
+      "couple",
+      "famille",
+      "solo",
+      "groupe"
+    ],
+    "activity_type": "culture",
+    "price_mad": 10,
+    "price_level": 1,
+    "duration_hours": 0.25,
+    "difficulty": "facile",
+    "min_age": 0,
+    "season": "toute l'année",
+    "provider_name": "Opérateurs locaux / guides agréés",
+    "group_size": "1-10"
+  },
+  {
+    "slug": "rabat-cours-de-cuisine-marocaine",
+    "city": "Rabat",
+    "region": "Rabat-Salé-Kénitra",
+    "name": "Cours de cuisine marocaine",
+    "category": "Activité",
+    "subcategory": "gastronomie",
+    "description": "Atelier de cuisine avec marché et dégustation.",
+    "address": "Médina, Rabat, Maroc",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -6.836,
+        34.0225
+      ]
+    },
+    "tags": [
+      "cuisine",
+      "marché",
+      "dégustation"
+    ],
+    "suitable_for": [
+      "couple",
+      "famille",
+      "solo",
+      "groupe"
+    ],
+    "activity_type": "gastronomie",
+    "price_mad": 450,
+    "price_level": 3,
+    "duration_hours": 3,
+    "difficulty": "facile",
+    "min_age": 10,
+    "season": "toute l'année",
+    "provider_name": "Opérateurs locaux / guides agréés",
+    "group_size": "2-10"
+  },
+  {
+    "slug": "rabat-hammam-et-gommage",
+    "city": "Rabat",
+    "region": "Rabat-Salé-Kénitra",
+    "name": "Hammam et gommage",
+    "category": "Activité",
+    "subcategory": "détente",
+    "description": "Hammam avec gommage et massage dans un spa de la ville.",
+    "address": "Ville nouvelle, Rabat, Maroc",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -6.835,
+        34.021
+      ]
+    },
+    "tags": [
+      "détente",
+      "bien-être"
+    ],
+    "suitable_for": [
+      "couple",
+      "solo"
+    ],
+    "activity_type": "détente",
+    "price_mad": 200,
+    "price_level": 2,
+    "duration_hours": 2,
+    "difficulty": "facile",
+    "min_age": 12,
+    "season": "toute l'année",
+    "provider_name": "Opérateurs locaux / guides agréés",
+    "group_size": "1-6"
+  },
+  {
+    "slug": "rabat-surf-a-la-plage-des-oudayas",
+    "city": "Rabat",
+    "region": "Rabat-Salé-Kénitra",
+    "name": "Surf à la plage des Oudayas",
+    "category": "Activité",
+    "subcategory": "sport nautique",
+    "description": "Cours ou location de planche à la plage de Rabat.",
+    "address": "Oudayas, Rabat, Maroc",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -6.842,
+        34.033
+      ]
+    },
+    "tags": [
+      "surf",
+      "sport",
+      "mer"
+    ],
+    "suitable_for": [
+      "solo",
+      "groupe"
+    ],
+    "activity_type": "sport nautique",
+    "price_mad": 300,
+    "price_level": 2,
+    "duration_hours": 2,
+    "difficulty": "moyenne",
+    "min_age": 10,
+    "season": "septembre-mai",
+    "provider_name": "Opérateurs locaux / guides agréés",
+    "group_size": "1-8"
+  },
+  {
+    "slug": "rabat-golf-dar-es-salam",
+    "city": "Rabat",
+    "region": "Rabat-Salé-Kénitra",
+    "name": "Golf Dar Es Salam",
+    "category": "Activité",
+    "subcategory": "sport",
+    "description": "Golf renommé de la capitale, parcours de qualité championnat.",
+    "address": "Route des Zaërs, Rabat, Maroc",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -6.83,
+        33.965
+      ]
+    },
+    "tags": [
+      "golf",
+      "sport",
+      "luxe"
+    ],
+    "suitable_for": [
+      "solo",
+      "groupe"
+    ],
+    "activity_type": "sport",
+    "price_mad": 800,
+    "price_level": 4,
+    "duration_hours": 4,
+    "difficulty": "moyenne",
+    "min_age": 12,
+    "season": "toute l'année",
+    "provider_name": "Opérateurs locaux / guides agréés",
+    "group_size": "1-4"
+  },
+  {
+    "slug": "rabat-excursion-a-volubilis-et-meknes",
+    "city": "Rabat",
+    "region": "Rabat-Salé-Kénitra",
+    "name": "Excursion à Volubilis et Meknès",
+    "category": "Activité",
+    "subcategory": "culture",
+    "description": "Journée vers les ruines romaines de Volubilis et la ville impériale de Meknès.",
+    "address": "Volubilis, Rabat, Maroc",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -5.554,
+        34.071
+      ]
+    },
+    "tags": [
+      "excursion",
+      "histoire",
+      "romain"
+    ],
+    "suitable_for": [
+      "couple",
+      "famille",
+      "solo",
+      "groupe"
+    ],
+    "activity_type": "culture",
+    "price_mad": 700,
+    "price_level": 4,
+    "duration_hours": 10,
+    "difficulty": "facile",
+    "min_age": 0,
+    "season": "printemps-automne",
+    "provider_name": "Opérateurs locaux / guides agréés",
+    "group_size": "2-10"
+  },
+  {
+    "slug": "rabat-randonnee-en-foret-de-la-maamora",
+    "city": "Rabat",
+    "region": "Rabat-Salé-Kénitra",
+    "name": "Randonnée en forêt de la Maâmora",
+    "category": "Activité",
+    "subcategory": "aventure",
+    "description": "Promenade dans l'une des plus grandes forêts de chênes-lièges du pays, à proximité de la capitale.",
+    "address": "Forêt de la Maâmora, Rabat, Maroc",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -6.52,
+        34.09
+      ]
+    },
+    "tags": [
+      "nature",
+      "famille",
+      "pique-nique"
+    ],
+    "suitable_for": [
+      "couple",
+      "famille",
+      "groupe"
+    ],
+    "activity_type": "aventure",
+    "price_mad": 0,
+    "price_level": 1,
+    "duration_hours": 2,
+    "difficulty": "facile",
+    "min_age": 0,
+    "season": "printemps",
+    "provider_name": "Opérateurs locaux / guides agréés",
+    "group_size": "1-20"
+  },
+  {
+    "slug": "chefchaouen-randonnee-guidee-aux-cascades-d-akchour",
+    "city": "Chefchaouen",
+    "region": "Tanger-Tétouan-Al Hoceïma",
+    "name": "Randonnée guidée aux cascades d'Akchour",
+    "category": "Activité",
+    "subcategory": "aventure",
+    "description": "Marche guidée vers les cascades avec baignade possible en été.",
+    "address": "Akchour, Chefchaouen, Maroc",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -5.18,
+        35.22
+      ]
+    },
+    "tags": [
+      "randonnée",
+      "cascade",
+      "nature"
+    ],
+    "suitable_for": [
+      "couple",
+      "solo",
+      "groupe"
+    ],
+    "activity_type": "aventure",
+    "price_mad": 250,
+    "price_level": 2,
+    "duration_hours": 6,
+    "difficulty": "moyenne",
+    "min_age": 10,
+    "season": "mars-juin",
+    "provider_name": "Opérateurs locaux / guides agréés",
+    "group_size": "1-10"
+  },
+  {
+    "slug": "chefchaouen-randonnee-dans-le-parc-de-talassemtane",
+    "city": "Chefchaouen",
+    "region": "Tanger-Tétouan-Al Hoceïma",
+    "name": "Randonnée dans le parc de Talassemtane",
+    "category": "Activité",
+    "subcategory": "aventure",
+    "description": "Randonnée en montagne dans les forêts de sapins du Rif.",
+    "address": "Talassemtane, Chefchaouen, Maroc",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -5.18,
+        35.1
+      ]
+    },
+    "tags": [
+      "montagne",
+      "sapins",
+      "aventure"
+    ],
+    "suitable_for": [
+      "solo",
+      "groupe"
+    ],
+    "activity_type": "aventure",
+    "price_mad": 350,
+    "price_level": 3,
+    "duration_hours": 8,
+    "difficulty": "difficile",
+    "min_age": 14,
+    "season": "printemps-automne",
+    "provider_name": "Opérateurs locaux / guides agréés",
+    "group_size": "1-8"
+  },
+  {
+    "slug": "chefchaouen-cours-de-cuisine-marocaine",
+    "city": "Chefchaouen",
+    "region": "Tanger-Tétouan-Al Hoceïma",
+    "name": "Cours de cuisine marocaine",
+    "category": "Activité",
+    "subcategory": "gastronomie",
+    "description": "Atelier de cuisine avec dégustation de plats du Nord.",
+    "address": "Médina, Chefchaouen, Maroc",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -5.2635,
+        35.169
+      ]
+    },
+    "tags": [
+      "cuisine",
+      "dégustation"
+    ],
+    "suitable_for": [
+      "couple",
+      "famille",
+      "solo",
+      "groupe"
+    ],
+    "activity_type": "gastronomie",
+    "price_mad": 400,
+    "price_level": 3,
+    "duration_hours": 3,
+    "difficulty": "facile",
+    "min_age": 10,
+    "season": "toute l'année",
+    "provider_name": "Opérateurs locaux / guides agréés",
+    "group_size": "2-10"
+  },
+  {
+    "slug": "chefchaouen-atelier-de-tissage",
+    "city": "Chefchaouen",
+    "region": "Tanger-Tétouan-Al Hoceïma",
+    "name": "Atelier de tissage",
+    "category": "Activité",
+    "subcategory": "culture",
+    "description": "Initiation au tissage traditionnel de laine dans un atelier de la médina.",
+    "address": "Souika, Chefchaouen, Maroc",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -5.262,
+        35.17
+      ]
+    },
+    "tags": [
+      "artisanat",
+      "culture",
+      "famille"
+    ],
+    "suitable_for": [
+      "couple",
+      "famille",
+      "solo",
+      "groupe"
+    ],
+    "activity_type": "culture",
+    "price_mad": 150,
+    "price_level": 2,
+    "duration_hours": 1.5,
+    "difficulty": "facile",
+    "min_age": 8,
+    "season": "toute l'année",
+    "provider_name": "Opérateurs locaux / guides agréés",
+    "group_size": "1-8"
+  },
+  {
+    "slug": "chefchaouen-hammam-traditionnel",
+    "city": "Chefchaouen",
+    "region": "Tanger-Tétouan-Al Hoceïma",
+    "name": "Hammam traditionnel",
+    "category": "Activité",
+    "subcategory": "détente",
+    "description": "Hammam avec gommage et massage dans la médina.",
+    "address": "Médina, Chefchaouen, Maroc",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -5.2638,
+        35.1686
+      ]
+    },
+    "tags": [
+      "détente",
+      "authentique"
+    ],
+    "suitable_for": [
+      "couple",
+      "solo"
+    ],
+    "activity_type": "détente",
+    "price_mad": 120,
+    "price_level": 2,
+    "duration_hours": 1.5,
+    "difficulty": "facile",
+    "min_age": 12,
+    "season": "toute l'année",
+    "provider_name": "Opérateurs locaux / guides agréés",
+    "group_size": "1-6"
+  },
+  {
+    "slug": "chefchaouen-balade-a-cheval-ou-a-dos-de-mule",
+    "city": "Chefchaouen",
+    "region": "Tanger-Tétouan-Al Hoceïma",
+    "name": "Balade à cheval ou à dos de mule",
+    "category": "Activité",
+    "subcategory": "aventure",
+    "description": "Promenade guidée sur les sentiers de montagne autour de la ville.",
+    "address": "Hauteurs de la ville, Chefchaouen, Maroc",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -5.26,
+        35.165
+      ]
+    },
+    "tags": [
+      "nature",
+      "animaux",
+      "panorama"
+    ],
+    "suitable_for": [
+      "couple",
+      "famille",
+      "solo",
+      "groupe"
+    ],
+    "activity_type": "aventure",
+    "price_mad": 250,
+    "price_level": 2,
+    "duration_hours": 2,
+    "difficulty": "facile",
+    "min_age": 8,
+    "season": "printemps-automne",
+    "provider_name": "Opérateurs locaux / guides agréés",
+    "group_size": "1-6"
+  },
+  {
+    "slug": "chefchaouen-balade-photo-dans-la-medina-bleue",
+    "city": "Chefchaouen",
+    "region": "Tanger-Tétouan-Al Hoceïma",
+    "name": "Balade photo dans la médina bleue",
+    "category": "Activité",
+    "subcategory": "culture",
+    "description": "Balade avec guide local pour repérer ruelles, portes et points de vue.",
+    "address": "Médina, Chefchaouen, Maroc",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -5.2636,
+        35.1688
+      ]
+    },
+    "tags": [
+      "photo",
+      "guide",
+      "culture"
+    ],
+    "suitable_for": [
+      "couple",
+      "solo",
+      "groupe"
+    ],
+    "activity_type": "culture",
+    "price_mad": 200,
+    "price_level": 2,
+    "duration_hours": 2,
+    "difficulty": "facile",
+    "min_age": 0,
+    "season": "toute l'année",
+    "provider_name": "Opérateurs locaux / guides agréés",
+    "group_size": "1-8"
+  },
+  {
+    "slug": "chefchaouen-degustation-de-produits-locaux-jben-miel-huile",
+    "city": "Chefchaouen",
+    "region": "Tanger-Tétouan-Al Hoceïma",
+    "name": "Dégustation de produits locaux (jben, miel, huile)",
+    "category": "Activité",
+    "subcategory": "gastronomie",
+    "description": "Découverte de fromages, miel et huile d'olive du Rif avec un producteur.",
+    "address": "Médina, Chefchaouen, Maroc",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -5.2641,
+        35.1687
+      ]
+    },
+    "tags": [
+      "terroir",
+      "gastronomie",
+      "local"
+    ],
+    "suitable_for": [
+      "couple",
+      "famille",
+      "solo",
+      "groupe"
+    ],
+    "activity_type": "gastronomie",
+    "price_mad": 120,
+    "price_level": 2,
+    "duration_hours": 1.5,
+    "difficulty": "facile",
+    "min_age": 6,
+    "season": "toute l'année",
+    "provider_name": "Opérateurs locaux / guides agréés",
+    "group_size": "2-10"
+  },
+  {
+    "slug": "agadir-cours-de-surf-a-taghazout",
+    "city": "Agadir",
+    "region": "Souss-Massa",
+    "name": "Cours de surf à Taghazout",
+    "category": "Activité",
+    "subcategory": "sport nautique",
+    "description": "Cours collectif ou privé avec moniteur et planche fournis.",
+    "address": "Taghazout, Agadir, Maroc",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -9.709,
+        30.544
+      ]
+    },
+    "tags": [
+      "surf",
+      "sport",
+      "mer"
+    ],
+    "suitable_for": [
+      "couple",
+      "solo",
+      "groupe"
+    ],
+    "activity_type": "sport nautique",
+    "price_mad": 400,
+    "price_level": 3,
+    "duration_hours": 2,
+    "difficulty": "moyenne",
+    "min_age": 8,
+    "season": "toute l'année",
+    "provider_name": "Opérateurs locaux / guides agréés",
+    "group_size": "1-8"
+  },
+  {
+    "slug": "agadir-excursion-a-paradise-valley",
+    "city": "Agadir",
+    "region": "Souss-Massa",
+    "name": "Excursion à Paradise Valley",
+    "category": "Activité",
+    "subcategory": "aventure",
+    "description": "Journée de baignade et de balade dans les vasques naturelles de la vallée.",
+    "address": "Aourir, Agadir, Maroc",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -9.47,
+        30.633
+      ]
+    },
+    "tags": [
+      "nature",
+      "baignade",
+      "excursion"
+    ],
+    "suitable_for": [
+      "couple",
+      "famille",
+      "solo",
+      "groupe"
+    ],
+    "activity_type": "aventure",
+    "price_mad": 350,
+    "price_level": 3,
+    "duration_hours": 8,
+    "difficulty": "facile",
+    "min_age": 6,
+    "season": "printemps-été",
+    "provider_name": "Opérateurs locaux / guides agréés",
+    "group_size": "2-12"
+  },
+  {
+    "slug": "agadir-quad-ou-buggy-dans-les-dunes",
+    "city": "Agadir",
+    "region": "Souss-Massa",
+    "name": "Quad ou buggy dans les dunes",
+    "category": "Activité",
+    "subcategory": "aventure",
+    "description": "Sortie en quad ou buggy sur la côte et dans les dunes proches d'Agadir.",
+    "address": "Tamraght, Agadir, Maroc",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -9.65,
+        30.52
+      ]
+    },
+    "tags": [
+      "quad",
+      "sensations",
+      "groupe"
+    ],
+    "suitable_for": [
+      "couple",
+      "solo",
+      "groupe"
+    ],
+    "activity_type": "aventure",
+    "price_mad": 400,
+    "price_level": 3,
+    "duration_hours": 2,
+    "difficulty": "moyenne",
+    "min_age": 12,
+    "season": "toute l'année",
+    "provider_name": "Opérateurs locaux / guides agréés",
+    "group_size": "1-8"
+  },
+  {
+    "slug": "agadir-balade-a-dromadaire-sur-la-plage",
+    "city": "Agadir",
+    "region": "Souss-Massa",
+    "name": "Balade à dromadaire sur la plage",
+    "category": "Activité",
+    "subcategory": "aventure",
+    "description": "Promenade à dos de dromadaire le long de la côte.",
+    "address": "Plage d'Agadir, Agadir, Maroc",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -9.62,
+        30.43
+      ]
+    },
+    "tags": [
+      "famille",
+      "animaux",
+      "photo"
+    ],
+    "suitable_for": [
+      "couple",
+      "famille",
+      "groupe"
+    ],
+    "activity_type": "aventure",
+    "price_mad": 150,
+    "price_level": 2,
+    "duration_hours": 1,
+    "difficulty": "facile",
+    "min_age": 4,
+    "season": "toute l'année",
+    "provider_name": "Opérateurs locaux / guides agréés",
+    "group_size": "1-6"
+  },
+  {
+    "slug": "agadir-hammam-et-spa",
+    "city": "Agadir",
+    "region": "Souss-Massa",
+    "name": "Hammam et spa",
+    "category": "Activité",
+    "subcategory": "détente",
+    "description": "Hammam traditionnel, gommage et massage dans un spa de la ville.",
+    "address": "Centre, Agadir, Maroc",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -9.602,
+        30.417
+      ]
+    },
+    "tags": [
+      "détente",
+      "bien-être"
+    ],
+    "suitable_for": [
+      "couple",
+      "solo"
+    ],
+    "activity_type": "détente",
+    "price_mad": 300,
+    "price_level": 2,
+    "duration_hours": 2,
+    "difficulty": "facile",
+    "min_age": 12,
+    "season": "toute l'année",
+    "provider_name": "Opérateurs locaux / guides agréés",
+    "group_size": "1-6"
+  },
+  {
+    "slug": "agadir-sortie-en-bateau-et-peche",
+    "city": "Agadir",
+    "region": "Souss-Massa",
+    "name": "Sortie en bateau et pêche",
+    "category": "Activité",
+    "subcategory": "sport nautique",
+    "description": "Excursion en mer au départ de la marina, avec pêche possible.",
+    "address": "Marina, Agadir, Maroc",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -9.6285,
+        30.4235
+      ]
+    },
+    "tags": [
+      "mer",
+      "famille",
+      "groupe"
+    ],
+    "suitable_for": [
+      "couple",
+      "famille",
+      "solo",
+      "groupe"
+    ],
+    "activity_type": "sport nautique",
+    "price_mad": 350,
+    "price_level": 3,
+    "duration_hours": 3,
+    "difficulty": "facile",
+    "min_age": 6,
+    "season": "avril-octobre",
+    "provider_name": "Opérateurs locaux / guides agréés",
+    "group_size": "4-20"
+  },
+  {
+    "slug": "essaouira-kitesurf-et-windsurf",
+    "city": "Essaouira",
+    "region": "Marrakech-Safi",
+    "name": "Kitesurf et windsurf",
+    "category": "Activité",
+    "subcategory": "sport nautique",
+    "description": "Cours et location de matériel sur l'une des meilleures plages à vent du Maroc.",
+    "address": "Plage d'Essaouira, Essaouira, Maroc",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -9.77,
+        31.5
+      ]
+    },
+    "tags": [
+      "kitesurf",
+      "sport",
+      "mer"
+    ],
+    "suitable_for": [
+      "solo",
+      "groupe"
+    ],
+    "activity_type": "sport nautique",
+    "price_mad": 450,
+    "price_level": 3,
+    "duration_hours": 2,
+    "difficulty": "moyenne",
+    "min_age": 12,
+    "season": "avril-octobre",
+    "provider_name": "Opérateurs locaux / guides agréés",
+    "group_size": "1-6"
+  },
+  {
+    "slug": "essaouira-balade-a-cheval-ou-dromadaire",
+    "city": "Essaouira",
+    "region": "Marrakech-Safi",
+    "name": "Balade à cheval ou dromadaire",
+    "category": "Activité",
+    "subcategory": "aventure",
+    "description": "Promenade sur la plage et les dunes de Sidi Kaouki.",
+    "address": "Sidi Kaouki, Essaouira, Maroc",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -9.78,
+        31.35
+      ]
+    },
+    "tags": [
+      "famille",
+      "nature",
+      "animaux"
+    ],
+    "suitable_for": [
+      "couple",
+      "famille",
+      "solo",
+      "groupe"
+    ],
+    "activity_type": "aventure",
+    "price_mad": 250,
+    "price_level": 2,
+    "duration_hours": 2,
+    "difficulty": "facile",
+    "min_age": 6,
+    "season": "toute l'année",
+    "provider_name": "Opérateurs locaux / guides agréés",
+    "group_size": "1-8"
+  },
+  {
+    "slug": "essaouira-cours-de-cuisine-marocaine",
+    "city": "Essaouira",
+    "region": "Marrakech-Safi",
+    "name": "Cours de cuisine marocaine",
+    "category": "Activité",
+    "subcategory": "gastronomie",
+    "description": "Atelier avec visite de marché et dégustation de tajine et pastilla de poisson.",
+    "address": "Médina, Essaouira, Maroc",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -9.77,
+        31.512
+      ]
+    },
+    "tags": [
+      "cuisine",
+      "marché",
+      "dégustation"
+    ],
+    "suitable_for": [
+      "couple",
+      "famille",
+      "solo",
+      "groupe"
+    ],
+    "activity_type": "gastronomie",
+    "price_mad": 450,
+    "price_level": 3,
+    "duration_hours": 3,
+    "difficulty": "facile",
+    "min_age": 10,
+    "season": "toute l'année",
+    "provider_name": "Opérateurs locaux / guides agréés",
+    "group_size": "2-10"
+  },
+  {
+    "slug": "essaouira-atelier-de-marqueterie-de-thuya",
+    "city": "Essaouira",
+    "region": "Marrakech-Safi",
+    "name": "Atelier de marqueterie de thuya",
+    "category": "Activité",
+    "subcategory": "culture",
+    "description": "Initiation à l'art du bois de thuya avec un artisan de la médina.",
+    "address": "Médina, Essaouira, Maroc",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -9.771,
+        31.512
+      ]
+    },
+    "tags": [
+      "artisanat",
+      "culture",
+      "famille"
+    ],
+    "suitable_for": [
+      "couple",
+      "famille",
+      "solo",
+      "groupe"
+    ],
+    "activity_type": "culture",
+    "price_mad": 200,
+    "price_level": 2,
+    "duration_hours": 2,
+    "difficulty": "facile",
+    "min_age": 8,
+    "season": "toute l'année",
+    "provider_name": "Opérateurs locaux / guides agréés",
+    "group_size": "1-6"
+  },
+  {
+    "slug": "essaouira-visite-d-une-cooperative-d-argan",
+    "city": "Essaouira",
+    "region": "Marrakech-Safi",
+    "name": "Visite d'une coopérative d'argan",
+    "category": "Activité",
+    "subcategory": "culture",
+    "description": "Découverte de la fabrication de l'huile d'argan par les coopératives de femmes.",
+    "address": "Route de Marrakech, Essaouira, Maroc",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -9.68,
+        31.43
+      ]
+    },
+    "tags": [
+      "argan",
+      "culture",
+      "terroir"
+    ],
+    "suitable_for": [
+      "couple",
+      "famille",
+      "solo",
+      "groupe"
+    ],
+    "activity_type": "culture",
+    "price_mad": 100,
+    "price_level": 1,
+    "duration_hours": 1.5,
+    "difficulty": "facile",
+    "min_age": 0,
+    "season": "toute l'année",
+    "provider_name": "Opérateurs locaux / guides agréés",
+    "group_size": "2-20"
+  },
+  {
+    "slug": "essaouira-hammam-traditionnel",
+    "city": "Essaouira",
+    "region": "Marrakech-Safi",
+    "name": "Hammam traditionnel",
+    "category": "Activité",
+    "subcategory": "détente",
+    "description": "Hammam avec gommage au savon noir et massage.",
+    "address": "Médina, Essaouira, Maroc",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -9.769,
+        31.512
+      ]
+    },
+    "tags": [
+      "détente",
+      "bien-être"
+    ],
+    "suitable_for": [
+      "couple",
+      "solo"
+    ],
+    "activity_type": "détente",
+    "price_mad": 150,
+    "price_level": 2,
+    "duration_hours": 1.5,
+    "difficulty": "facile",
+    "min_age": 12,
+    "season": "toute l'année",
+    "provider_name": "Opérateurs locaux / guides agréés",
+    "group_size": "1-6"
+  },
+  {
+    "slug": "ouarzazate-excursion-ait-ben-haddou-et-studios",
+    "city": "Ouarzazate",
+    "region": "Drâa-Tafilalet",
+    "name": "Excursion Aït Ben Haddou et studios",
+    "category": "Activité",
+    "subcategory": "culture",
+    "description": "Journée pour visiter le ksar, une kasbah et un studio de cinéma.",
+    "address": "Aït Ben Haddou, Ouarzazate, Maroc",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -7.13,
+        31.0472
+      ]
+    },
+    "tags": [
+      "excursion",
+      "cinéma",
+      "culture"
+    ],
+    "suitable_for": [
+      "couple",
+      "famille",
+      "solo",
+      "groupe"
+    ],
+    "activity_type": "culture",
+    "price_mad": 450,
+    "price_level": 3,
+    "duration_hours": 8,
+    "difficulty": "facile",
+    "min_age": 0,
+    "season": "toute l'année",
+    "provider_name": "Opérateurs locaux / guides agréés",
+    "group_size": "2-12"
+  },
+  {
+    "slug": "ouarzazate-circuit-de-la-vallee-du-draa",
+    "city": "Ouarzazate",
+    "region": "Drâa-Tafilalet",
+    "name": "Circuit de la vallée du Drâa",
+    "category": "Activité",
+    "subcategory": "aventure",
+    "description": "Route des palmeraies et des kasbahs jusqu'aux portes du désert.",
+    "address": "Agdz, Ouarzazate, Maroc",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -6.45,
+        30.71
+      ]
+    },
+    "tags": [
+      "excursion",
+      "palmeraie",
+      "kasbah"
+    ],
+    "suitable_for": [
+      "couple",
+      "solo",
+      "groupe"
+    ],
+    "activity_type": "aventure",
+    "price_mad": 700,
+    "price_level": 4,
+    "duration_hours": 10,
+    "difficulty": "facile",
+    "min_age": 6,
+    "season": "printemps-automne",
+    "provider_name": "Opérateurs locaux / guides agréés",
+    "group_size": "2-12"
+  },
+  {
+    "slug": "ouarzazate-nuit-dans-le-desert",
+    "city": "Ouarzazate",
+    "region": "Drâa-Tafilalet",
+    "name": "Nuit dans le désert",
+    "category": "Activité",
+    "subcategory": "aventure",
+    "description": "Excursion de deux jours avec balade à dromadaire et nuit sous les étoiles.",
+    "address": "Désert (Merzouga ou Chegaga), Ouarzazate, Maroc",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -5.8,
+        30.0
+      ]
+    },
+    "tags": [
+      "désert",
+      "dromadaire",
+      "étoiles"
+    ],
+    "suitable_for": [
+      "couple",
+      "solo",
+      "groupe"
+    ],
+    "activity_type": "aventure",
+    "price_mad": 1500,
+    "price_level": 4,
+    "duration_hours": 48,
+    "difficulty": "moyenne",
+    "min_age": 6,
+    "season": "octobre-avril",
+    "provider_name": "Opérateurs locaux / guides agréés",
+    "group_size": "2-12"
+  },
+  {
+    "slug": "ouarzazate-randonnee-a-velo-a-skoura",
+    "city": "Ouarzazate",
+    "region": "Drâa-Tafilalet",
+    "name": "Randonnée à vélo à Skoura",
+    "category": "Activité",
+    "subcategory": "aventure",
+    "description": "Balade dans la palmeraie de Skoura, entre jardins et kasbahs.",
+    "address": "Skoura, Ouarzazate, Maroc",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -6.56,
+        31.057
+      ]
+    },
+    "tags": [
+      "vélo",
+      "nature",
+      "kasbah"
+    ],
+    "suitable_for": [
+      "couple",
+      "solo",
+      "groupe"
+    ],
+    "activity_type": "aventure",
+    "price_mad": 250,
+    "price_level": 2,
+    "duration_hours": 3,
+    "difficulty": "facile",
+    "min_age": 10,
+    "season": "printemps-automne",
+    "provider_name": "Opérateurs locaux / guides agréés",
+    "group_size": "1-8"
+  },
+  {
+    "slug": "ouarzazate-cours-de-cuisine-marocaine",
+    "city": "Ouarzazate",
+    "region": "Drâa-Tafilalet",
+    "name": "Cours de cuisine marocaine",
+    "category": "Activité",
+    "subcategory": "gastronomie",
+    "description": "Atelier de cuisine avec tajine et pain traditionnel.",
+    "address": "Centre, Ouarzazate, Maroc",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -6.894,
+        30.92
+      ]
+    },
+    "tags": [
+      "cuisine",
+      "dégustation"
+    ],
+    "suitable_for": [
+      "couple",
+      "famille",
+      "solo",
+      "groupe"
+    ],
+    "activity_type": "gastronomie",
+    "price_mad": 400,
+    "price_level": 3,
+    "duration_hours": 3,
+    "difficulty": "facile",
+    "min_age": 10,
+    "season": "toute l'année",
+    "provider_name": "Opérateurs locaux / guides agréés",
+    "group_size": "2-10"
+  },
+  {
+    "slug": "ouarzazate-excursion-en-4x4-vers-le-tizi-n-tichka",
+    "city": "Ouarzazate",
+    "region": "Drâa-Tafilalet",
+    "name": "Excursion en 4x4 vers le Tizi n'Tichka",
+    "category": "Activité",
+    "subcategory": "aventure",
+    "description": "Route de montagne en 4x4, villages berbères et panoramas du Haut Atlas.",
+    "address": "Haut Atlas, Ouarzazate, Maroc",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -7.36,
+        31.32
+      ]
+    },
+    "tags": [
+      "montagne",
+      "4x4",
+      "paysages"
+    ],
+    "suitable_for": [
+      "couple",
+      "solo",
+      "groupe"
+    ],
+    "activity_type": "aventure",
+    "price_mad": 800,
+    "price_level": 4,
+    "duration_hours": 10,
+    "difficulty": "facile",
+    "min_age": 6,
+    "season": "été-automne",
+    "provider_name": "Opérateurs locaux / guides agréés",
+    "group_size": "2-6"
+  },
+  {
+    "city": "Marrakech",
+    "region": "Marrakech-Safi",
+    "name": "Hammam traditionnel",
+    "category": "Activité",
+    "description": "Bain de vapeur avec gommage au savon noir, en hammam public ou en spa.",
+    "tags": [
+      "détente",
+      "tradition"
+    ],
+    "activity_type": "détente",
+    "duration_hours": 1.5,
+    "season": null,
+    "slug": "marrakech-hammam-traditionnel"
+  },
+  {
+    "city": "Marrakech",
+    "region": "Marrakech-Safi",
+    "name": "Cours de cuisine marocaine",
+    "category": "Activité",
+    "description": "Atelier avec visite du marché, tajine et salades marocaines.",
+    "tags": [
+      "cuisine",
+      "famille"
+    ],
+    "activity_type": "gastronomie",
+    "duration_hours": 4,
+    "season": null,
+    "slug": "marrakech-cours-de-cuisine-marocaine"
+  },
+  {
+    "city": "Marrakech",
+    "region": "Marrakech-Safi",
+    "name": "Vol en montgolfière",
+    "category": "Activité",
+    "description": "Vol au lever du soleil au-dessus de la Palmeraie et de la plaine.",
+    "tags": [
+      "aventure",
+      "romantique"
+    ],
+    "activity_type": "aventure",
+    "duration_hours": 3,
+    "season": null,
+    "slug": "marrakech-vol-en-montgolfiere"
+  },
+  {
+    "city": "Marrakech",
+    "region": "Marrakech-Safi",
+    "name": "Quad dans la Palmeraie",
+    "category": "Activité",
+    "description": "Balade en quad ou en buggy dans la Palmeraie.",
+    "tags": [
+      "aventure",
+      "groupe"
+    ],
+    "activity_type": "aventure",
+    "duration_hours": 2,
+    "season": null,
+    "slug": "marrakech-quad-dans-la-palmeraie"
+  },
+  {
+    "city": "Marrakech",
+    "region": "Marrakech-Safi",
+    "name": "Excursion à la vallée de l'Ourika",
+    "category": "Activité",
+    "description": "Journée dans l'Atlas avec villages berbères, cascades et randonnée.",
+    "tags": [
+      "nature",
+      "excursion"
+    ],
+    "activity_type": "culture",
+    "duration_hours": 8,
+    "season": null,
+    "slug": "marrakech-excursion-a-la-vallee-de-l-ourika"
+  },
+  {
+    "city": "Fès",
+    "region": "Fès-Meknès",
+    "name": "Visite guidée de la médina",
+    "category": "Activité",
+    "description": "Parcours guidé dans Fès el-Bali : medersas, souks, tanneries.",
+    "tags": [
+      "culture",
+      "médina"
+    ],
+    "activity_type": "culture",
+    "duration_hours": 4,
+    "season": null,
+    "slug": "fes-visite-guidee-de-la-medina"
+  },
+  {
+    "city": "Fès",
+    "region": "Fès-Meknès",
+    "name": "Cours de cuisine à Fès",
+    "category": "Activité",
+    "description": "Atelier de cuisine fassie, avec la pastilla pour spécialité.",
+    "tags": [
+      "cuisine"
+    ],
+    "activity_type": "gastronomie",
+    "duration_hours": 4,
+    "season": null,
+    "slug": "fes-cours-de-cuisine-a-fes"
+  },
+  {
+    "city": "Meknès",
+    "region": "Fès-Meknès",
+    "name": "Excursion à Volubilis et Moulay Idriss",
+    "category": "Activité",
+    "description": "Demi-journée ou journée : ruines romaines et ville sainte de Moulay Idriss Zerhoun.",
+    "tags": [
+      "excursion",
+      "histoire"
+    ],
+    "activity_type": "culture",
+    "duration_hours": 6,
+    "season": null,
+    "slug": "meknes-excursion-a-volubilis-et-moulay-idriss"
+  }
+]

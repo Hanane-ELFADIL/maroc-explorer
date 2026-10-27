@@ -1,0 +1,4054 @@
+[
+  {
+    "slug": "tanger-cap-spartel",
+    "city": "Tanger",
+    "region": "Tanger-Tétouan-Al Hoceïma",
+    "name": "Cap Spartel",
+    "category": "Point de vue",
+    "subcategory": "Cap et phare",
+    "description": "Pointe nord-ouest de l'Afrique où l'Atlantique rencontre la Méditerranée, dominée par un phare et de larges panoramas.",
+    "address": "Cap Spartel, Tanger, Maroc",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -5.9208,
+        35.7922
+      ]
+    },
+    "opening_hours": "24h/24",
+    "tags": [
+      "photo",
+      "nature",
+      "gratuit",
+      "panorama"
+    ],
+    "suitable_for": [
+      "couple",
+      "famille",
+      "solo",
+      "groupe"
+    ],
+    "entry_price_mad": {
+      "adult": 0,
+      "child": 0,
+      "foreigner": 0
+    },
+    "price_level": 1,
+    "visit_duration_min": 60,
+    "best_time_to_visit": "toute l'année, coucher du soleil",
+    "accessibility": "partielle",
+    "guided_tour_available": false,
+    "indoor_outdoor": "extérieur"
+  },
+  {
+    "slug": "tanger-grottes-d-hercule",
+    "city": "Tanger",
+    "region": "Tanger-Tétouan-Al Hoceïma",
+    "name": "Grottes d'Hercule",
+    "category": "Site naturel",
+    "subcategory": "Grotte marine",
+    "description": "Grottes creusées par la mer dont l'ouverture sur l'océan évoque la forme de la carte de l'Afrique.",
+    "address": "Route du Cap Spartel, Tanger, Maroc",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -5.9393,
+        35.7608
+      ]
+    },
+    "opening_hours": "9h-18h",
+    "tags": [
+      "famille",
+      "photo",
+      "légende",
+      "nature"
+    ],
+    "suitable_for": [
+      "couple",
+      "famille",
+      "solo",
+      "groupe"
+    ],
+    "entry_price_mad": {
+      "adult": 10,
+      "child": 5,
+      "foreigner": 10
+    },
+    "price_level": 2,
+    "visit_duration_min": 45,
+    "best_time_to_visit": "toute l'année, matin",
+    "accessibility": "limitée",
+    "guided_tour_available": false,
+    "indoor_outdoor": "mixte"
+  },
+  {
+    "slug": "tanger-medina-de-tanger",
+    "city": "Tanger",
+    "region": "Tanger-Tétouan-Al Hoceïma",
+    "name": "Médina de Tanger",
+    "category": "Médina",
+    "subcategory": "Médina historique",
+    "description": "Médina en pente entre port et Kasbah, mélange d'influences marocaines, espagnoles et internationales.",
+    "address": "Médina, Tanger, Maroc",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -5.8135,
+        35.7875
+      ]
+    },
+    "opening_hours": "24h/24",
+    "tags": [
+      "culture",
+      "ruelles",
+      "photo",
+      "gratuit"
+    ],
+    "suitable_for": [
+      "couple",
+      "famille",
+      "solo",
+      "groupe"
+    ],
+    "entry_price_mad": {
+      "adult": 0,
+      "child": 0,
+      "foreigner": 0
+    },
+    "price_level": 1,
+    "visit_duration_min": 180,
+    "best_time_to_visit": "printemps et automne",
+    "accessibility": "limitée",
+    "guided_tour_available": true,
+    "indoor_outdoor": "extérieur"
+  },
+  {
+    "slug": "tanger-kasbah-de-tanger",
+    "city": "Tanger",
+    "region": "Tanger-Tétouan-Al Hoceïma",
+    "name": "Kasbah de Tanger",
+    "category": "Monument",
+    "subcategory": "Forteresse",
+    "description": "Forteresse surplombant le détroit de Gibraltar, avec ses portes, ses terrasses et ses vues sur la mer.",
+    "address": "Kasbah, Tanger, Maroc",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -5.8133,
+        35.7888
+      ]
+    },
+    "opening_hours": "24h/24",
+    "tags": [
+      "histoire",
+      "panorama",
+      "photo"
+    ],
+    "suitable_for": [
+      "couple",
+      "famille",
+      "solo",
+      "groupe"
+    ],
+    "entry_price_mad": {
+      "adult": 0,
+      "child": 0,
+      "foreigner": 0
+    },
+    "price_level": 1,
+    "visit_duration_min": 60,
+    "best_time_to_visit": "toute l'année",
+    "accessibility": "limitée",
+    "guided_tour_available": true,
+    "indoor_outdoor": "extérieur"
+  },
+  {
+    "slug": "tanger-musee-de-la-kasbah-dar-el-makhzen",
+    "city": "Tanger",
+    "region": "Tanger-Tétouan-Al Hoceïma",
+    "name": "Musée de la Kasbah (Dar el Makhzen)",
+    "category": "Musée",
+    "subcategory": "Arts et archéologie",
+    "description": "Ancien palais du sultan abritant des collections archéologiques et d'arts marocains autour d'un riad-jardin.",
+    "address": "Kasbah, Tanger, Maroc",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -5.8128,
+        35.7885
+      ]
+    },
+    "opening_hours": "9h-16h (fermé mardi)",
+    "tags": [
+      "culture",
+      "histoire",
+      "patrimoine"
+    ],
+    "suitable_for": [
+      "couple",
+      "famille",
+      "solo",
+      "groupe"
+    ],
+    "entry_price_mad": {
+      "adult": 20,
+      "child": 10,
+      "foreigner": 20
+    },
+    "price_level": 2,
+    "visit_duration_min": 75,
+    "best_time_to_visit": "toute l'année",
+    "accessibility": "limitée",
+    "guided_tour_available": false,
+    "indoor_outdoor": "intérieur"
+  },
+  {
+    "slug": "tanger-grand-socco",
+    "city": "Tanger",
+    "region": "Tanger-Tétouan-Al Hoceïma",
+    "name": "Grand Socco",
+    "category": "Place",
+    "subcategory": "Place publique",
+    "description": "Place animée entre médina et ville nouvelle, avec marché de produits locaux et escaliers menant au Petit Socco.",
+    "address": "Centre, Tanger, Maroc",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -5.8105,
+        35.786
+      ]
+    },
+    "opening_hours": "24h/24",
+    "tags": [
+      "marché",
+      "animation",
+      "gratuit"
+    ],
+    "suitable_for": [
+      "couple",
+      "famille",
+      "solo",
+      "groupe"
+    ],
+    "entry_price_mad": {
+      "adult": 0,
+      "child": 0,
+      "foreigner": 0
+    },
+    "price_level": 1,
+    "visit_duration_min": 45,
+    "best_time_to_visit": "toute l'année",
+    "accessibility": "bonne",
+    "guided_tour_available": false,
+    "indoor_outdoor": "extérieur"
+  },
+  {
+    "slug": "tanger-petit-socco",
+    "city": "Tanger",
+    "region": "Tanger-Tétouan-Al Hoceïma",
+    "name": "Petit Socco",
+    "category": "Place",
+    "subcategory": "Place historique",
+    "description": "Petite place au cœur de la médina, historiquement fréquentée par écrivains et voyageurs.",
+    "address": "Médina, Tanger, Maroc",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -5.8125,
+        35.7873
+      ]
+    },
+    "opening_hours": "24h/24",
+    "tags": [
+      "littérature",
+      "cafés",
+      "histoire"
+    ],
+    "suitable_for": [
+      "couple",
+      "solo",
+      "groupe"
+    ],
+    "entry_price_mad": {
+      "adult": 0,
+      "child": 0,
+      "foreigner": 0
+    },
+    "price_level": 1,
+    "visit_duration_min": 30,
+    "best_time_to_visit": "toute l'année",
+    "accessibility": "partielle",
+    "guided_tour_available": false,
+    "indoor_outdoor": "extérieur"
+  },
+  {
+    "slug": "tanger-legation-americaine-musee",
+    "city": "Tanger",
+    "region": "Tanger-Tétouan-Al Hoceïma",
+    "name": "Légation américaine (musée)",
+    "category": "Musée",
+    "subcategory": "Musée d'histoire",
+    "description": "Premier bien immobilier des États-Unis à l'étranger, aujourd'hui musée sur les relations maroco-américaines.",
+    "address": "Médina, Tanger, Maroc",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -5.8132,
+        35.7878
+      ]
+    },
+    "opening_hours": "10h-17h (variable)",
+    "tags": [
+      "histoire",
+      "culture",
+      "gratuit"
+    ],
+    "suitable_for": [
+      "couple",
+      "solo",
+      "groupe"
+    ],
+    "entry_price_mad": {
+      "adult": 0,
+      "child": 0,
+      "foreigner": 0
+    },
+    "price_level": 1,
+    "visit_duration_min": 60,
+    "best_time_to_visit": "toute l'année",
+    "accessibility": "limitée",
+    "guided_tour_available": false,
+    "indoor_outdoor": "intérieur"
+  },
+  {
+    "slug": "tanger-jardin-de-la-mendoubia",
+    "city": "Tanger",
+    "region": "Tanger-Tétouan-Al Hoceïma",
+    "name": "Jardin de la Mendoubia",
+    "category": "Jardin",
+    "subcategory": "Jardin public",
+    "description": "Jardin urbain ombragé abritant de grands arbres centenaires, à deux pas de la médina.",
+    "address": "Centre, Tanger, Maroc",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -5.8133,
+        35.786
+      ]
+    },
+    "opening_hours": "8h-18h",
+    "tags": [
+      "détente",
+      "gratuit",
+      "famille",
+      "ombre"
+    ],
+    "suitable_for": [
+      "couple",
+      "famille",
+      "solo"
+    ],
+    "entry_price_mad": {
+      "adult": 0,
+      "child": 0,
+      "foreigner": 0
+    },
+    "price_level": 1,
+    "visit_duration_min": 40,
+    "best_time_to_visit": "printemps",
+    "accessibility": "bonne",
+    "guided_tour_available": false,
+    "indoor_outdoor": "extérieur"
+  },
+  {
+    "slug": "tanger-foret-diplomatique",
+    "city": "Tanger",
+    "region": "Tanger-Tétouan-Al Hoceïma",
+    "name": "Forêt diplomatique",
+    "category": "Jardin",
+    "subcategory": "Forêt / espace vert",
+    "description": "Vaste forêt d'eucalyptus et de pins en bord de mer, idéale pour marche, vélo et pique-nique.",
+    "address": "Route de Cap Spartel, Tanger, Maroc",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -5.873,
+        35.801
+      ]
+    },
+    "opening_hours": "24h/24",
+    "tags": [
+      "nature",
+      "promenade",
+      "gratuit",
+      "pique-nique"
+    ],
+    "suitable_for": [
+      "couple",
+      "famille",
+      "groupe"
+    ],
+    "entry_price_mad": {
+      "adult": 0,
+      "child": 0,
+      "foreigner": 0
+    },
+    "price_level": 1,
+    "visit_duration_min": 90,
+    "best_time_to_visit": "printemps et automne",
+    "accessibility": "partielle",
+    "guided_tour_available": false,
+    "indoor_outdoor": "extérieur"
+  },
+  {
+    "slug": "tanger-parc-perdicaris-rmilat",
+    "city": "Tanger",
+    "region": "Tanger-Tétouan-Al Hoceïma",
+    "name": "Parc Perdicaris (Rmilat)",
+    "category": "Jardin",
+    "subcategory": "Parc forestier",
+    "description": "Parc boisé de la colline de Rmilat, offrant des sentiers et des points de vue sur le détroit.",
+    "address": "Rmilat, Tanger, Maroc",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -5.8573,
+        35.7978
+      ]
+    },
+    "opening_hours": "9h-18h",
+    "tags": [
+      "nature",
+      "vue",
+      "calme",
+      "gratuit"
+    ],
+    "suitable_for": [
+      "couple",
+      "famille",
+      "solo",
+      "groupe"
+    ],
+    "entry_price_mad": {
+      "adult": 0,
+      "child": 0,
+      "foreigner": 0
+    },
+    "price_level": 1,
+    "visit_duration_min": 90,
+    "best_time_to_visit": "printemps",
+    "accessibility": "partielle",
+    "guided_tour_available": false,
+    "indoor_outdoor": "extérieur"
+  },
+  {
+    "slug": "tanger-plage-de-tanger-baie",
+    "city": "Tanger",
+    "region": "Tanger-Tétouan-Al Hoceïma",
+    "name": "Plage de Tanger (baie)",
+    "category": "Plage",
+    "subcategory": "Plage urbaine",
+    "description": "Longue plage urbaine de sable bordée par la promenade de la baie, très fréquentée en été.",
+    "address": "Baie de Tanger, Tanger, Maroc",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -5.795,
+        35.785
+      ]
+    },
+    "opening_hours": "24h/24",
+    "tags": [
+      "plage",
+      "promenade",
+      "gratuit"
+    ],
+    "suitable_for": [
+      "couple",
+      "famille",
+      "groupe"
+    ],
+    "entry_price_mad": {
+      "adult": 0,
+      "child": 0,
+      "foreigner": 0
+    },
+    "price_level": 1,
+    "visit_duration_min": 120,
+    "best_time_to_visit": "été (juin-septembre)",
+    "accessibility": "bonne",
+    "guided_tour_available": false,
+    "indoor_outdoor": "extérieur"
+  },
+  {
+    "slug": "tanger-plage-achakar",
+    "city": "Tanger",
+    "region": "Tanger-Tétouan-Al Hoceïma",
+    "name": "Plage Achakar",
+    "category": "Plage",
+    "subcategory": "Plage sauvage",
+    "description": "Grande plage atlantique à proximité des grottes d'Hercule, plus sauvage et moins aménagée.",
+    "address": "Route des Grottes, Tanger, Maroc",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -5.9338,
+        35.7576
+      ]
+    },
+    "opening_hours": "24h/24",
+    "tags": [
+      "plage",
+      "nature",
+      "calme",
+      "gratuit"
+    ],
+    "suitable_for": [
+      "couple",
+      "famille",
+      "groupe"
+    ],
+    "entry_price_mad": {
+      "adult": 0,
+      "child": 0,
+      "foreigner": 0
+    },
+    "price_level": 1,
+    "visit_duration_min": 120,
+    "best_time_to_visit": "été",
+    "accessibility": "limitée",
+    "guided_tour_available": false,
+    "indoor_outdoor": "extérieur"
+  },
+  {
+    "slug": "tanger-cap-malabata",
+    "city": "Tanger",
+    "region": "Tanger-Tétouan-Al Hoceïma",
+    "name": "Cap Malabata",
+    "category": "Point de vue",
+    "subcategory": "Cap et phare",
+    "description": "Pointe orientale de la baie, avec phare et belvédère face à l'Europe.",
+    "address": "Route de Ceuta, Tanger, Maroc",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -5.738,
+        35.801
+      ]
+    },
+    "opening_hours": "24h/24",
+    "tags": [
+      "panorama",
+      "photo",
+      "coucher-soleil",
+      "gratuit"
+    ],
+    "suitable_for": [
+      "couple",
+      "famille",
+      "solo",
+      "groupe"
+    ],
+    "entry_price_mad": {
+      "adult": 0,
+      "child": 0,
+      "foreigner": 0
+    },
+    "price_level": 1,
+    "visit_duration_min": 45,
+    "best_time_to_visit": "toute l'année",
+    "accessibility": "partielle",
+    "guided_tour_available": false,
+    "indoor_outdoor": "extérieur"
+  },
+  {
+    "slug": "tanger-cinematheque-de-tanger",
+    "city": "Tanger",
+    "region": "Tanger-Tétouan-Al Hoceïma",
+    "name": "Cinémathèque de Tanger",
+    "category": "Musée",
+    "subcategory": "Cinémathèque",
+    "description": "Ancien cinéma Rif réhabilité, lieu culturel avec projections et café en terrasse sur le Grand Socco.",
+    "address": "Grand Socco, Tanger, Maroc",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -5.81,
+        35.786
+      ]
+    },
+    "opening_hours": "selon programmation",
+    "tags": [
+      "cinéma",
+      "culture",
+      "café"
+    ],
+    "suitable_for": [
+      "couple",
+      "solo",
+      "groupe"
+    ],
+    "entry_price_mad": {
+      "adult": 40,
+      "child": 20,
+      "foreigner": 40
+    },
+    "price_level": 3,
+    "visit_duration_min": 120,
+    "best_time_to_visit": "toute l'année",
+    "accessibility": "bonne",
+    "guided_tour_available": false,
+    "indoor_outdoor": "intérieur"
+  },
+  {
+    "slug": "rabat-tour-hassan",
+    "city": "Rabat",
+    "region": "Rabat-Salé-Kénitra",
+    "name": "Tour Hassan",
+    "category": "Monument",
+    "subcategory": "Minaret inachevé",
+    "description": "Minaret inachevé du XIIe siècle, entouré de colonnes, emblème de la capitale.",
+    "address": "Centre, Rabat, Maroc",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -6.8222,
+        34.0245
+      ]
+    },
+    "opening_hours": "24h/24",
+    "tags": [
+      "histoire",
+      "photo",
+      "gratuit",
+      "symbole"
+    ],
+    "suitable_for": [
+      "couple",
+      "famille",
+      "solo",
+      "groupe"
+    ],
+    "entry_price_mad": {
+      "adult": 0,
+      "child": 0,
+      "foreigner": 0
+    },
+    "price_level": 1,
+    "visit_duration_min": 45,
+    "best_time_to_visit": "toute l'année",
+    "accessibility": "bonne",
+    "guided_tour_available": false,
+    "indoor_outdoor": "extérieur"
+  },
+  {
+    "slug": "rabat-mausolee-mohammed-v",
+    "city": "Rabat",
+    "region": "Rabat-Salé-Kénitra",
+    "name": "Mausolée Mohammed V",
+    "category": "Monument",
+    "subcategory": "Mausolée royal",
+    "description": "Mausolée en marbre blanc et zellige où reposent Mohammed V et Hassan II, gardé par la garde royale.",
+    "address": "Centre, Rabat, Maroc",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -6.8219,
+        34.0241
+      ]
+    },
+    "opening_hours": "9h-18h",
+    "tags": [
+      "histoire",
+      "architecture",
+      "gratuit"
+    ],
+    "suitable_for": [
+      "couple",
+      "famille",
+      "solo",
+      "groupe"
+    ],
+    "entry_price_mad": {
+      "adult": 0,
+      "child": 0,
+      "foreigner": 0
+    },
+    "price_level": 1,
+    "visit_duration_min": 45,
+    "best_time_to_visit": "matin",
+    "accessibility": "bonne",
+    "guided_tour_available": false,
+    "indoor_outdoor": "mixte"
+  },
+  {
+    "slug": "rabat-kasbah-des-oudayas",
+    "city": "Rabat",
+    "region": "Rabat-Salé-Kénitra",
+    "name": "Kasbah des Oudayas",
+    "category": "Monument",
+    "subcategory": "Forteresse",
+    "description": "Forteresse almohade aux ruelles blanches et bleues dominant l'embouchure du Bouregreg et l'Atlantique.",
+    "address": "Oudayas, Rabat, Maroc",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -6.8364,
+        34.0314
+      ]
+    },
+    "opening_hours": "24h/24",
+    "tags": [
+      "bleu",
+      "histoire",
+      "photo",
+      "panorama"
+    ],
+    "suitable_for": [
+      "couple",
+      "famille",
+      "solo",
+      "groupe"
+    ],
+    "entry_price_mad": {
+      "adult": 0,
+      "child": 0,
+      "foreigner": 0
+    },
+    "price_level": 1,
+    "visit_duration_min": 90,
+    "best_time_to_visit": "toute l'année",
+    "accessibility": "limitée",
+    "guided_tour_available": true,
+    "indoor_outdoor": "extérieur"
+  },
+  {
+    "slug": "rabat-jardin-andalou-oudayas",
+    "city": "Rabat",
+    "region": "Rabat-Salé-Kénitra",
+    "name": "Jardin andalou (Oudayas)",
+    "category": "Jardin",
+    "subcategory": "Jardin historique",
+    "description": "Jardin de style hispano-mauresque au sein des Oudayas, avec orangers, fontaines et vue sur la mer.",
+    "address": "Oudayas, Rabat, Maroc",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -6.8358,
+        34.0318
+      ]
+    },
+    "opening_hours": "8h-18h",
+    "tags": [
+      "calme",
+      "romantique",
+      "photo"
+    ],
+    "suitable_for": [
+      "couple",
+      "famille",
+      "solo"
+    ],
+    "entry_price_mad": {
+      "adult": 10,
+      "child": 5,
+      "foreigner": 10
+    },
+    "price_level": 2,
+    "visit_duration_min": 45,
+    "best_time_to_visit": "printemps",
+    "accessibility": "partielle",
+    "guided_tour_available": false,
+    "indoor_outdoor": "extérieur"
+  },
+  {
+    "slug": "rabat-necropole-du-chellah",
+    "city": "Rabat",
+    "region": "Rabat-Salé-Kénitra",
+    "name": "Nécropole du Chellah",
+    "category": "Monument",
+    "subcategory": "Site archéologique",
+    "description": "Site romain puis mérinide avec ruines, minaret et jardin où nichent des cigognes.",
+    "address": "Chellah, Rabat, Maroc",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -6.8214,
+        34.0067
+      ]
+    },
+    "opening_hours": "8h30-17h30",
+    "tags": [
+      "histoire",
+      "cigognes",
+      "romain",
+      "nature"
+    ],
+    "suitable_for": [
+      "couple",
+      "famille",
+      "solo",
+      "groupe"
+    ],
+    "entry_price_mad": {
+      "adult": 10,
+      "child": 5,
+      "foreigner": 70
+    },
+    "price_level": 3,
+    "visit_duration_min": 90,
+    "best_time_to_visit": "printemps",
+    "accessibility": "limitée",
+    "guided_tour_available": true,
+    "indoor_outdoor": "extérieur"
+  },
+  {
+    "slug": "rabat-medina-de-rabat",
+    "city": "Rabat",
+    "region": "Rabat-Salé-Kénitra",
+    "name": "Médina de Rabat",
+    "category": "Médina",
+    "subcategory": "Médina historique",
+    "description": "Médina de la capitale, plus calme que d'autres villes impériales, avec boutiques d'artisanat et tapis.",
+    "address": "Médina, Rabat, Maroc",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -6.8365,
+        34.021
+      ]
+    },
+    "opening_hours": "24h/24",
+    "tags": [
+      "souk",
+      "culture",
+      "artisanat",
+      "gratuit"
+    ],
+    "suitable_for": [
+      "couple",
+      "famille",
+      "solo",
+      "groupe"
+    ],
+    "entry_price_mad": {
+      "adult": 0,
+      "child": 0,
+      "foreigner": 0
+    },
+    "price_level": 1,
+    "visit_duration_min": 120,
+    "best_time_to_visit": "toute l'année",
+    "accessibility": "partielle",
+    "guided_tour_available": true,
+    "indoor_outdoor": "extérieur"
+  },
+  {
+    "slug": "rabat-rue-des-consuls",
+    "city": "Rabat",
+    "region": "Rabat-Salé-Kénitra",
+    "name": "Rue des Consuls",
+    "category": "Souk",
+    "subcategory": "Rue artisanale",
+    "description": "Rue commerçante historique de la médina, réputée pour tapis, cuivre et maroquinerie.",
+    "address": "Médina, Rabat, Maroc",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -6.8372,
+        34.022
+      ]
+    },
+    "opening_hours": "9h-19h",
+    "tags": [
+      "artisanat",
+      "shopping",
+      "tapis"
+    ],
+    "suitable_for": [
+      "couple",
+      "famille",
+      "solo",
+      "groupe"
+    ],
+    "entry_price_mad": {
+      "adult": 0,
+      "child": 0,
+      "foreigner": 0
+    },
+    "price_level": 1,
+    "visit_duration_min": 60,
+    "best_time_to_visit": "toute l'année",
+    "accessibility": "bonne",
+    "guided_tour_available": false,
+    "indoor_outdoor": "extérieur"
+  },
+  {
+    "slug": "rabat-musee-mohammed-vi-d-art-moderne-et-contemporain",
+    "city": "Rabat",
+    "region": "Rabat-Salé-Kénitra",
+    "name": "Musée Mohammed VI d'art moderne et contemporain",
+    "category": "Musée",
+    "subcategory": "Art moderne",
+    "description": "Grand musée d'art moderne et contemporain marocain, avec expositions temporaires de qualité.",
+    "address": "Centre, Rabat, Maroc",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -6.8365,
+        34.018
+      ]
+    },
+    "opening_hours": "10h-18h (fermé mardi)",
+    "tags": [
+      "art",
+      "culture",
+      "expositions"
+    ],
+    "suitable_for": [
+      "couple",
+      "solo",
+      "groupe"
+    ],
+    "entry_price_mad": {
+      "adult": 20,
+      "child": 10,
+      "foreigner": 20
+    },
+    "price_level": 2,
+    "visit_duration_min": 90,
+    "best_time_to_visit": "toute l'année",
+    "accessibility": "bonne",
+    "guided_tour_available": false,
+    "indoor_outdoor": "intérieur"
+  },
+  {
+    "slug": "rabat-musee-de-l-histoire-et-des-civilisations",
+    "city": "Rabat",
+    "region": "Rabat-Salé-Kénitra",
+    "name": "Musée de l'Histoire et des Civilisations",
+    "category": "Musée",
+    "subcategory": "Archéologie",
+    "description": "Ancien musée archéologique présentant les collections du Maroc antique, dont des bronzes de Volubilis.",
+    "address": "Centre, Rabat, Maroc",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -6.8318,
+        34.0228
+      ]
+    },
+    "opening_hours": "10h-17h (fermé mardi)",
+    "tags": [
+      "histoire",
+      "archéologie",
+      "culture"
+    ],
+    "suitable_for": [
+      "couple",
+      "famille",
+      "solo",
+      "groupe"
+    ],
+    "entry_price_mad": {
+      "adult": 20,
+      "child": 10,
+      "foreigner": 20
+    },
+    "price_level": 2,
+    "visit_duration_min": 75,
+    "best_time_to_visit": "toute l'année",
+    "accessibility": "bonne",
+    "guided_tour_available": false,
+    "indoor_outdoor": "intérieur"
+  },
+  {
+    "slug": "rabat-jardin-d-essais-botaniques",
+    "city": "Rabat",
+    "region": "Rabat-Salé-Kénitra",
+    "name": "Jardin d'essais botaniques",
+    "category": "Jardin",
+    "subcategory": "Jardin botanique",
+    "description": "Jardin botanique d'acclimatation avec grandes pelouses, arbres exotiques et allées ombragées.",
+    "address": "Agdal, Rabat, Maroc",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -6.855,
+        33.998
+      ]
+    },
+    "opening_hours": "8h-18h",
+    "tags": [
+      "botanique",
+      "calme",
+      "gratuit",
+      "famille"
+    ],
+    "suitable_for": [
+      "couple",
+      "famille",
+      "solo",
+      "groupe"
+    ],
+    "entry_price_mad": {
+      "adult": 0,
+      "child": 0,
+      "foreigner": 0
+    },
+    "price_level": 1,
+    "visit_duration_min": 90,
+    "best_time_to_visit": "printemps",
+    "accessibility": "bonne",
+    "guided_tour_available": false,
+    "indoor_outdoor": "extérieur"
+  },
+  {
+    "slug": "rabat-plage-de-rabat",
+    "city": "Rabat",
+    "region": "Rabat-Salé-Kénitra",
+    "name": "Plage de Rabat",
+    "category": "Plage",
+    "subcategory": "Plage urbaine",
+    "description": "Plage atlantique au pied des Oudayas, populaire pour la baignade et le surf.",
+    "address": "Oudayas, Rabat, Maroc",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -6.842,
+        34.033
+      ]
+    },
+    "opening_hours": "24h/24",
+    "tags": [
+      "plage",
+      "surf",
+      "gratuit",
+      "promenade"
+    ],
+    "suitable_for": [
+      "couple",
+      "famille",
+      "solo",
+      "groupe"
+    ],
+    "entry_price_mad": {
+      "adult": 0,
+      "child": 0,
+      "foreigner": 0
+    },
+    "price_level": 1,
+    "visit_duration_min": 120,
+    "best_time_to_visit": "été",
+    "accessibility": "bonne",
+    "guided_tour_available": false,
+    "indoor_outdoor": "extérieur"
+  },
+  {
+    "slug": "rabat-marina-et-corniche-du-bouregreg",
+    "city": "Rabat",
+    "region": "Rabat-Salé-Kénitra",
+    "name": "Marina et Corniche du Bouregreg",
+    "category": "Point de vue",
+    "subcategory": "Front d'eau",
+    "description": "Promenade aménagée le long du fleuve entre Rabat et Salé avec marina, restaurants et vue sur la médina.",
+    "address": "Bouregreg, Rabat, Maroc",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -6.83,
+        34.027
+      ]
+    },
+    "opening_hours": "24h/24",
+    "tags": [
+      "promenade",
+      "restaurants",
+      "famille",
+      "tramway"
+    ],
+    "suitable_for": [
+      "couple",
+      "famille",
+      "solo",
+      "groupe"
+    ],
+    "entry_price_mad": {
+      "adult": 0,
+      "child": 0,
+      "foreigner": 0
+    },
+    "price_level": 1,
+    "visit_duration_min": 90,
+    "best_time_to_visit": "soirée",
+    "accessibility": "bonne",
+    "guided_tour_available": false,
+    "indoor_outdoor": "extérieur"
+  },
+  {
+    "slug": "rabat-medina-de-sale",
+    "city": "Rabat",
+    "region": "Rabat-Salé-Kénitra",
+    "name": "Médina de Salé",
+    "category": "Médina",
+    "subcategory": "Médina historique",
+    "description": "Médina de la ville jumelle de Rabat, plus authentique, avec medersa mérinide et souks.",
+    "address": "Salé, Rabat, Maroc",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -6.804,
+        34.042
+      ]
+    },
+    "opening_hours": "24h/24",
+    "tags": [
+      "artisanat",
+      "culture",
+      "authentique"
+    ],
+    "suitable_for": [
+      "couple",
+      "solo",
+      "groupe"
+    ],
+    "entry_price_mad": {
+      "adult": 0,
+      "child": 0,
+      "foreigner": 0
+    },
+    "price_level": 1,
+    "visit_duration_min": 120,
+    "best_time_to_visit": "toute l'année",
+    "accessibility": "limitée",
+    "guided_tour_available": true,
+    "indoor_outdoor": "extérieur"
+  },
+  {
+    "slug": "rabat-theatre-mohammed-v",
+    "city": "Rabat",
+    "region": "Rabat-Salé-Kénitra",
+    "name": "Théâtre Mohammed V",
+    "category": "Monument",
+    "subcategory": "Théâtre",
+    "description": "Théâtre national de style Art déco, principal lieu des spectacles et festivals de la capitale.",
+    "address": "Centre, Rabat, Maroc",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -6.8395,
+        34.017
+      ]
+    },
+    "opening_hours": "selon programmation",
+    "tags": [
+      "architecture",
+      "culture",
+      "spectacle"
+    ],
+    "suitable_for": [
+      "couple",
+      "solo",
+      "groupe"
+    ],
+    "entry_price_mad": {
+      "adult": 0,
+      "child": 0,
+      "foreigner": 0
+    },
+    "price_level": 1,
+    "visit_duration_min": 30,
+    "best_time_to_visit": "toute l'année",
+    "accessibility": "bonne",
+    "guided_tour_available": false,
+    "indoor_outdoor": "mixte"
+  },
+  {
+    "slug": "rabat-marche-central-de-rabat",
+    "city": "Rabat",
+    "region": "Rabat-Salé-Kénitra",
+    "name": "Marché central de Rabat",
+    "category": "Souk",
+    "subcategory": "Marché couvert",
+    "description": "Marché animé de produits frais, poissons, fruits et épices au cœur de la ville nouvelle.",
+    "address": "Ville nouvelle, Rabat, Maroc",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -6.8385,
+        34.019
+      ]
+    },
+    "opening_hours": "7h-14h",
+    "tags": [
+      "marché",
+      "gastronomie",
+      "local"
+    ],
+    "suitable_for": [
+      "couple",
+      "famille",
+      "solo",
+      "groupe"
+    ],
+    "entry_price_mad": {
+      "adult": 0,
+      "child": 0,
+      "foreigner": 0
+    },
+    "price_level": 1,
+    "visit_duration_min": 45,
+    "best_time_to_visit": "matin",
+    "accessibility": "bonne",
+    "guided_tour_available": false,
+    "indoor_outdoor": "mixte"
+  },
+  {
+    "slug": "rabat-parc-hassan-ii",
+    "city": "Rabat",
+    "region": "Rabat-Salé-Kénitra",
+    "name": "Parc Hassan II",
+    "category": "Jardin",
+    "subcategory": "Parc urbain",
+    "description": "Grand parc urbain avec allées de promenade, aires de jeux et pistes pour footing et vélo.",
+    "address": "Agdal, Rabat, Maroc",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -6.848,
+        33.994
+      ]
+    },
+    "opening_hours": "6h-22h",
+    "tags": [
+      "sport",
+      "famille",
+      "gratuit",
+      "pique-nique"
+    ],
+    "suitable_for": [
+      "couple",
+      "famille",
+      "solo",
+      "groupe"
+    ],
+    "entry_price_mad": {
+      "adult": 0,
+      "child": 0,
+      "foreigner": 0
+    },
+    "price_level": 1,
+    "visit_duration_min": 90,
+    "best_time_to_visit": "printemps",
+    "accessibility": "bonne",
+    "guided_tour_available": false,
+    "indoor_outdoor": "extérieur"
+  },
+  {
+    "slug": "chefchaouen-medina-bleue-de-chefchaouen",
+    "city": "Chefchaouen",
+    "region": "Tanger-Tétouan-Al Hoceïma",
+    "name": "Médina bleue de Chefchaouen",
+    "category": "Médina",
+    "subcategory": "Médina",
+    "description": "Ruelles peintes en bleu aux escaliers et portes sculptées, emblème de la ville.",
+    "address": "Médina, Chefchaouen, Maroc",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -5.2636,
+        35.1688
+      ]
+    },
+    "opening_hours": "24h/24",
+    "tags": [
+      "bleu",
+      "photo",
+      "gratuit",
+      "calme"
+    ],
+    "suitable_for": [
+      "couple",
+      "famille",
+      "solo",
+      "groupe"
+    ],
+    "entry_price_mad": {
+      "adult": 0,
+      "child": 0,
+      "foreigner": 0
+    },
+    "price_level": 1,
+    "visit_duration_min": 180,
+    "best_time_to_visit": "printemps et automne",
+    "accessibility": "limitée",
+    "guided_tour_available": true,
+    "indoor_outdoor": "extérieur"
+  },
+  {
+    "slug": "chefchaouen-place-outa-el-hammam",
+    "city": "Chefchaouen",
+    "region": "Tanger-Tétouan-Al Hoceïma",
+    "name": "Place Outa el Hammam",
+    "category": "Place",
+    "subcategory": "Place centrale",
+    "description": "Place centrale de la médina bordée de cafés, face à la Kasbah et à la Grande Mosquée.",
+    "address": "Médina, Chefchaouen, Maroc",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -5.2633,
+        35.1689
+      ]
+    },
+    "opening_hours": "24h/24",
+    "tags": [
+      "cafés",
+      "animation",
+      "photo"
+    ],
+    "suitable_for": [
+      "couple",
+      "famille",
+      "solo",
+      "groupe"
+    ],
+    "entry_price_mad": {
+      "adult": 0,
+      "child": 0,
+      "foreigner": 0
+    },
+    "price_level": 1,
+    "visit_duration_min": 45,
+    "best_time_to_visit": "toute l'année",
+    "accessibility": "bonne",
+    "guided_tour_available": false,
+    "indoor_outdoor": "extérieur"
+  },
+  {
+    "slug": "chefchaouen-kasbah-de-chefchaouen",
+    "city": "Chefchaouen",
+    "region": "Tanger-Tétouan-Al Hoceïma",
+    "name": "Kasbah de Chefchaouen",
+    "category": "Monument",
+    "subcategory": "Forteresse et musée",
+    "description": "Forteresse du XVe siècle avec tour panoramique, jardin andalou et petit musée ethnographique.",
+    "address": "Médina, Chefchaouen, Maroc",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -5.2637,
+        35.1689
+      ]
+    },
+    "opening_hours": "9h-18h",
+    "tags": [
+      "histoire",
+      "musée",
+      "jardin",
+      "panorama"
+    ],
+    "suitable_for": [
+      "couple",
+      "famille",
+      "solo",
+      "groupe"
+    ],
+    "entry_price_mad": {
+      "adult": 60,
+      "child": 30,
+      "foreigner": 60
+    },
+    "price_level": 3,
+    "visit_duration_min": 75,
+    "best_time_to_visit": "toute l'année",
+    "accessibility": "limitée",
+    "guided_tour_available": false,
+    "indoor_outdoor": "mixte"
+  },
+  {
+    "slug": "chefchaouen-jardin-de-la-kasbah",
+    "city": "Chefchaouen",
+    "region": "Tanger-Tétouan-Al Hoceïma",
+    "name": "Jardin de la Kasbah",
+    "category": "Jardin",
+    "subcategory": "Jardin andalou",
+    "description": "Petit jardin intérieur de la Kasbah, ombragé et idéal pour une pause au calme.",
+    "address": "Médina, Chefchaouen, Maroc",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -5.2638,
+        35.169
+      ]
+    },
+    "opening_hours": "9h-18h",
+    "tags": [
+      "calme",
+      "détente",
+      "photo"
+    ],
+    "suitable_for": [
+      "couple",
+      "famille",
+      "solo"
+    ],
+    "entry_price_mad": {
+      "adult": 0,
+      "child": 0,
+      "foreigner": 0
+    },
+    "price_level": 1,
+    "visit_duration_min": 30,
+    "best_time_to_visit": "printemps",
+    "accessibility": "partielle",
+    "guided_tour_available": false,
+    "indoor_outdoor": "extérieur"
+  },
+  {
+    "slug": "chefchaouen-grande-mosquee-de-chefchaouen",
+    "city": "Chefchaouen",
+    "region": "Tanger-Tétouan-Al Hoceïma",
+    "name": "Grande Mosquée de Chefchaouen",
+    "category": "Site religieux",
+    "subcategory": "Mosquée",
+    "description": "Mosquée du XVe siècle reconnaissable à sa tour octogonale, visible depuis la place Outa el Hammam.",
+    "address": "Médina, Chefchaouen, Maroc",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -5.263,
+        35.169
+      ]
+    },
+    "opening_hours": "extérieur uniquement",
+    "tags": [
+      "architecture",
+      "histoire",
+      "tour-octogonale"
+    ],
+    "suitable_for": [
+      "couple",
+      "famille",
+      "solo",
+      "groupe"
+    ],
+    "entry_price_mad": {
+      "adult": 0,
+      "child": 0,
+      "foreigner": 0
+    },
+    "price_level": 1,
+    "visit_duration_min": 20,
+    "best_time_to_visit": "toute l'année",
+    "accessibility": "bonne",
+    "guided_tour_available": false,
+    "indoor_outdoor": "extérieur"
+  },
+  {
+    "slug": "chefchaouen-ras-el-maa",
+    "city": "Chefchaouen",
+    "region": "Tanger-Tétouan-Al Hoceïma",
+    "name": "Ras el Maa",
+    "category": "Site naturel",
+    "subcategory": "Source et cascade",
+    "description": "Source d'où naît l'oued de la ville, avec cafés, lavoirs traditionnels et petite cascade.",
+    "address": "Ras el Maa, Chefchaouen, Maroc",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -5.2585,
+        35.1695
+      ]
+    },
+    "opening_hours": "24h/24",
+    "tags": [
+      "eau",
+      "détente",
+      "gratuit",
+      "famille"
+    ],
+    "suitable_for": [
+      "couple",
+      "famille",
+      "solo",
+      "groupe"
+    ],
+    "entry_price_mad": {
+      "adult": 0,
+      "child": 0,
+      "foreigner": 0
+    },
+    "price_level": 1,
+    "visit_duration_min": 60,
+    "best_time_to_visit": "toute l'année",
+    "accessibility": "partielle",
+    "guided_tour_available": false,
+    "indoor_outdoor": "extérieur"
+  },
+  {
+    "slug": "chefchaouen-mosquee-espagnole-et-belvedere",
+    "city": "Chefchaouen",
+    "region": "Tanger-Tétouan-Al Hoceïma",
+    "name": "Mosquée espagnole et belvédère",
+    "category": "Point de vue",
+    "subcategory": "Belvédère",
+    "description": "Ancienne mosquée en hauteur offrant le meilleur panorama sur la médina bleue au coucher du soleil.",
+    "address": "Hauteurs de la médina, Chefchaouen, Maroc",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -5.2495,
+        35.1655
+      ]
+    },
+    "opening_hours": "24h/24",
+    "tags": [
+      "panorama",
+      "randonnée",
+      "gratuit",
+      "photo"
+    ],
+    "suitable_for": [
+      "couple",
+      "famille",
+      "solo",
+      "groupe"
+    ],
+    "entry_price_mad": {
+      "adult": 0,
+      "child": 0,
+      "foreigner": 0
+    },
+    "price_level": 1,
+    "visit_duration_min": 90,
+    "best_time_to_visit": "coucher du soleil",
+    "accessibility": "limitée",
+    "guided_tour_available": false,
+    "indoor_outdoor": "extérieur"
+  },
+  {
+    "slug": "chefchaouen-cascades-d-akchour",
+    "city": "Chefchaouen",
+    "region": "Tanger-Tétouan-Al Hoceïma",
+    "name": "Cascades d'Akchour",
+    "category": "Site naturel",
+    "subcategory": "Cascade",
+    "description": "Chutes d'eau et vasques naturelles dans les gorges de l'oued Farda, accessibles à pied.",
+    "address": "Akchour, Chefchaouen, Maroc",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -5.18,
+        35.22
+      ]
+    },
+    "opening_hours": "24h/24",
+    "tags": [
+      "randonnée",
+      "cascade",
+      "nature",
+      "baignade"
+    ],
+    "suitable_for": [
+      "couple",
+      "famille",
+      "solo",
+      "groupe"
+    ],
+    "entry_price_mad": {
+      "adult": 0,
+      "child": 0,
+      "foreigner": 0
+    },
+    "price_level": 1,
+    "visit_duration_min": 360,
+    "best_time_to_visit": "printemps (avril-juin)",
+    "accessibility": "limitée",
+    "guided_tour_available": true,
+    "indoor_outdoor": "extérieur"
+  },
+  {
+    "slug": "chefchaouen-pont-de-dieu-akchour",
+    "city": "Chefchaouen",
+    "region": "Tanger-Tétouan-Al Hoceïma",
+    "name": "Pont de Dieu (Akchour)",
+    "category": "Site naturel",
+    "subcategory": "Arche naturelle",
+    "description": "Arche naturelle de roche enjambant la rivière, au bout d'une randonnée dans les gorges.",
+    "address": "Akchour, Chefchaouen, Maroc",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -5.169,
+        35.231
+      ]
+    },
+    "opening_hours": "24h/24",
+    "tags": [
+      "randonnée",
+      "formation-rocheuse",
+      "photo",
+      "aventure"
+    ],
+    "suitable_for": [
+      "couple",
+      "solo",
+      "groupe"
+    ],
+    "entry_price_mad": {
+      "adult": 0,
+      "child": 0,
+      "foreigner": 0
+    },
+    "price_level": 1,
+    "visit_duration_min": 240,
+    "best_time_to_visit": "printemps",
+    "accessibility": "limitée",
+    "guided_tour_available": true,
+    "indoor_outdoor": "extérieur"
+  },
+  {
+    "slug": "chefchaouen-parc-national-de-talassemtane",
+    "city": "Chefchaouen",
+    "region": "Tanger-Tétouan-Al Hoceïma",
+    "name": "Parc national de Talassemtane",
+    "category": "Site naturel",
+    "subcategory": "Parc national",
+    "description": "Parc de montagne du Rif avec forêts de sapins du Maroc et sentiers de randonnée balisés.",
+    "address": "Parc de Talassemtane, Chefchaouen, Maroc",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -5.18,
+        35.1
+      ]
+    },
+    "opening_hours": "24h/24",
+    "tags": [
+      "randonnée",
+      "sapin",
+      "biodiversité",
+      "aventure"
+    ],
+    "suitable_for": [
+      "couple",
+      "solo",
+      "groupe"
+    ],
+    "entry_price_mad": {
+      "adult": 0,
+      "child": 0,
+      "foreigner": 0
+    },
+    "price_level": 1,
+    "visit_duration_min": 480,
+    "best_time_to_visit": "printemps et automne",
+    "accessibility": "limitée",
+    "guided_tour_available": true,
+    "indoor_outdoor": "extérieur"
+  },
+  {
+    "slug": "chefchaouen-souk-de-la-medina",
+    "city": "Chefchaouen",
+    "region": "Tanger-Tétouan-Al Hoceïma",
+    "name": "Souk de la médina",
+    "category": "Souk",
+    "subcategory": "Souk artisanal",
+    "description": "Boutiques et étals de tissages, produits laitiers de montagne et savons à proximité de la place.",
+    "address": "Médina, Chefchaouen, Maroc",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -5.264,
+        35.1685
+      ]
+    },
+    "opening_hours": "9h-20h",
+    "tags": [
+      "artisanat",
+      "tissage",
+      "jben",
+      "shopping"
+    ],
+    "suitable_for": [
+      "couple",
+      "famille",
+      "solo",
+      "groupe"
+    ],
+    "entry_price_mad": {
+      "adult": 0,
+      "child": 0,
+      "foreigner": 0
+    },
+    "price_level": 1,
+    "visit_duration_min": 60,
+    "best_time_to_visit": "matin",
+    "accessibility": "partielle",
+    "guided_tour_available": false,
+    "indoor_outdoor": "mixte"
+  },
+  {
+    "slug": "chefchaouen-quartier-andalou-blida",
+    "city": "Chefchaouen",
+    "region": "Tanger-Tétouan-Al Hoceïma",
+    "name": "Quartier andalou (Blida)",
+    "category": "Quartier",
+    "subcategory": "Quartier historique",
+    "description": "Quartier hérité des réfugiés andalous, plus calme et moins touristique que le centre.",
+    "address": "Médina, Chefchaouen, Maroc",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -5.266,
+        35.1715
+      ]
+    },
+    "opening_hours": "24h/24",
+    "tags": [
+      "histoire",
+      "calme",
+      "photo",
+      "authentique"
+    ],
+    "suitable_for": [
+      "couple",
+      "solo",
+      "groupe"
+    ],
+    "entry_price_mad": {
+      "adult": 0,
+      "child": 0,
+      "foreigner": 0
+    },
+    "price_level": 1,
+    "visit_duration_min": 60,
+    "best_time_to_visit": "toute l'année",
+    "accessibility": "limitée",
+    "guided_tour_available": false,
+    "indoor_outdoor": "extérieur"
+  },
+  {
+    "slug": "chefchaouen-bab-el-ain",
+    "city": "Chefchaouen",
+    "region": "Tanger-Tétouan-Al Hoceïma",
+    "name": "Bab el Aïn",
+    "category": "Monument",
+    "subcategory": "Porte de la médina",
+    "description": "Porte monumentale de la médina, point de départ vers le quartier andalou et les hauteurs.",
+    "address": "Médina, Chefchaouen, Maroc",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -5.2655,
+        35.1692
+      ]
+    },
+    "opening_hours": "24h/24",
+    "tags": [
+      "porte",
+      "histoire",
+      "gratuit"
+    ],
+    "suitable_for": [
+      "couple",
+      "solo",
+      "groupe"
+    ],
+    "entry_price_mad": {
+      "adult": 0,
+      "child": 0,
+      "foreigner": 0
+    },
+    "price_level": 1,
+    "visit_duration_min": 15,
+    "best_time_to_visit": "toute l'année",
+    "accessibility": "bonne",
+    "guided_tour_available": false,
+    "indoor_outdoor": "extérieur"
+  },
+  {
+    "slug": "chefchaouen-sentier-du-jbel-el-kelaa",
+    "city": "Chefchaouen",
+    "region": "Tanger-Tétouan-Al Hoceïma",
+    "name": "Sentier du Jbel el Kelaa",
+    "category": "Site naturel",
+    "subcategory": "Sentier de randonnée",
+    "description": "Randonnée en montagne au-dessus de la ville avec vues sur la médina et les paysages du Rif.",
+    "address": "Hauteurs de la ville, Chefchaouen, Maroc",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -5.28,
+        35.15
+      ]
+    },
+    "opening_hours": "24h/24",
+    "tags": [
+      "randonnée",
+      "montagne",
+      "gratuit",
+      "panorama"
+    ],
+    "suitable_for": [
+      "couple",
+      "solo",
+      "groupe"
+    ],
+    "entry_price_mad": {
+      "adult": 0,
+      "child": 0,
+      "foreigner": 0
+    },
+    "price_level": 1,
+    "visit_duration_min": 240,
+    "best_time_to_visit": "printemps et automne",
+    "accessibility": "limitée",
+    "guided_tour_available": true,
+    "indoor_outdoor": "extérieur"
+  },
+  {
+    "slug": "chefchaouen-quartier-souika",
+    "city": "Chefchaouen",
+    "region": "Tanger-Tétouan-Al Hoceïma",
+    "name": "Quartier Souika",
+    "category": "Quartier",
+    "subcategory": "Quartier historique",
+    "description": "Ancien quartier de la médina aux ruelles étroites, ateliers de tissage et petites maisons bleues.",
+    "address": "Médina, Chefchaouen, Maroc",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -5.262,
+        35.17
+      ]
+    },
+    "opening_hours": "24h/24",
+    "tags": [
+      "ruelles",
+      "photo",
+      "calme",
+      "gratuit"
+    ],
+    "suitable_for": [
+      "couple",
+      "solo",
+      "groupe"
+    ],
+    "entry_price_mad": {
+      "adult": 0,
+      "child": 0,
+      "foreigner": 0
+    },
+    "price_level": 1,
+    "visit_duration_min": 60,
+    "best_time_to_visit": "toute l'année",
+    "accessibility": "limitée",
+    "guided_tour_available": false,
+    "indoor_outdoor": "extérieur"
+  },
+  {
+    "slug": "agadir-plage-d-agadir",
+    "city": "Agadir",
+    "region": "Souss-Massa",
+    "name": "Plage d'Agadir",
+    "category": "Plage",
+    "subcategory": "Plage urbaine",
+    "description": "Longue plage de sable fin bordée par la promenade de la baie, très prisée des familles.",
+    "address": "Baie d'Agadir, Agadir, Maroc",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -9.619,
+        30.422
+      ]
+    },
+    "opening_hours": "24h/24",
+    "tags": [
+      "plage",
+      "détente",
+      "gratuit",
+      "famille"
+    ],
+    "suitable_for": [
+      "couple",
+      "famille",
+      "solo",
+      "groupe"
+    ],
+    "entry_price_mad": {
+      "adult": 0,
+      "child": 0,
+      "foreigner": 0
+    },
+    "price_level": 1,
+    "visit_duration_min": 120,
+    "best_time_to_visit": "avril-octobre",
+    "accessibility": "bonne",
+    "guided_tour_available": false,
+    "indoor_outdoor": "extérieur"
+  },
+  {
+    "slug": "agadir-corniche-d-agadir",
+    "city": "Agadir",
+    "region": "Souss-Massa",
+    "name": "Corniche d'Agadir",
+    "category": "Point de vue",
+    "subcategory": "Promenade en bord de mer",
+    "description": "Front de mer animé avec cafés, restaurants et glaciers face à l'Atlantique.",
+    "address": "Front de mer, Agadir, Maroc",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -9.622,
+        30.417
+      ]
+    },
+    "opening_hours": "24h/24",
+    "tags": [
+      "promenade",
+      "restaurants",
+      "gratuit",
+      "coucher-soleil"
+    ],
+    "suitable_for": [
+      "couple",
+      "famille",
+      "solo",
+      "groupe"
+    ],
+    "entry_price_mad": {
+      "adult": 0,
+      "child": 0,
+      "foreigner": 0
+    },
+    "price_level": 1,
+    "visit_duration_min": 90,
+    "best_time_to_visit": "soirée",
+    "accessibility": "bonne",
+    "guided_tour_available": false,
+    "indoor_outdoor": "extérieur"
+  },
+  {
+    "slug": "agadir-kasbah-d-agadir-oufella",
+    "city": "Agadir",
+    "region": "Souss-Massa",
+    "name": "Kasbah d'Agadir Oufella",
+    "category": "Monument",
+    "subcategory": "Forteresse",
+    "description": "Forteresse du XVIe siècle perchée sur la colline, avec vue sur la baie, le port et la ville.",
+    "address": "Colline de la Kasbah, Agadir, Maroc",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -9.613,
+        30.4425
+      ]
+    },
+    "opening_hours": "9h-18h",
+    "tags": [
+      "panorama",
+      "histoire",
+      "photo"
+    ],
+    "suitable_for": [
+      "couple",
+      "famille",
+      "solo",
+      "groupe"
+    ],
+    "entry_price_mad": {
+      "adult": 0,
+      "child": 0,
+      "foreigner": 0
+    },
+    "price_level": 1,
+    "visit_duration_min": 60,
+    "best_time_to_visit": "coucher du soleil",
+    "accessibility": "limitée",
+    "guided_tour_available": false,
+    "indoor_outdoor": "extérieur"
+  },
+  {
+    "slug": "agadir-vallee-des-oiseaux",
+    "city": "Agadir",
+    "region": "Souss-Massa",
+    "name": "Vallée des Oiseaux",
+    "category": "Jardin",
+    "subcategory": "Jardin zoologique",
+    "description": "Petit parc ombragé au cœur de la ville, avec volières, bassins et animaux, gratuit.",
+    "address": "Centre, Agadir, Maroc",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -9.598,
+        30.4218
+      ]
+    },
+    "opening_hours": "9h-18h",
+    "tags": [
+      "famille",
+      "gratuit",
+      "animaux",
+      "calme"
+    ],
+    "suitable_for": [
+      "couple",
+      "famille",
+      "groupe"
+    ],
+    "entry_price_mad": {
+      "adult": 0,
+      "child": 0,
+      "foreigner": 0
+    },
+    "price_level": 1,
+    "visit_duration_min": 45,
+    "best_time_to_visit": "toute l'année",
+    "accessibility": "bonne",
+    "guided_tour_available": false,
+    "indoor_outdoor": "extérieur"
+  },
+  {
+    "slug": "agadir-jardin-d-olhao",
+    "city": "Agadir",
+    "region": "Souss-Massa",
+    "name": "Jardin d'Olhão",
+    "category": "Jardin",
+    "subcategory": "Jardin public",
+    "description": "Jardin inspiré de l'art portugais, offert par la ville jumelée d'Olhão.",
+    "address": "Centre, Agadir, Maroc",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -9.595,
+        30.425
+      ]
+    },
+    "opening_hours": "8h-19h",
+    "tags": [
+      "calme",
+      "gratuit",
+      "promenade",
+      "jardin"
+    ],
+    "suitable_for": [
+      "couple",
+      "famille",
+      "solo"
+    ],
+    "entry_price_mad": {
+      "adult": 0,
+      "child": 0,
+      "foreigner": 0
+    },
+    "price_level": 1,
+    "visit_duration_min": 45,
+    "best_time_to_visit": "printemps",
+    "accessibility": "bonne",
+    "guided_tour_available": false,
+    "indoor_outdoor": "extérieur"
+  },
+  {
+    "slug": "agadir-souk-el-had-d-agadir",
+    "city": "Agadir",
+    "region": "Souss-Massa",
+    "name": "Souk El Had d'Agadir",
+    "category": "Souk",
+    "subcategory": "Grand marché",
+    "description": "Immense marché aux milliers d'échoppes : épices, artisanat, produits frais et argan.",
+    "address": "Souk El Had, Agadir, Maroc",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -9.5753,
+        30.4098
+      ]
+    },
+    "opening_hours": "9h-19h (fermé lundi)",
+    "tags": [
+      "marché",
+      "épices",
+      "artisanat",
+      "local"
+    ],
+    "suitable_for": [
+      "couple",
+      "famille",
+      "solo",
+      "groupe"
+    ],
+    "entry_price_mad": {
+      "adult": 0,
+      "child": 0,
+      "foreigner": 0
+    },
+    "price_level": 1,
+    "visit_duration_min": 120,
+    "best_time_to_visit": "matin",
+    "accessibility": "partielle",
+    "guided_tour_available": false,
+    "indoor_outdoor": "mixte"
+  },
+  {
+    "slug": "agadir-marina-d-agadir",
+    "city": "Agadir",
+    "region": "Souss-Massa",
+    "name": "Marina d'Agadir",
+    "category": "Point de vue",
+    "subcategory": "Port de plaisance",
+    "description": "Port de plaisance moderne avec restaurants, boutiques et vue sur la Kasbah.",
+    "address": "Marina, Agadir, Maroc",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -9.6285,
+        30.4235
+      ]
+    },
+    "opening_hours": "24h/24",
+    "tags": [
+      "promenade",
+      "restaurants",
+      "bateaux",
+      "gratuit"
+    ],
+    "suitable_for": [
+      "couple",
+      "famille",
+      "solo",
+      "groupe"
+    ],
+    "entry_price_mad": {
+      "adult": 0,
+      "child": 0,
+      "foreigner": 0
+    },
+    "price_level": 1,
+    "visit_duration_min": 75,
+    "best_time_to_visit": "soirée",
+    "accessibility": "bonne",
+    "guided_tour_available": false,
+    "indoor_outdoor": "extérieur"
+  },
+  {
+    "slug": "agadir-medina-d-agadir-coco-polizzi",
+    "city": "Agadir",
+    "region": "Souss-Massa",
+    "name": "Médina d'Agadir (Coco Polizzi)",
+    "category": "Médina",
+    "subcategory": "Médina reconstituée",
+    "description": "Médina reconstituée après le séisme de 1960, avec artisans, boutiques et ruelles.",
+    "address": "Route de Taroudant, Agadir, Maroc",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -9.589,
+        30.403
+      ]
+    },
+    "opening_hours": "9h-19h",
+    "tags": [
+      "artisanat",
+      "culture",
+      "boutiques"
+    ],
+    "suitable_for": [
+      "couple",
+      "famille",
+      "solo",
+      "groupe"
+    ],
+    "entry_price_mad": {
+      "adult": 0,
+      "child": 0,
+      "foreigner": 0
+    },
+    "price_level": 1,
+    "visit_duration_min": 90,
+    "best_time_to_visit": "toute l'année",
+    "accessibility": "partielle",
+    "guided_tour_available": false,
+    "indoor_outdoor": "extérieur"
+  },
+  {
+    "slug": "agadir-musee-amazigh",
+    "city": "Agadir",
+    "region": "Souss-Massa",
+    "name": "Musée Amazigh",
+    "category": "Musée",
+    "subcategory": "Culture amazighe",
+    "description": "Musée consacré à la culture amazighe : bijoux, costumes, objets du quotidien.",
+    "address": "Centre, Agadir, Maroc",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -9.5985,
+        30.4235
+      ]
+    },
+    "opening_hours": "9h-17h (variable)",
+    "tags": [
+      "culture",
+      "amazigh",
+      "bijoux",
+      "histoire"
+    ],
+    "suitable_for": [
+      "couple",
+      "solo",
+      "groupe"
+    ],
+    "entry_price_mad": {
+      "adult": 20,
+      "child": 10,
+      "foreigner": 20
+    },
+    "price_level": 2,
+    "visit_duration_min": 60,
+    "best_time_to_visit": "toute l'année",
+    "accessibility": "bonne",
+    "guided_tour_available": false,
+    "indoor_outdoor": "intérieur"
+  },
+  {
+    "slug": "agadir-taghazout",
+    "city": "Agadir",
+    "region": "Souss-Massa",
+    "name": "Taghazout",
+    "category": "Plage",
+    "subcategory": "Village de surf",
+    "description": "Village de pêcheurs devenu capitale marocaine du surf, avec vagues toute l'année.",
+    "address": "Taghazout, Agadir, Maroc",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -9.709,
+        30.544
+      ]
+    },
+    "opening_hours": "24h/24",
+    "tags": [
+      "surf",
+      "plage",
+      "village",
+      "gratuit"
+    ],
+    "suitable_for": [
+      "couple",
+      "solo",
+      "groupe"
+    ],
+    "entry_price_mad": {
+      "adult": 0,
+      "child": 0,
+      "foreigner": 0
+    },
+    "price_level": 1,
+    "visit_duration_min": 180,
+    "best_time_to_visit": "septembre-mai",
+    "accessibility": "limitée",
+    "guided_tour_available": false,
+    "indoor_outdoor": "extérieur"
+  },
+  {
+    "slug": "agadir-paradise-valley",
+    "city": "Agadir",
+    "region": "Souss-Massa",
+    "name": "Paradise Valley",
+    "category": "Site naturel",
+    "subcategory": "Oasis et piscines naturelles",
+    "description": "Vallée verdoyante avec vasques naturelles et palmiers, parfaite pour la baignade.",
+    "address": "Aourir, Agadir, Maroc",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -9.47,
+        30.633
+      ]
+    },
+    "opening_hours": "24h/24",
+    "tags": [
+      "baignade",
+      "randonnée",
+      "nature",
+      "gratuit"
+    ],
+    "suitable_for": [
+      "couple",
+      "famille",
+      "solo",
+      "groupe"
+    ],
+    "entry_price_mad": {
+      "adult": 0,
+      "child": 0,
+      "foreigner": 0
+    },
+    "price_level": 1,
+    "visit_duration_min": 180,
+    "best_time_to_visit": "printemps et été",
+    "accessibility": "limitée",
+    "guided_tour_available": true,
+    "indoor_outdoor": "extérieur"
+  },
+  {
+    "slug": "agadir-crocoparc-agadir",
+    "city": "Agadir",
+    "region": "Souss-Massa",
+    "name": "Crocoparc Agadir",
+    "category": "Jardin",
+    "subcategory": "Parc animalier",
+    "description": "Parc botanique et animalier abritant des crocodiles du Nil et de nombreuses plantes.",
+    "address": "Route d'Anza, Agadir, Maroc",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -9.533,
+        30.365
+      ]
+    },
+    "opening_hours": "9h-18h",
+    "tags": [
+      "famille",
+      "crocodiles",
+      "jardin",
+      "enfants"
+    ],
+    "suitable_for": [
+      "couple",
+      "famille",
+      "groupe"
+    ],
+    "entry_price_mad": {
+      "adult": 140,
+      "child": 70,
+      "foreigner": 140
+    },
+    "price_level": 4,
+    "visit_duration_min": 120,
+    "best_time_to_visit": "toute l'année",
+    "accessibility": "bonne",
+    "guided_tour_available": false,
+    "indoor_outdoor": "extérieur"
+  },
+  {
+    "slug": "agadir-grande-mosquee-mohammed-v",
+    "city": "Agadir",
+    "region": "Souss-Massa",
+    "name": "Grande Mosquée Mohammed V",
+    "category": "Site religieux",
+    "subcategory": "Mosquée",
+    "description": "Mosquée moderne au minaret élancé, l'un des repères du centre-ville.",
+    "address": "Centre, Agadir, Maroc",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -9.596,
+        30.418
+      ]
+    },
+    "opening_hours": "extérieur uniquement",
+    "tags": [
+      "architecture",
+      "gratuit",
+      "religion"
+    ],
+    "suitable_for": [
+      "couple",
+      "solo",
+      "groupe"
+    ],
+    "entry_price_mad": {
+      "adult": 0,
+      "child": 0,
+      "foreigner": 0
+    },
+    "price_level": 1,
+    "visit_duration_min": 20,
+    "best_time_to_visit": "toute l'année",
+    "accessibility": "bonne",
+    "guided_tour_available": false,
+    "indoor_outdoor": "extérieur"
+  },
+  {
+    "slug": "essaouira-medina-d-essaouira",
+    "city": "Essaouira",
+    "region": "Marrakech-Safi",
+    "name": "Médina d'Essaouira",
+    "category": "Médina",
+    "subcategory": "Médina fortifiée (UNESCO)",
+    "description": "Médina blanche aux volets bleus, inscrite à l'UNESCO, bordée de remparts face à l'Atlantique.",
+    "address": "Médina, Essaouira, Maroc",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -9.77,
+        31.5125
+      ]
+    },
+    "opening_hours": "24h/24",
+    "tags": [
+      "unesco",
+      "ruelles",
+      "artisanat",
+      "gratuit"
+    ],
+    "suitable_for": [
+      "couple",
+      "famille",
+      "solo",
+      "groupe"
+    ],
+    "entry_price_mad": {
+      "adult": 0,
+      "child": 0,
+      "foreigner": 0
+    },
+    "price_level": 1,
+    "visit_duration_min": 180,
+    "best_time_to_visit": "toute l'année",
+    "accessibility": "partielle",
+    "guided_tour_available": true,
+    "indoor_outdoor": "extérieur"
+  },
+  {
+    "slug": "essaouira-skala-de-la-ville",
+    "city": "Essaouira",
+    "region": "Marrakech-Safi",
+    "name": "Skala de la Ville",
+    "category": "Monument",
+    "subcategory": "Remparts et canons",
+    "description": "Bastion du XVIIIe siècle avec canons de bronze et vue sur l'océan et les îles.",
+    "address": "Médina, Essaouira, Maroc",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -9.772,
+        31.513
+      ]
+    },
+    "opening_hours": "8h30-18h",
+    "tags": [
+      "remparts",
+      "photo",
+      "histoire",
+      "panorama"
+    ],
+    "suitable_for": [
+      "couple",
+      "famille",
+      "solo",
+      "groupe"
+    ],
+    "entry_price_mad": {
+      "adult": 0,
+      "child": 0,
+      "foreigner": 0
+    },
+    "price_level": 1,
+    "visit_duration_min": 60,
+    "best_time_to_visit": "coucher du soleil",
+    "accessibility": "partielle",
+    "guided_tour_available": false,
+    "indoor_outdoor": "extérieur"
+  },
+  {
+    "slug": "essaouira-skala-du-port",
+    "city": "Essaouira",
+    "region": "Marrakech-Safi",
+    "name": "Skala du Port",
+    "category": "Monument",
+    "subcategory": "Fortification",
+    "description": "Fortification surplombant le port de pêche et les chantiers de bateaux en bois.",
+    "address": "Port, Essaouira, Maroc",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -9.769,
+        31.511
+      ]
+    },
+    "opening_hours": "8h30-18h",
+    "tags": [
+      "port",
+      "histoire",
+      "photo"
+    ],
+    "suitable_for": [
+      "couple",
+      "famille",
+      "solo",
+      "groupe"
+    ],
+    "entry_price_mad": {
+      "adult": 0,
+      "child": 0,
+      "foreigner": 0
+    },
+    "price_level": 1,
+    "visit_duration_min": 45,
+    "best_time_to_visit": "toute l'année",
+    "accessibility": "partielle",
+    "guided_tour_available": false,
+    "indoor_outdoor": "extérieur"
+  },
+  {
+    "slug": "essaouira-port-de-peche-d-essaouira",
+    "city": "Essaouira",
+    "region": "Marrakech-Safi",
+    "name": "Port de pêche d'Essaouira",
+    "category": "Point de vue",
+    "subcategory": "Port de pêche",
+    "description": "Port animé : barques bleues, criées au poisson et mouettes tournoyantes.",
+    "address": "Port, Essaouira, Maroc",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -9.768,
+        31.51
+      ]
+    },
+    "opening_hours": "6h-20h",
+    "tags": [
+      "poisson",
+      "barques",
+      "photo",
+      "mouettes"
+    ],
+    "suitable_for": [
+      "couple",
+      "famille",
+      "solo",
+      "groupe"
+    ],
+    "entry_price_mad": {
+      "adult": 0,
+      "child": 0,
+      "foreigner": 0
+    },
+    "price_level": 1,
+    "visit_duration_min": 75,
+    "best_time_to_visit": "matin",
+    "accessibility": "bonne",
+    "guided_tour_available": false,
+    "indoor_outdoor": "extérieur"
+  },
+  {
+    "slug": "essaouira-place-moulay-hassan",
+    "city": "Essaouira",
+    "region": "Marrakech-Safi",
+    "name": "Place Moulay Hassan",
+    "category": "Place",
+    "subcategory": "Place principale",
+    "description": "Place centrale entre le port et la médina, bordée de cafés avec vue sur le port.",
+    "address": "Médina, Essaouira, Maroc",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -9.77,
+        31.5105
+      ]
+    },
+    "opening_hours": "24h/24",
+    "tags": [
+      "cafés",
+      "animation",
+      "gratuit"
+    ],
+    "suitable_for": [
+      "couple",
+      "famille",
+      "solo",
+      "groupe"
+    ],
+    "entry_price_mad": {
+      "adult": 0,
+      "child": 0,
+      "foreigner": 0
+    },
+    "price_level": 1,
+    "visit_duration_min": 45,
+    "best_time_to_visit": "toute l'année",
+    "accessibility": "bonne",
+    "guided_tour_available": false,
+    "indoor_outdoor": "extérieur"
+  },
+  {
+    "slug": "essaouira-plage-d-essaouira",
+    "city": "Essaouira",
+    "region": "Marrakech-Safi",
+    "name": "Plage d'Essaouira",
+    "category": "Plage",
+    "subcategory": "Plage de sable",
+    "description": "Longue plage balayée par les alizés, paradis du kitesurf et du windsurf.",
+    "address": "Baie d'Essaouira, Essaouira, Maroc",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -9.77,
+        31.5
+      ]
+    },
+    "opening_hours": "24h/24",
+    "tags": [
+      "plage",
+      "kitesurf",
+      "vent",
+      "gratuit"
+    ],
+    "suitable_for": [
+      "couple",
+      "famille",
+      "solo",
+      "groupe"
+    ],
+    "entry_price_mad": {
+      "adult": 0,
+      "child": 0,
+      "foreigner": 0
+    },
+    "price_level": 1,
+    "visit_duration_min": 120,
+    "best_time_to_visit": "été",
+    "accessibility": "bonne",
+    "guided_tour_available": false,
+    "indoor_outdoor": "extérieur"
+  },
+  {
+    "slug": "essaouira-ile-de-mogador",
+    "city": "Essaouira",
+    "region": "Marrakech-Safi",
+    "name": "Île de Mogador",
+    "category": "Site naturel",
+    "subcategory": "Île",
+    "description": "Île au large de la baie, site protégé où nichent des oiseaux, visible depuis la plage.",
+    "address": "Baie d'Essaouira, Essaouira, Maroc",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -9.79,
+        31.495
+      ]
+    },
+    "opening_hours": "vue depuis la plage",
+    "tags": [
+      "oiseaux",
+      "île",
+      "photo",
+      "nature"
+    ],
+    "suitable_for": [
+      "couple",
+      "solo",
+      "groupe"
+    ],
+    "entry_price_mad": {
+      "adult": 0,
+      "child": 0,
+      "foreigner": 0
+    },
+    "price_level": 1,
+    "visit_duration_min": 30,
+    "best_time_to_visit": "toute l'année",
+    "accessibility": "limitée",
+    "guided_tour_available": false,
+    "indoor_outdoor": "extérieur"
+  },
+  {
+    "slug": "essaouira-musee-sidi-mohammed-ben-abdallah",
+    "city": "Essaouira",
+    "region": "Marrakech-Safi",
+    "name": "Musée Sidi Mohammed Ben Abdallah",
+    "category": "Musée",
+    "subcategory": "Arts et traditions",
+    "description": "Ancienne demeure abritant des collections d'art, de bijoux et d'instruments gnaoua.",
+    "address": "Médina, Essaouira, Maroc",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -9.77,
+        31.5115
+      ]
+    },
+    "opening_hours": "9h-18h (fermé mardi)",
+    "tags": [
+      "culture",
+      "histoire",
+      "musique",
+      "gnaoua"
+    ],
+    "suitable_for": [
+      "couple",
+      "famille",
+      "solo",
+      "groupe"
+    ],
+    "entry_price_mad": {
+      "adult": 10,
+      "child": 5,
+      "foreigner": 10
+    },
+    "price_level": 2,
+    "visit_duration_min": 60,
+    "best_time_to_visit": "toute l'année",
+    "accessibility": "limitée",
+    "guided_tour_available": false,
+    "indoor_outdoor": "intérieur"
+  },
+  {
+    "slug": "essaouira-mellah-d-essaouira",
+    "city": "Essaouira",
+    "region": "Marrakech-Safi",
+    "name": "Mellah d'Essaouira",
+    "category": "Quartier",
+    "subcategory": "Quartier juif historique",
+    "description": "Ancien quartier juif de la médina, témoin de l'histoire cosmopolite de la ville.",
+    "address": "Médina, Essaouira, Maroc",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -9.767,
+        31.512
+      ]
+    },
+    "opening_hours": "24h/24",
+    "tags": [
+      "histoire",
+      "culture",
+      "gratuit"
+    ],
+    "suitable_for": [
+      "couple",
+      "solo",
+      "groupe"
+    ],
+    "entry_price_mad": {
+      "adult": 0,
+      "child": 0,
+      "foreigner": 0
+    },
+    "price_level": 1,
+    "visit_duration_min": 60,
+    "best_time_to_visit": "toute l'année",
+    "accessibility": "limitée",
+    "guided_tour_available": true,
+    "indoor_outdoor": "extérieur"
+  },
+  {
+    "slug": "essaouira-bab-doukkala",
+    "city": "Essaouira",
+    "region": "Marrakech-Safi",
+    "name": "Bab Doukkala",
+    "category": "Monument",
+    "subcategory": "Porte de la médina",
+    "description": "Porte monumentale de la médina, près du marché et de la gare routière.",
+    "address": "Médina, Essaouira, Maroc",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -9.769,
+        31.513
+      ]
+    },
+    "opening_hours": "24h/24",
+    "tags": [
+      "porte",
+      "histoire",
+      "gratuit"
+    ],
+    "suitable_for": [
+      "couple",
+      "solo",
+      "groupe"
+    ],
+    "entry_price_mad": {
+      "adult": 0,
+      "child": 0,
+      "foreigner": 0
+    },
+    "price_level": 1,
+    "visit_duration_min": 20,
+    "best_time_to_visit": "toute l'année",
+    "accessibility": "bonne",
+    "guided_tour_available": false,
+    "indoor_outdoor": "extérieur"
+  },
+  {
+    "slug": "essaouira-place-orson-welles",
+    "city": "Essaouira",
+    "region": "Marrakech-Safi",
+    "name": "Place Orson Welles",
+    "category": "Place",
+    "subcategory": "Place publique",
+    "description": "Petite place portant le nom du réalisateur qui tourna Othello à Essaouira.",
+    "address": "Médina, Essaouira, Maroc",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -9.7725,
+        31.508
+      ]
+    },
+    "opening_hours": "24h/24",
+    "tags": [
+      "cinéma",
+      "gratuit",
+      "calme"
+    ],
+    "suitable_for": [
+      "couple",
+      "solo",
+      "groupe"
+    ],
+    "entry_price_mad": {
+      "adult": 0,
+      "child": 0,
+      "foreigner": 0
+    },
+    "price_level": 1,
+    "visit_duration_min": 20,
+    "best_time_to_visit": "toute l'année",
+    "accessibility": "bonne",
+    "guided_tour_available": false,
+    "indoor_outdoor": "extérieur"
+  },
+  {
+    "slug": "essaouira-sidi-kaouki",
+    "city": "Essaouira",
+    "region": "Marrakech-Safi",
+    "name": "Sidi Kaouki",
+    "category": "Plage",
+    "subcategory": "Plage et surf",
+    "description": "Longue plage sauvage au sud, connue pour le surf, le kitesurf et les balades à dromadaire.",
+    "address": "Sidi Kaouki, Essaouira, Maroc",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -9.78,
+        31.35
+      ]
+    },
+    "opening_hours": "24h/24",
+    "tags": [
+      "surf",
+      "dromadaires",
+      "plage",
+      "nature"
+    ],
+    "suitable_for": [
+      "couple",
+      "solo",
+      "groupe"
+    ],
+    "entry_price_mad": {
+      "adult": 0,
+      "child": 0,
+      "foreigner": 0
+    },
+    "price_level": 1,
+    "visit_duration_min": 180,
+    "best_time_to_visit": "été et automne",
+    "accessibility": "limitée",
+    "guided_tour_available": false,
+    "indoor_outdoor": "extérieur"
+  },
+  {
+    "slug": "essaouira-diabat",
+    "city": "Essaouira",
+    "region": "Marrakech-Safi",
+    "name": "Diabat",
+    "category": "Quartier",
+    "subcategory": "Village côtier",
+    "description": "Village au bord des dunes, associé à l'époque hippie et à la légende de Jimi Hendrix.",
+    "address": "Diabat, Essaouira, Maroc",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -9.76,
+        31.46
+      ]
+    },
+    "opening_hours": "24h/24",
+    "tags": [
+      "village",
+      "dunes",
+      "hippies",
+      "calme"
+    ],
+    "suitable_for": [
+      "couple",
+      "solo",
+      "groupe"
+    ],
+    "entry_price_mad": {
+      "adult": 0,
+      "child": 0,
+      "foreigner": 0
+    },
+    "price_level": 1,
+    "visit_duration_min": 90,
+    "best_time_to_visit": "toute l'année",
+    "accessibility": "limitée",
+    "guided_tour_available": false,
+    "indoor_outdoor": "extérieur"
+  },
+  {
+    "slug": "essaouira-foret-d-arganiers",
+    "city": "Essaouira",
+    "region": "Marrakech-Safi",
+    "name": "Forêt d'arganiers",
+    "category": "Site naturel",
+    "subcategory": "Forêt d'arganiers",
+    "description": "Forêt d'arganiers emblématique, avec coopératives féminines de production d'huile d'argan.",
+    "address": "Route de Marrakech, Essaouira, Maroc",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -9.68,
+        31.43
+      ]
+    },
+    "opening_hours": "24h/24",
+    "tags": [
+      "argan",
+      "nature",
+      "coopératives",
+      "gratuit"
+    ],
+    "suitable_for": [
+      "couple",
+      "famille",
+      "groupe"
+    ],
+    "entry_price_mad": {
+      "adult": 0,
+      "child": 0,
+      "foreigner": 0
+    },
+    "price_level": 1,
+    "visit_duration_min": 90,
+    "best_time_to_visit": "printemps",
+    "accessibility": "partielle",
+    "guided_tour_available": true,
+    "indoor_outdoor": "extérieur"
+  },
+  {
+    "slug": "essaouira-souk-jdid-d-essaouira",
+    "city": "Essaouira",
+    "region": "Marrakech-Safi",
+    "name": "Souk Jdid d'Essaouira",
+    "category": "Souk",
+    "subcategory": "Marché couvert",
+    "description": "Ruelles de la médina bordées d'ateliers de marqueterie en bois de thuya et de bijoutiers.",
+    "address": "Médina, Essaouira, Maroc",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -9.771,
+        31.512
+      ]
+    },
+    "opening_hours": "9h-19h",
+    "tags": [
+      "marché",
+      "thuya",
+      "épices",
+      "artisanat"
+    ],
+    "suitable_for": [
+      "couple",
+      "famille",
+      "solo",
+      "groupe"
+    ],
+    "entry_price_mad": {
+      "adult": 0,
+      "child": 0,
+      "foreigner": 0
+    },
+    "price_level": 1,
+    "visit_duration_min": 60,
+    "best_time_to_visit": "matin",
+    "accessibility": "partielle",
+    "guided_tour_available": false,
+    "indoor_outdoor": "mixte"
+  },
+  {
+    "slug": "ouarzazate-kasbah-de-taourirt",
+    "city": "Ouarzazate",
+    "region": "Drâa-Tafilalet",
+    "name": "Kasbah de Taourirt",
+    "category": "Monument",
+    "subcategory": "Kasbah",
+    "description": "Ancienne résidence du Glaoui en pisé, avec salles décorées et terrasses sur la palmeraie.",
+    "address": "Taourirt, Ouarzazate, Maroc",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -6.887,
+        30.9247
+      ]
+    },
+    "opening_hours": "8h30-18h",
+    "tags": [
+      "kasbah",
+      "histoire",
+      "architecture",
+      "photo"
+    ],
+    "suitable_for": [
+      "couple",
+      "famille",
+      "solo",
+      "groupe"
+    ],
+    "entry_price_mad": {
+      "adult": 30,
+      "child": 15,
+      "foreigner": 30
+    },
+    "price_level": 2,
+    "visit_duration_min": 60,
+    "best_time_to_visit": "toute l'année",
+    "accessibility": "limitée",
+    "guided_tour_available": true,
+    "indoor_outdoor": "mixte"
+  },
+  {
+    "slug": "ouarzazate-ksar-d-ait-ben-haddou",
+    "city": "Ouarzazate",
+    "region": "Drâa-Tafilalet",
+    "name": "Ksar d'Aït Ben Haddou",
+    "category": "Monument",
+    "subcategory": "Ksar (UNESCO)",
+    "description": "Village fortifié en terre inscrit à l'UNESCO, décor de nombreux films historiques.",
+    "address": "Aït Ben Haddou, Ouarzazate, Maroc",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -7.13,
+        31.0472
+      ]
+    },
+    "opening_hours": "8h-18h",
+    "tags": [
+      "unesco",
+      "ksar",
+      "cinéma",
+      "photo"
+    ],
+    "suitable_for": [
+      "couple",
+      "famille",
+      "solo",
+      "groupe"
+    ],
+    "entry_price_mad": {
+      "adult": 20,
+      "child": 10,
+      "foreigner": 20
+    },
+    "price_level": 2,
+    "visit_duration_min": 120,
+    "best_time_to_visit": "matin ou coucher du soleil",
+    "accessibility": "limitée",
+    "guided_tour_available": true,
+    "indoor_outdoor": "extérieur"
+  },
+  {
+    "slug": "ouarzazate-atlas-corporation-studios",
+    "city": "Ouarzazate",
+    "region": "Drâa-Tafilalet",
+    "name": "Atlas Corporation Studios",
+    "category": "Monument",
+    "subcategory": "Studios de cinéma",
+    "description": "Studios où ont été tournés de grands films ; décors de temples, palais et places.",
+    "address": "Route de Marrakech, Ouarzazate, Maroc",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -6.91,
+        30.942
+      ]
+    },
+    "opening_hours": "8h30-18h",
+    "tags": [
+      "cinéma",
+      "décors",
+      "famille",
+      "histoire"
+    ],
+    "suitable_for": [
+      "couple",
+      "famille",
+      "solo",
+      "groupe"
+    ],
+    "entry_price_mad": {
+      "adult": 60,
+      "child": 30,
+      "foreigner": 60
+    },
+    "price_level": 3,
+    "visit_duration_min": 90,
+    "best_time_to_visit": "toute l'année",
+    "accessibility": "partielle",
+    "guided_tour_available": true,
+    "indoor_outdoor": "mixte"
+  },
+  {
+    "slug": "ouarzazate-cla-studios",
+    "city": "Ouarzazate",
+    "region": "Drâa-Tafilalet",
+    "name": "CLA Studios",
+    "category": "Monument",
+    "subcategory": "Studios de cinéma",
+    "description": "Seconde grande zone de tournage de la ville, avec décors égyptiens et romains.",
+    "address": "Route de Marrakech, Ouarzazate, Maroc",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -6.93,
+        30.902
+      ]
+    },
+    "opening_hours": "8h-18h",
+    "tags": [
+      "cinéma",
+      "décors",
+      "famille"
+    ],
+    "suitable_for": [
+      "couple",
+      "famille",
+      "solo",
+      "groupe"
+    ],
+    "entry_price_mad": {
+      "adult": 60,
+      "child": 30,
+      "foreigner": 60
+    },
+    "price_level": 3,
+    "visit_duration_min": 90,
+    "best_time_to_visit": "toute l'année",
+    "accessibility": "partielle",
+    "guided_tour_available": true,
+    "indoor_outdoor": "mixte"
+  },
+  {
+    "slug": "ouarzazate-musee-du-cinema-d-ouarzazate",
+    "city": "Ouarzazate",
+    "region": "Drâa-Tafilalet",
+    "name": "Musée du Cinéma d'Ouarzazate",
+    "category": "Musée",
+    "subcategory": "Cinéma",
+    "description": "Musée retraçant l'histoire des tournages dans la région, avec costumes et décors.",
+    "address": "Centre, Ouarzazate, Maroc",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -6.897,
+        30.919
+      ]
+    },
+    "opening_hours": "9h-18h",
+    "tags": [
+      "cinéma",
+      "culture",
+      "histoire"
+    ],
+    "suitable_for": [
+      "couple",
+      "famille",
+      "solo",
+      "groupe"
+    ],
+    "entry_price_mad": {
+      "adult": 30,
+      "child": 15,
+      "foreigner": 30
+    },
+    "price_level": 2,
+    "visit_duration_min": 60,
+    "best_time_to_visit": "toute l'année",
+    "accessibility": "partielle",
+    "guided_tour_available": false,
+    "indoor_outdoor": "intérieur"
+  },
+  {
+    "slug": "ouarzazate-kasbah-de-tifoultoute",
+    "city": "Ouarzazate",
+    "region": "Drâa-Tafilalet",
+    "name": "Kasbah de Tifoultoute",
+    "category": "Monument",
+    "subcategory": "Kasbah",
+    "description": "Kasbah en pisé dominant le lac et l'oasis, avec un beau panorama au coucher du soleil.",
+    "address": "Route de Marrakech, Ouarzazate, Maroc",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -6.95,
+        30.95
+      ]
+    },
+    "opening_hours": "extérieur",
+    "tags": [
+      "kasbah",
+      "panorama",
+      "photo",
+      "gratuit"
+    ],
+    "suitable_for": [
+      "couple",
+      "solo",
+      "groupe"
+    ],
+    "entry_price_mad": {
+      "adult": 0,
+      "child": 0,
+      "foreigner": 0
+    },
+    "price_level": 1,
+    "visit_duration_min": 60,
+    "best_time_to_visit": "coucher du soleil",
+    "accessibility": "limitée",
+    "guided_tour_available": false,
+    "indoor_outdoor": "extérieur"
+  },
+  {
+    "slug": "ouarzazate-palmeraie-de-fint",
+    "city": "Ouarzazate",
+    "region": "Drâa-Tafilalet",
+    "name": "Palmeraie de Fint",
+    "category": "Jardin",
+    "subcategory": "Oasis et palmeraie",
+    "description": "Petite oasis cachée dans un canyon, avec palmeraie, jardins et villages berbères.",
+    "address": "Fint, Ouarzazate, Maroc",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -6.93,
+        30.88
+      ]
+    },
+    "opening_hours": "24h/24",
+    "tags": [
+      "oasis",
+      "palmiers",
+      "randonnée",
+      "nature"
+    ],
+    "suitable_for": [
+      "couple",
+      "solo",
+      "groupe"
+    ],
+    "entry_price_mad": {
+      "adult": 0,
+      "child": 0,
+      "foreigner": 0
+    },
+    "price_level": 1,
+    "visit_duration_min": 150,
+    "best_time_to_visit": "printemps",
+    "accessibility": "limitée",
+    "guided_tour_available": true,
+    "indoor_outdoor": "extérieur"
+  },
+  {
+    "slug": "ouarzazate-barrage-mansour-eddahbi",
+    "city": "Ouarzazate",
+    "region": "Drâa-Tafilalet",
+    "name": "Barrage Mansour Eddahbi",
+    "category": "Site naturel",
+    "subcategory": "Lac de barrage",
+    "description": "Grand lac artificiel aux couleurs changeantes, idéal pour l'observation des oiseaux.",
+    "address": "Lac Mansour Eddahbi, Ouarzazate, Maroc",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -6.77,
+        30.935
+      ]
+    },
+    "opening_hours": "24h/24",
+    "tags": [
+      "lac",
+      "oiseaux",
+      "panorama",
+      "gratuit"
+    ],
+    "suitable_for": [
+      "couple",
+      "famille",
+      "solo",
+      "groupe"
+    ],
+    "entry_price_mad": {
+      "adult": 0,
+      "child": 0,
+      "foreigner": 0
+    },
+    "price_level": 1,
+    "visit_duration_min": 60,
+    "best_time_to_visit": "printemps",
+    "accessibility": "partielle",
+    "guided_tour_available": false,
+    "indoor_outdoor": "extérieur"
+  },
+  {
+    "slug": "ouarzazate-palmeraie-de-skoura",
+    "city": "Ouarzazate",
+    "region": "Drâa-Tafilalet",
+    "name": "Palmeraie de Skoura",
+    "category": "Jardin",
+    "subcategory": "Palmeraie et kasbahs",
+    "description": "Immense palmeraie parsemée de kasbahs, parfaite à vélo ou à pied.",
+    "address": "Skoura, Ouarzazate, Maroc",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -6.56,
+        31.057
+      ]
+    },
+    "opening_hours": "24h/24",
+    "tags": [
+      "palmeraie",
+      "kasbah",
+      "vélo",
+      "nature"
+    ],
+    "suitable_for": [
+      "couple",
+      "solo",
+      "groupe"
+    ],
+    "entry_price_mad": {
+      "adult": 0,
+      "child": 0,
+      "foreigner": 0
+    },
+    "price_level": 1,
+    "visit_duration_min": 150,
+    "best_time_to_visit": "printemps",
+    "accessibility": "limitée",
+    "guided_tour_available": true,
+    "indoor_outdoor": "extérieur"
+  },
+  {
+    "slug": "ouarzazate-col-du-tizi-n-tichka",
+    "city": "Ouarzazate",
+    "region": "Drâa-Tafilalet",
+    "name": "Col du Tizi n'Tichka",
+    "category": "Point de vue",
+    "subcategory": "Col de montagne",
+    "description": "Col routier à plus de 2 000 m d'altitude entre Marrakech et Ouarzazate, avec vues spectaculaires.",
+    "address": "Haut Atlas, Ouarzazate, Maroc",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -7.36,
+        31.32
+      ]
+    },
+    "opening_hours": "24h/24",
+    "tags": [
+      "montagne",
+      "route",
+      "panorama",
+      "gratuit"
+    ],
+    "suitable_for": [
+      "couple",
+      "solo",
+      "groupe"
+    ],
+    "entry_price_mad": {
+      "adult": 0,
+      "child": 0,
+      "foreigner": 0
+    },
+    "price_level": 1,
+    "visit_duration_min": 45,
+    "best_time_to_visit": "été et automne",
+    "accessibility": "limitée",
+    "guided_tour_available": false,
+    "indoor_outdoor": "extérieur"
+  },
+  {
+    "slug": "ouarzazate-vallee-du-draa",
+    "city": "Ouarzazate",
+    "region": "Drâa-Tafilalet",
+    "name": "Vallée du Drâa",
+    "category": "Site naturel",
+    "subcategory": "Vallée et palmeraie",
+    "description": "Longue vallée de palmeraies et de kasbahs menant vers le désert, route classique du sud.",
+    "address": "Agdz, Ouarzazate, Maroc",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -6.45,
+        30.71
+      ]
+    },
+    "opening_hours": "24h/24",
+    "tags": [
+      "palmeraie",
+      "kasbah",
+      "désert",
+      "gratuit"
+    ],
+    "suitable_for": [
+      "couple",
+      "solo",
+      "groupe"
+    ],
+    "entry_price_mad": {
+      "adult": 0,
+      "child": 0,
+      "foreigner": 0
+    },
+    "price_level": 1,
+    "visit_duration_min": 180,
+    "best_time_to_visit": "printemps et automne",
+    "accessibility": "limitée",
+    "guided_tour_available": true,
+    "indoor_outdoor": "extérieur"
+  },
+  {
+    "slug": "ouarzazate-kelaat-m-gouna-vallee-des-roses",
+    "city": "Ouarzazate",
+    "region": "Drâa-Tafilalet",
+    "name": "Kelaat M'Gouna (Vallée des Roses)",
+    "category": "Site naturel",
+    "subcategory": "Vallée des roses",
+    "description": "Vallée connue pour ses rosiers, ses produits à base d'eau de rose et son festival en mai.",
+    "address": "Vallée du M'Goun, Ouarzazate, Maroc",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -6.126,
+        31.237
+      ]
+    },
+    "opening_hours": "24h/24",
+    "tags": [
+      "roses",
+      "nature",
+      "artisanat",
+      "gratuit"
+    ],
+    "suitable_for": [
+      "couple",
+      "famille",
+      "solo",
+      "groupe"
+    ],
+    "entry_price_mad": {
+      "adult": 0,
+      "child": 0,
+      "foreigner": 0
+    },
+    "price_level": 1,
+    "visit_duration_min": 120,
+    "best_time_to_visit": "avril-mai",
+    "accessibility": "limitée",
+    "guided_tour_available": false,
+    "indoor_outdoor": "extérieur"
+  },
+  {
+    "slug": "ouarzazate-souk-d-ouarzazate",
+    "city": "Ouarzazate",
+    "region": "Drâa-Tafilalet",
+    "name": "Souk d'Ouarzazate",
+    "category": "Souk",
+    "subcategory": "Marché local",
+    "description": "Marché central où les habitants achètent légumes, épices, tapis et artisanat amazigh.",
+    "address": "Centre, Ouarzazate, Maroc",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -6.892,
+        30.9205
+      ]
+    },
+    "opening_hours": "9h-19h",
+    "tags": [
+      "marché",
+      "épices",
+      "artisanat",
+      "local"
+    ],
+    "suitable_for": [
+      "couple",
+      "famille",
+      "solo",
+      "groupe"
+    ],
+    "entry_price_mad": {
+      "adult": 0,
+      "child": 0,
+      "foreigner": 0
+    },
+    "price_level": 1,
+    "visit_duration_min": 60,
+    "best_time_to_visit": "matin",
+    "accessibility": "partielle",
+    "guided_tour_available": false,
+    "indoor_outdoor": "mixte"
+  },
+  {
+    "slug": "ouarzazate-place-al-mouahidine",
+    "city": "Ouarzazate",
+    "region": "Drâa-Tafilalet",
+    "name": "Place Al Mouahidine",
+    "category": "Place",
+    "subcategory": "Place du centre",
+    "description": "Place centrale de la ville nouvelle, animée le soir autour des cafés.",
+    "address": "Centre, Ouarzazate, Maroc",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -6.8935,
+        30.9195
+      ]
+    },
+    "opening_hours": "24h/24",
+    "tags": [
+      "cafés",
+      "gratuit",
+      "animation"
+    ],
+    "suitable_for": [
+      "couple",
+      "famille",
+      "solo",
+      "groupe"
+    ],
+    "entry_price_mad": {
+      "adult": 0,
+      "child": 0,
+      "foreigner": 0
+    },
+    "price_level": 1,
+    "visit_duration_min": 30,
+    "best_time_to_visit": "soirée",
+    "accessibility": "bonne",
+    "guided_tour_available": false,
+    "indoor_outdoor": "extérieur"
+  },
+  {
+    "city": "Marrakech",
+    "region": "Marrakech-Safi",
+    "name": "Place Jemaa el-Fna",
+    "category": "Place",
+    "description": "Grande place animée de la médina : conteurs, musiciens, jus d'orange le jour et étals de cuisine le soir.",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -7.989,
+        31.6258
+      ]
+    },
+    "tags": [
+      "gratuit",
+      "photo",
+      "gastronomie",
+      "incontournable"
+    ],
+    "visit_duration_min": 90,
+    "best_time_to_visit": "fin d'après-midi et soirée",
+    "indoor_outdoor": "extérieur",
+    "suitable_for": [
+      "couple",
+      "famille",
+      "solo",
+      "groupe"
+    ],
+    "slug": "marrakech-place-jemaa-el-fna",
+    "price_level": 1
+  },
+  {
+    "city": "Marrakech",
+    "region": "Marrakech-Safi",
+    "name": "Palais de la Bahia",
+    "category": "Monument",
+    "subcategory": "Palais",
+    "description": "Palais du XIXe siècle aux cours intérieures, plafonds peints et zelliges, bon exemple de l'architecture de la médina.",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -7.9833,
+        31.6217
+      ]
+    },
+    "tags": [
+      "culture",
+      "architecture",
+      "photo"
+    ],
+    "visit_duration_min": 60,
+    "best_time_to_visit": "matin",
+    "indoor_outdoor": "mixte",
+    "suitable_for": [
+      "couple",
+      "famille",
+      "solo",
+      "groupe"
+    ],
+    "slug": "marrakech-palais-de-la-bahia"
+  },
+  {
+    "city": "Marrakech",
+    "region": "Marrakech-Safi",
+    "name": "Jardin Majorelle",
+    "category": "Jardin",
+    "subcategory": "Jardin botanique",
+    "description": "Jardin botanique créé par le peintre Jacques Majorelle, célèbre pour sa villa bleue et ses cactus.",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -8.003,
+        31.6417
+      ]
+    },
+    "tags": [
+      "photo",
+      "romantique",
+      "famille"
+    ],
+    "visit_duration_min": 75,
+    "best_time_to_visit": "ouverture, pour éviter la foule",
+    "indoor_outdoor": "extérieur",
+    "suitable_for": [
+      "couple",
+      "famille",
+      "solo",
+      "groupe"
+    ],
+    "slug": "marrakech-jardin-majorelle"
+  },
+  {
+    "city": "Marrakech",
+    "region": "Marrakech-Safi",
+    "name": "Jardin de la Ménara",
+    "category": "Jardin",
+    "subcategory": "Jardin historique",
+    "description": "Vaste oliveraie avec un grand bassin et un pavillon, avec les montagnes de l'Atlas en toile de fond.",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -8.0194,
+        31.6097
+      ]
+    },
+    "tags": [
+      "gratuit",
+      "famille",
+      "photo",
+      "détente"
+    ],
+    "visit_duration_min": 60,
+    "best_time_to_visit": "coucher du soleil",
+    "indoor_outdoor": "extérieur",
+    "suitable_for": [
+      "couple",
+      "famille",
+      "solo",
+      "groupe"
+    ],
+    "slug": "marrakech-jardin-de-la-menara",
+    "price_level": 1
+  },
+  {
+    "city": "Marrakech",
+    "region": "Marrakech-Safi",
+    "name": "Le Jardin Secret",
+    "category": "Jardin",
+    "subcategory": "Jardin de riad",
+    "description": "Riad restauré de la médina avec deux jardins, l'un de style islamique et l'autre exotique, et une tour panoramique.",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -7.9877,
+        31.632
+      ]
+    },
+    "tags": [
+      "calme",
+      "romantique",
+      "photo",
+      "médina"
+    ],
+    "visit_duration_min": 60,
+    "indoor_outdoor": "mixte",
+    "suitable_for": [
+      "couple",
+      "famille",
+      "solo",
+      "groupe"
+    ],
+    "slug": "marrakech-le-jardin-secret"
+  },
+  {
+    "city": "Marrakech",
+    "region": "Marrakech-Safi",
+    "name": "Souks de Marrakech",
+    "category": "Souk",
+    "description": "Réseau de ruelles au nord de Jemaa el-Fna : épices, cuir, lanternes, tapis et babouches.",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -7.987,
+        31.633
+      ]
+    },
+    "tags": [
+      "shopping",
+      "artisanat",
+      "culture"
+    ],
+    "visit_duration_min": 120,
+    "best_time_to_visit": "matin",
+    "indoor_outdoor": "mixte",
+    "suitable_for": [
+      "couple",
+      "famille",
+      "solo",
+      "groupe"
+    ],
+    "slug": "marrakech-souks-de-marrakech"
+  },
+  {
+    "city": "Marrakech",
+    "region": "Marrakech-Safi",
+    "name": "Palais El Badi",
+    "category": "Monument",
+    "subcategory": "Palais en ruines",
+    "description": "Ruines d'un grand palais saadien du XVIe siècle, avec bassins, cours et nids de cigognes sur les murs.",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -7.9862,
+        31.6178
+      ]
+    },
+    "tags": [
+      "histoire",
+      "photo",
+      "culture"
+    ],
+    "visit_duration_min": 60,
+    "indoor_outdoor": "extérieur",
+    "suitable_for": [
+      "couple",
+      "famille",
+      "solo",
+      "groupe"
+    ],
+    "slug": "marrakech-palais-el-badi"
+  },
+  {
+    "city": "Marrakech",
+    "region": "Marrakech-Safi",
+    "name": "Tombeaux saadiens",
+    "category": "Monument",
+    "subcategory": "Mausolée",
+    "description": "Nécropole de la dynastie saadienne, redécouverte au XXe siècle, décorée de cèdre sculpté et de zelliges.",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -7.9893,
+        31.6176
+      ]
+    },
+    "tags": [
+      "histoire",
+      "culture",
+      "architecture"
+    ],
+    "visit_duration_min": 40,
+    "indoor_outdoor": "mixte",
+    "suitable_for": [
+      "couple",
+      "famille",
+      "solo",
+      "groupe"
+    ],
+    "slug": "marrakech-tombeaux-saadiens"
+  },
+  {
+    "city": "Fès",
+    "region": "Fès-Meknès",
+    "name": "Fès el-Bali (médina)",
+    "category": "Médina",
+    "subcategory": "Médina",
+    "description": "Médina médiévale classée à l'UNESCO, l'une des plus grandes zones piétonnes urbaines du monde.",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -4.973,
+        34.065
+      ]
+    },
+    "tags": [
+      "UNESCO",
+      "culture",
+      "artisanat",
+      "incontournable"
+    ],
+    "visit_duration_min": 240,
+    "best_time_to_visit": "matin",
+    "guided_tour_available": true,
+    "indoor_outdoor": "extérieur",
+    "suitable_for": [
+      "couple",
+      "famille",
+      "solo",
+      "groupe"
+    ],
+    "slug": "fes-fes-el-bali-medina"
+  },
+  {
+    "city": "Fès",
+    "region": "Fès-Meknès",
+    "name": "Université Al Quaraouiyine",
+    "category": "Monument",
+    "subcategory": "Université / mosquée",
+    "description": "Complexe fondé au IXe siècle, souvent cité comme l'une des plus anciennes universités encore en activité ; l'accès intérieur est limité.",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -4.9735,
+        34.0644
+      ]
+    },
+    "tags": [
+      "histoire",
+      "culture",
+      "architecture"
+    ],
+    "visit_duration_min": 30,
+    "indoor_outdoor": "mixte",
+    "suitable_for": [
+      "couple",
+      "famille",
+      "solo",
+      "groupe"
+    ],
+    "slug": "fes-universite-al-quaraouiyine"
+  },
+  {
+    "city": "Fès",
+    "region": "Fès-Meknès",
+    "name": "Tanneries Chouara",
+    "category": "Site artisanal",
+    "description": "Tannerie traditionnelle aux cuves de teinture, que l'on regarde depuis les terrasses des boutiques de cuir voisines.",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -4.9718,
+        34.0662
+      ]
+    },
+    "tags": [
+      "photo",
+      "artisanat",
+      "culture"
+    ],
+    "visit_duration_min": 30,
+    "best_time_to_visit": "matin",
+    "indoor_outdoor": "extérieur",
+    "suitable_for": [
+      "couple",
+      "famille",
+      "solo",
+      "groupe"
+    ],
+    "slug": "fes-tanneries-chouara"
+  },
+  {
+    "city": "Fès",
+    "region": "Fès-Meknès",
+    "name": "Medersa Bou Inania",
+    "category": "Monument",
+    "subcategory": "Medersa",
+    "description": "École coranique du XIVe siècle, remarquable pour sa cour en zelliges, son stuc et son bois de cèdre sculpté.",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -4.9795,
+        34.0627
+      ]
+    },
+    "tags": [
+      "architecture",
+      "histoire",
+      "photo"
+    ],
+    "visit_duration_min": 45,
+    "indoor_outdoor": "intérieur",
+    "suitable_for": [
+      "couple",
+      "famille",
+      "solo",
+      "groupe"
+    ],
+    "slug": "fes-medersa-bou-inania"
+  },
+  {
+    "city": "Fès",
+    "region": "Fès-Meknès",
+    "name": "Bab Boujloud",
+    "category": "Monument",
+    "subcategory": "Porte",
+    "description": "Porte monumentale aux zelliges bleus et verts, point d'entrée principal vers la médina de Fès.",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -4.983,
+        34.0633
+      ]
+    },
+    "tags": [
+      "gratuit",
+      "photo",
+      "médina"
+    ],
+    "visit_duration_min": 20,
+    "indoor_outdoor": "extérieur",
+    "suitable_for": [
+      "couple",
+      "famille",
+      "solo",
+      "groupe"
+    ],
+    "slug": "fes-bab-boujloud",
+    "price_level": 1
+  },
+  {
+    "city": "Meknès",
+    "region": "Fès-Meknès",
+    "name": "Bab Mansour",
+    "category": "Monument",
+    "subcategory": "Porte",
+    "description": "Porte monumentale du début du XVIIIe siècle, considérée comme l'une des plus belles du Maroc.",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -5.5578,
+        33.8933
+      ]
+    },
+    "tags": [
+      "gratuit",
+      "photo",
+      "architecture",
+      "histoire"
+    ],
+    "visit_duration_min": 20,
+    "indoor_outdoor": "extérieur",
+    "suitable_for": [
+      "couple",
+      "famille",
+      "solo",
+      "groupe"
+    ],
+    "slug": "meknes-bab-mansour",
+    "price_level": 1
+  },
+  {
+    "city": "Meknès",
+    "region": "Fès-Meknès",
+    "name": "Place El Hedim",
+    "category": "Place",
+    "description": "Place centrale face à Bab Mansour, lieu de rendez-vous avec cafés, terrasses et animations le soir.",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -5.5575,
+        33.8935
+      ]
+    },
+    "tags": [
+      "gratuit",
+      "ambiance",
+      "gastronomie"
+    ],
+    "visit_duration_min": 45,
+    "best_time_to_visit": "fin d'après-midi",
+    "indoor_outdoor": "extérieur",
+    "suitable_for": [
+      "couple",
+      "famille",
+      "solo",
+      "groupe"
+    ],
+    "slug": "meknes-place-el-hedim",
+    "price_level": 1
+  },
+  {
+    "city": "Meknès",
+    "region": "Fès-Meknès",
+    "name": "Heri es-Souani",
+    "category": "Monument",
+    "subcategory": "Greniers royaux",
+    "description": "Ensemble de greniers et d'écuries royales de l'époque de Moulay Ismaïl, aux voûtes imposantes.",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -5.546,
+        33.88
+      ]
+    },
+    "tags": [
+      "histoire",
+      "architecture",
+      "calme"
+    ],
+    "visit_duration_min": 45,
+    "indoor_outdoor": "mixte",
+    "suitable_for": [
+      "couple",
+      "famille",
+      "solo",
+      "groupe"
+    ],
+    "slug": "meknes-heri-es-souani"
+  },
+  {
+    "city": "Meknès",
+    "region": "Fès-Meknès",
+    "name": "Site archéologique de Volubilis",
+    "category": "Site archéologique",
+    "subcategory": "Ruines romaines",
+    "description": "Ruines romaines classées à l'UNESCO, à une trentaine de km de Meknès, avec mosaïques et arc de triomphe.",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -5.5547,
+        34.0722
+      ]
+    },
+    "tags": [
+      "UNESCO",
+      "histoire",
+      "excursion",
+      "photo"
+    ],
+    "visit_duration_min": 120,
+    "best_time_to_visit": "matin ou fin d'après-midi",
+    "indoor_outdoor": "extérieur",
+    "suitable_for": [
+      "couple",
+      "famille",
+      "solo",
+      "groupe"
+    ],
+    "slug": "meknes-site-archeologique-de-volubilis"
+  }
+]

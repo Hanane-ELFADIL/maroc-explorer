@@ -1,0 +1,390 @@
+[
+  {
+    "slug": "tanger",
+    "name": "Tanger",
+    "region": "Tanger-Tétouan-Al Hoceïma",
+    "description": "Ville portuaire du détroit de Gibraltar, à la croisée de l'Afrique et de l'Europe, avec médina, Kasbah et littoral atlantique.",
+    "population": 1200000,
+    "best_season": "printemps et automne",
+    "climate": "Méditerranéen océanique",
+    "airport_nearby": "Aéroport Tanger Ibn Battouta (TNG)",
+    "train_station": "Gare de Tanger Ville",
+    "languages": [
+      "arabe",
+      "tamazight",
+      "français",
+      "espagnol"
+    ],
+    "average_daily_budget_mad": {
+      "budget": 400,
+      "moyen": 800,
+      "luxe": 2000
+    },
+    "safety_tips": [
+      "Éviter les faux guides à la médina",
+      "Négocier les prix avant de monter dans un taxi sans compteur",
+      "Surveiller ses affaires dans les zones très fréquentées"
+    ],
+    "local_specialties": [
+      "poisson grillé",
+      "tajine de poisson",
+      "pastilla",
+      "thé à la menthe"
+    ],
+    "typical_duration_days": 3,
+    "nearby_cities": [
+      "Asilah",
+      "Tétouan",
+      "Chefchaouen"
+    ],
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -5.813,
+        35.787
+      ]
+    },
+    "city": "Tanger"
+  },
+  {
+    "slug": "rabat",
+    "name": "Rabat",
+    "region": "Rabat-Salé-Kénitra",
+    "description": "Capitale du Maroc, inscrite à l'UNESCO, mêlant monuments historiques, grands musées et corniche atlantique.",
+    "population": 580000,
+    "best_season": "printemps et automne",
+    "climate": "Méditerranéen océanique",
+    "airport_nearby": "Aéroport Rabat-Salé (RBA)",
+    "train_station": "Gare Rabat-Ville",
+    "languages": [
+      "arabe",
+      "tamazight",
+      "français"
+    ],
+    "average_daily_budget_mad": {
+      "budget": 400,
+      "moyen": 800,
+      "luxe": 2000
+    },
+    "safety_tips": [
+      "Rester vigilant près des gares",
+      "Utiliser des petits taxis avec compteur"
+    ],
+    "local_specialties": [
+      "poisson",
+      "tajine",
+      "pastilla",
+      "pâtisseries"
+    ],
+    "typical_duration_days": 2,
+    "nearby_cities": [
+      "Salé",
+      "Casablanca",
+      "Témara",
+      "Kénitra"
+    ],
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -6.8366,
+        34.0209
+      ]
+    },
+    "city": "Rabat"
+  },
+  {
+    "slug": "chefchaouen",
+    "name": "Chefchaouen",
+    "region": "Tanger-Tétouan-Al Hoceïma",
+    "description": "Ville bleue du Rif, réputée pour sa médina pittoresque, ses randonnées et son climat de montagne.",
+    "population": 45000,
+    "best_season": "printemps et automne",
+    "climate": "Méditerranéen de montagne",
+    "airport_nearby": "Aéroport de Tétouan ou Tanger",
+    "train_station": "Aucune - gare routière",
+    "languages": [
+      "arabe",
+      "tamazight",
+      "espagnol",
+      "français"
+    ],
+    "average_daily_budget_mad": {
+      "budget": 300,
+      "moyen": 600,
+      "luxe": 1500
+    },
+    "safety_tips": [
+      "Attention aux sollicitations pour des produits illicites",
+      "Prévoir des chaussures de marche pour les ruelles et les sentiers"
+    ],
+    "local_specialties": [
+      "jben",
+      "tajine",
+      "miel",
+      "huile d'olive",
+      "tissage"
+    ],
+    "typical_duration_days": 2,
+    "nearby_cities": [
+      "Tétouan",
+      "Tanger",
+      "Fès",
+      "Ouezzane"
+    ],
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -5.2636,
+        35.1688
+      ]
+    },
+    "city": "Chefchaouen"
+  },
+  {
+    "slug": "agadir",
+    "name": "Agadir",
+    "region": "Souss-Massa",
+    "description": "Grande station balnéaire de l'Atlantique, avec sa longue plage, sa marina, sa Kasbah et la proximité de Taghazout, capitale du surf.",
+    "population": 420000,
+    "best_season": "toute l'année (soleil 300 jours par an)",
+    "climate": "Océanique chaud, hivers doux",
+    "airport_nearby": "Aéroport Agadir-Al Massira (AGA)",
+    "train_station": "Aucune - gare routière",
+    "languages": [
+      "arabe",
+      "tamazight",
+      "français"
+    ],
+    "average_daily_budget_mad": {
+      "budget": 350,
+      "moyen": 800,
+      "luxe": 2200
+    },
+    "safety_tips": [
+      "Se baigner dans les zones surveillées",
+      "Convenir du prix avant de monter dans un taxi sans compteur",
+      "Se protéger du soleil"
+    ],
+    "local_specialties": [
+      "tajine de poisson",
+      "huile d'argan",
+      "amlou",
+      "poisson grillé"
+    ],
+    "typical_duration_days": 3,
+    "nearby_cities": [
+      "Essaouira",
+      "Marrakech",
+      "Taghazout"
+    ],
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -9.5981,
+        30.4278
+      ]
+    },
+    "city": "Agadir"
+  },
+  {
+    "slug": "essaouira",
+    "name": "Essaouira",
+    "region": "Marrakech-Safi",
+    "description": "Cité des alizés inscrite à l'UNESCO, avec sa médina fortifiée, son port de pêche, ses plages et son festival gnaoua.",
+    "population": 80000,
+    "best_season": "printemps et automne",
+    "climate": "Océanique frais et venté",
+    "airport_nearby": "Aéroport Essaouira-Mogador (ESU)",
+    "train_station": "Aucune - gare routière",
+    "languages": [
+      "arabe",
+      "tamazight",
+      "français"
+    ],
+    "average_daily_budget_mad": {
+      "budget": 300,
+      "moyen": 700,
+      "luxe": 1800
+    },
+    "safety_tips": [
+      "Prévoir un coupe-vent, il y a souvent du vent",
+      "Éviter de nager par grand vent",
+      "Négocier les prix dans les boutiques"
+    ],
+    "local_specialties": [
+      "poisson grillé",
+      "tajine de poisson",
+      "huile d'argan",
+      "thuya"
+    ],
+    "typical_duration_days": 2,
+    "nearby_cities": [
+      "Marrakech",
+      "Agadir",
+      "Sidi Kaouki"
+    ],
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -9.7595,
+        31.5085
+      ]
+    },
+    "city": "Essaouira"
+  },
+  {
+    "slug": "ouarzazate",
+    "name": "Ouarzazate",
+    "region": "Drâa-Tafilalet",
+    "description": "Porte du désert, ville du cinéma et point de départ vers Aït Ben Haddou, les kasbahs, les oasis et le Sahara.",
+    "population": 70000,
+    "best_season": "printemps et automne",
+    "climate": "Désertique, étés très chauds, hivers frais",
+    "airport_nearby": "Aéroport Ouarzazate (OZZ)",
+    "train_station": "Aucune - gare routière",
+    "languages": [
+      "arabe",
+      "tamazight",
+      "français"
+    ],
+    "average_daily_budget_mad": {
+      "budget": 300,
+      "moyen": 650,
+      "luxe": 1600
+    },
+    "safety_tips": [
+      "Prévoir de l'eau et se protéger du soleil",
+      "Se renseigner sur l'état des routes de montagne en hiver",
+      "Choisir des guides agréés pour le désert"
+    ],
+    "local_specialties": [
+      "tajine",
+      "tanjia",
+      "pain berbère",
+      "dattes",
+      "eau de rose"
+    ],
+    "typical_duration_days": 3,
+    "nearby_cities": [
+      "Marrakech",
+      "Zagora",
+      "Aït Ben Haddou"
+    ],
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -6.8934,
+        30.9189
+      ]
+    },
+    "city": "Ouarzazate"
+  },
+  {
+    "city": "Marrakech",
+    "region": "Marrakech-Safi",
+    "name": "Marrakech",
+    "description": "Ville impériale du sud, mêlant médina, jardins et vie nocturne, avec l'Atlas à proximité.",
+    "best_season": "printemps et automne",
+    "airport_nearby": true,
+    "train_station": true,
+    "languages": [
+      "arabe",
+      "français",
+      "amazigh"
+    ],
+    "safety_tips": [
+      "Convenir du prix avant de monter dans un taxi ou avec un guide",
+      "Attention aux faux guides dans la médina"
+    ],
+    "local_specialties": [
+      "tanjia",
+      "tajine",
+      "pastilla"
+    ],
+    "typical_duration_days": 3,
+    "nearby_cities": [
+      "Essaouira",
+      "Ouarzazate"
+    ],
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -7.9811,
+        31.6295
+      ]
+    },
+    "slug": "marrakech"
+  },
+  {
+    "city": "Fès",
+    "region": "Fès-Meknès",
+    "name": "Fès",
+    "description": "Capitale spirituelle et artisanale, avec l'une des plus grandes médinas piétonnes du monde.",
+    "best_season": "printemps et automne",
+    "airport_nearby": true,
+    "train_station": true,
+    "languages": [
+      "arabe",
+      "français",
+      "amazigh"
+    ],
+    "safety_tips": [
+      "Convenir du prix avant de monter dans un taxi ou avec un guide",
+      "Attention aux faux guides dans la médina"
+    ],
+    "local_specialties": [
+      "pastilla fassia",
+      "tajine",
+      "harira"
+    ],
+    "typical_duration_days": 3,
+    "nearby_cities": [
+      "Meknès",
+      "Chefchaouen"
+    ],
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -5.0078,
+        34.0181
+      ]
+    },
+    "slug": "fes"
+  },
+  {
+    "city": "Meknès",
+    "region": "Fès-Meknès",
+    "name": "Meknès",
+    "description": "Ville impériale plus calme, proche de Volubilis, avec de grandes portes monumentales.",
+    "best_season": "printemps et automne",
+    "airport_nearby": false,
+    "train_station": true,
+    "languages": [
+      "arabe",
+      "français",
+      "amazigh"
+    ],
+    "safety_tips": [
+      "Convenir du prix avant de monter dans un taxi ou avec un guide",
+      "Attention aux faux guides dans la médina"
+    ],
+    "local_specialties": [
+      "vins et olives de la région",
+      "tajine",
+      "pastilla"
+    ],
+    "typical_duration_days": 2,
+    "nearby_cities": [
+      "Fès",
+      "Rabat"
+    ],
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -5.5547,
+        33.8935
+      ]
+    },
+    "slug": "meknes"
+  }
+]

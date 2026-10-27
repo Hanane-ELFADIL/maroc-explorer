@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org" th:lang="${#locale.language}">
+<head th:replace="~{fragments :: head(#{ex.title})}"></head>
+<body>
+<header th:replace="~{fragments :: nav}"></header>
+<main class="container">
+  <div class="sec-head first"><h1 th:text="#{ex.title}"></h1></div>
+  <form class="filters panel" method="get" th:action="@{/explore}">
+    <input name="q" th:value="${f['q']}" th:placeholder="#{nav.search}" aria-label="search">
+    <select name="city"><option value="" th:text="#{ex.city}"></option><option th:each="c : ${cityNames}" th:value="${c}" th:text="${c}" th:selected="${f['city'] == c}"></option></select>
+    <select name="col"><option value="" th:text="#{ex.type}"></option><option th:each="c : ${cols}" th:value="${c}" th:text="#{'col.' + ${c}}" th:selected="${f['col'] == c}"></option></select>
+    <select name="cat"><option value="" th:text="#{ex.cat}"></option><option th:each="c : ${categories}" th:value="${c}" th:text="${c}" th:selected="${f['cat'] == c}"></option></select>
+    <select name="level"><option value="" th:text="#{ex.budget}"></option><option th:each="i : ${levels}" th:value="${i}" th:text="#{'lvl.' + ${i}}" th:selected="${f['level'] == i}"></option></select>
+    <select name="sort"><option th:each="s : ${sorts}" th:value="${s}" th:text="#{'sort.' + ${s}}" th:selected="${f['sort'] == s}"></option></select>
+    <div class="filter-actions">
+      <button class="btn" th:text="#{ex.apply}"></button>
+      <a class="btn ghost" th:href="@{/explore}" th:text="#{ex.reset}"></a>
+      <button class="btn ghost" type="button" id="near" th:text="'◎ ' + #{ex.near}"></button>
+    </div>
+  </form>
+  <p class="muted results-count"><b th:text="${total}"></b> <span th:text="#{ex.results}"></span></p>
+  <div class="split">
+    <section>
+      <p th:if="${list.isEmpty()}" th:text="#{ex.none}"></p>
+      <div class="grid g2"><th:block th:each="d : ${list}"><div th:replace="~{fragments :: card(${d})}"></div></th:block></div>
+      <nav class="pager" th:if="${pages > 1}">
+        <a th:each="i : ${#numbers.sequence(1, pages)}" th:text="${i}" th:classappend="${i == page} ? 'on'"
+           th:href="@{/explore(city=${f['city']},col=${f['col']},q=${f['q']},cat=${f['cat']},level=${f['level']},sort=${f['sort']},page=${i})}"></a>
+      </nav>
+    </section>
+    <aside class="mapwrap"><div id="map"></div></aside>
+  </div>
+</main>
+<script th:inline="javascript">window.MARKERS = /*[[${markers}]]*/ [];</script>
+<footer th:replace="~{fragments :: footer}"></footer>
+</body></html>

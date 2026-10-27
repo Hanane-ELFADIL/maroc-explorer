@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org" xmlns:sec="http://www.thymeleaf.org/extras/spring-security" th:lang="${#locale.language}">
+<head th:replace="~{fragments :: head(${p['name']})}"></head>
+<body>
+<header th:replace="~{fragments :: nav}"></header>
+<section class="page-hero short">
+  <img th:src="@{${@places.img(p)}}" th:alt="${p['name']}" th:data-wiki="${@places.wikiQuery(p)}">
+  <div class="container"><nav class="crumbs"><a th:href="@{/}" th:text="#{place.home}"></a> › <a th:href="@{/city/{n}(n=${p['city']})}" th:text="${p['city']}"></a> › <a th:href="@{/explore(col=${p['col']},city=${p['city']})}" th:text="#{'col.' + ${p['col']}}"></a></nav>
+    <h1 th:text="${p['name']}"></h1><p th:text="${p['subcategory']}"></p></div>
+  <small class="credit" th:if="${@places.credit(p) != null}"><a th:href="${@places.credit(p)[1]}" target="_blank" rel="noopener" th:text="'📷 ' + ${@places.credit(p)[0]}"></a></small>
+</section>
+<main class="container two">
+  <div>
+    <h2 th:text="#{place.about}"></h2>
+    <p class="lead" th:text="${p['description']}"></p>
+    <p class="muted" id="wiki" th:data-wiki-text="${@places.wikiQuery(p)}"></p>
+    <div class="actions">
+      <form sec:authorize="isAuthenticated()" th:action="@{/fav}" method="post">
+        <input type="hidden" name="key" th:value="${p['col'] + ':' + p['slug']}">
+        <button class="btn" th:text="${favs.contains(p['col'] + ':' + p['slug'])} ? '♥ ' + #{place.faved} : '♡ ' + #{place.fav}"></button></form>
+      <a class="btn ghost" th:if="${@places.directions(p) != null}" th:href="${@places.directions(p)}" target="_blank" rel="noopener" th:text="#{place.directions}"></a>
+    </div>
+    <h2 th:if="${!markers.isEmpty()}" th:text="#{place.map}"></h2><div id="map" th:if="${!markers.isEmpty()}"></div>
+  </div>
+  <aside class="box"><h2 th:text="#{place.info}"></h2>
+    <dl class="facts"><th:block th:each="f : ${facts}"><dt th:text="${#messages.msgOrNull('f.' + f[0]) ?: f[0]}"></dt><dd th:text="${f[1]}"></dd></th:block></dl>
+  </aside>
+</main>
+<div class="container" th:if="${!similar.isEmpty()}"><div class="sec-head"><h2 th:text="#{place.similar}"></h2></div>
+  <div class="grid"><th:block th:each="d : ${similar}"><div th:replace="~{fragments :: card(${d})}"></div></th:block></div></div>
+<script th:inline="javascript">window.MARKERS = /*[[${markers}]]*/ [];</script>
+<footer th:replace="~{fragments :: footer}"></footer>
+</body></html>

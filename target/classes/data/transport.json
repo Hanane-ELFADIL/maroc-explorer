@@ -1,0 +1,901 @@
+[
+  {
+    "slug": "tanger-aeroport-tanger-ibn-battouta-tng",
+    "city": "Tanger",
+    "region": "Tanger-Tétouan-Al Hoceïma",
+    "name": "Aéroport Tanger Ibn Battouta (TNG)",
+    "category": "Transport",
+    "subcategory": "aéroport",
+    "description": "Aéroport international de Tanger, à environ 14 km du centre.",
+    "address": "Ville, Tanger, Maroc",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -5.9169,
+        35.7269
+      ]
+    },
+    "tags": [
+      "aéroport"
+    ],
+    "suitable_for": [
+      "couple",
+      "famille",
+      "solo",
+      "groupe"
+    ],
+    "type": "aéroport",
+    "distance_to_center_km": 14,
+    "to_center_price_mad": 150,
+    "transfer": "petit taxi / grand taxi"
+  },
+  {
+    "slug": "tanger-gare-de-tanger-ville",
+    "city": "Tanger",
+    "region": "Tanger-Tétouan-Al Hoceïma",
+    "name": "Gare de Tanger Ville",
+    "category": "Transport",
+    "subcategory": "gare",
+    "description": "Gare principale avec liaisons Al Boraq vers Rabat et Casablanca.",
+    "address": "Ville, Tanger, Maroc",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -5.7948,
+        35.7757
+      ]
+    },
+    "tags": [
+      "gare"
+    ],
+    "suitable_for": [
+      "couple",
+      "famille",
+      "solo",
+      "groupe"
+    ],
+    "type": "gare",
+    "services": [
+      "Al Boraq",
+      "ONCF"
+    ]
+  },
+  {
+    "slug": "tanger-port-de-tanger-ville",
+    "city": "Tanger",
+    "region": "Tanger-Tétouan-Al Hoceïma",
+    "name": "Port de Tanger Ville",
+    "category": "Transport",
+    "subcategory": "port",
+    "description": "Port avec liaisons maritimes vers l'Espagne.",
+    "address": "Ville, Tanger, Maroc",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -5.803,
+        35.787
+      ]
+    },
+    "tags": [
+      "port"
+    ],
+    "suitable_for": [
+      "couple",
+      "famille",
+      "solo",
+      "groupe"
+    ],
+    "type": "port",
+    "services": [
+      "ferries vers Tarifa/Algésiras (selon saison)"
+    ]
+  },
+  {
+    "slug": "tanger-petit-taxi-tanger",
+    "city": "Tanger",
+    "region": "Tanger-Tétouan-Al Hoceïma",
+    "name": "Petit taxi Tanger",
+    "category": "Transport",
+    "subcategory": "taxi",
+    "description": "Taxis urbains compteurs, trajets en ville à petits prix.",
+    "address": "Ville, Tanger, Maroc",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -5.8135,
+        35.7875
+      ]
+    },
+    "tags": [
+      "taxi"
+    ],
+    "suitable_for": [
+      "couple",
+      "famille",
+      "solo",
+      "groupe"
+    ],
+    "type": "taxi",
+    "avg_price_mad": {
+      "min": 8,
+      "max": 40
+    }
+  },
+  {
+    "slug": "rabat-aeroport-rabat-sale-rba",
+    "city": "Rabat",
+    "region": "Rabat-Salé-Kénitra",
+    "name": "Aéroport Rabat-Salé (RBA)",
+    "category": "Transport",
+    "subcategory": "aéroport",
+    "description": "Aéroport desservant Rabat, à environ 10 km du centre.",
+    "address": "Ville, Rabat, Maroc",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -6.7515,
+        34.0515
+      ]
+    },
+    "tags": [
+      "aéroport"
+    ],
+    "suitable_for": [
+      "couple",
+      "famille",
+      "solo",
+      "groupe"
+    ],
+    "type": "aéroport",
+    "distance_to_center_km": 10,
+    "to_center_price_mad": 120,
+    "transfer": "petit taxi"
+  },
+  {
+    "slug": "rabat-gare-rabat-ville",
+    "city": "Rabat",
+    "region": "Rabat-Salé-Kénitra",
+    "name": "Gare Rabat-Ville",
+    "category": "Transport",
+    "subcategory": "gare",
+    "description": "Gare centrale de Rabat avec Al Boraq et trains régionaux.",
+    "address": "Ville, Rabat, Maroc",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -6.835,
+        34.0143
+      ]
+    },
+    "tags": [
+      "gare"
+    ],
+    "suitable_for": [
+      "couple",
+      "famille",
+      "solo",
+      "groupe"
+    ],
+    "type": "gare",
+    "services": [
+      "Al Boraq",
+      "ONCF"
+    ]
+  },
+  {
+    "slug": "rabat-gare-rabat-agdal",
+    "city": "Rabat",
+    "region": "Rabat-Salé-Kénitra",
+    "name": "Gare Rabat-Agdal",
+    "category": "Transport",
+    "subcategory": "gare",
+    "description": "Gare du quartier Agdal, utile pour les hôtels de ce secteur.",
+    "address": "Ville, Rabat, Maroc",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -6.846,
+        33.997
+      ]
+    },
+    "tags": [
+      "gare"
+    ],
+    "suitable_for": [
+      "couple",
+      "famille",
+      "solo",
+      "groupe"
+    ],
+    "type": "gare",
+    "services": [
+      "ONCF"
+    ]
+  },
+  {
+    "slug": "rabat-tramway-de-rabat-sale",
+    "city": "Rabat",
+    "region": "Rabat-Salé-Kénitra",
+    "name": "Tramway de Rabat-Salé",
+    "category": "Transport",
+    "subcategory": "tramway",
+    "description": "Réseau de tramway reliant Rabat et Salé, pratique et économique.",
+    "address": "Ville, Rabat, Maroc",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -6.84,
+        34.02
+      ]
+    },
+    "tags": [
+      "tramway"
+    ],
+    "suitable_for": [
+      "couple",
+      "famille",
+      "solo",
+      "groupe"
+    ],
+    "type": "tramway",
+    "avg_price_mad": {
+      "min": 6,
+      "max": 7
+    }
+  },
+  {
+    "slug": "chefchaouen-gare-routiere-de-chefchaouen",
+    "city": "Chefchaouen",
+    "region": "Tanger-Tétouan-Al Hoceïma",
+    "name": "Gare routière de Chefchaouen",
+    "category": "Transport",
+    "subcategory": "gare routière",
+    "description": "Gare routière avec bus CTM et autres compagnies vers Tanger, Fès, Tétouan et Rabat.",
+    "address": "Ville, Chefchaouen, Maroc",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -5.2705,
+        35.1655
+      ]
+    },
+    "tags": [
+      "gare routière"
+    ],
+    "suitable_for": [
+      "couple",
+      "famille",
+      "solo",
+      "groupe"
+    ],
+    "type": "gare routière",
+    "services": [
+      "CTM",
+      "Supratours"
+    ]
+  },
+  {
+    "slug": "chefchaouen-grand-taxi-chefchaouen",
+    "city": "Chefchaouen",
+    "region": "Tanger-Tétouan-Al Hoceïma",
+    "name": "Grand taxi Chefchaouen",
+    "category": "Transport",
+    "subcategory": "taxi",
+    "description": "Grands taxis partagés vers Tétouan, Ouezzane et d'autres villes, ainsi que vers Akchour.",
+    "address": "Ville, Chefchaouen, Maroc",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -5.2705,
+        35.1665
+      ]
+    },
+    "tags": [
+      "taxi"
+    ],
+    "suitable_for": [
+      "couple",
+      "famille",
+      "solo",
+      "groupe"
+    ],
+    "type": "taxi",
+    "avg_price_mad": {
+      "min": 20,
+      "max": 150
+    }
+  },
+  {
+    "slug": "route-tanger-rabat-train-al-boraq",
+    "city": "Tanger",
+    "region": "Tanger-Tétouan-Al Hoceïma",
+    "name": "Tanger → Rabat (train (Al Boraq))",
+    "category": "Transport",
+    "subcategory": "trajet inter-villes",
+    "type": "route",
+    "from_city": "Tanger",
+    "to_city": "Rabat",
+    "mode": "train (Al Boraq)",
+    "duration_min": 100,
+    "price_mad": {
+      "min": 150,
+      "max": 230
+    },
+    "frequency": "plusieurs par jour",
+    "description": "Train à grande vitesse, le plus rapide.",
+    "tags": [
+      "trajet",
+      "inter-villes"
+    ]
+  },
+  {
+    "slug": "route-rabat-tanger-train-al-boraq",
+    "city": "Rabat",
+    "region": "Rabat-Salé-Kénitra",
+    "name": "Rabat → Tanger (train (Al Boraq))",
+    "category": "Transport",
+    "subcategory": "trajet inter-villes",
+    "type": "route",
+    "from_city": "Rabat",
+    "to_city": "Tanger",
+    "mode": "train (Al Boraq)",
+    "duration_min": 100,
+    "price_mad": {
+      "min": 150,
+      "max": 230
+    },
+    "frequency": "plusieurs par jour",
+    "description": "Train à grande vitesse, le plus rapide.",
+    "tags": [
+      "trajet",
+      "inter-villes"
+    ]
+  },
+  {
+    "slug": "route-tanger-chefchaouen-bus-grand-taxi",
+    "city": "Tanger",
+    "region": "Tanger-Tétouan-Al Hoceïma",
+    "name": "Tanger → Chefchaouen (bus / grand taxi)",
+    "category": "Transport",
+    "subcategory": "trajet inter-villes",
+    "type": "route",
+    "from_city": "Tanger",
+    "to_city": "Chefchaouen",
+    "mode": "bus / grand taxi",
+    "duration_min": 180,
+    "price_mad": {
+      "min": 60,
+      "max": 110
+    },
+    "frequency": "plusieurs par jour",
+    "description": "Bus CTM ou grand taxi. Prévoir 3 h environ.",
+    "tags": [
+      "trajet",
+      "inter-villes"
+    ]
+  },
+  {
+    "slug": "route-chefchaouen-tanger-bus-grand-taxi",
+    "city": "Chefchaouen",
+    "region": "Tanger-Tétouan-Al Hoceïma",
+    "name": "Chefchaouen → Tanger (bus / grand taxi)",
+    "category": "Transport",
+    "subcategory": "trajet inter-villes",
+    "type": "route",
+    "from_city": "Chefchaouen",
+    "to_city": "Tanger",
+    "mode": "bus / grand taxi",
+    "duration_min": 180,
+    "price_mad": {
+      "min": 60,
+      "max": 110
+    },
+    "frequency": "plusieurs par jour",
+    "description": "Bus CTM ou grand taxi.",
+    "tags": [
+      "trajet",
+      "inter-villes"
+    ]
+  },
+  {
+    "slug": "route-rabat-chefchaouen-bus-train-bus",
+    "city": "Rabat",
+    "region": "Rabat-Salé-Kénitra",
+    "name": "Rabat → Chefchaouen (bus / train+bus)",
+    "category": "Transport",
+    "subcategory": "trajet inter-villes",
+    "type": "route",
+    "from_city": "Rabat",
+    "to_city": "Chefchaouen",
+    "mode": "bus / train+bus",
+    "duration_min": 300,
+    "price_mad": {
+      "min": 120,
+      "max": 220
+    },
+    "frequency": "quelques par jour",
+    "description": "Bus direct ou via Tanger/Tétouan/Fès.",
+    "tags": [
+      "trajet",
+      "inter-villes"
+    ]
+  },
+  {
+    "slug": "route-chefchaouen-rabat-bus-train-bus",
+    "city": "Chefchaouen",
+    "region": "Tanger-Tétouan-Al Hoceïma",
+    "name": "Chefchaouen → Rabat (bus / train+bus)",
+    "category": "Transport",
+    "subcategory": "trajet inter-villes",
+    "type": "route",
+    "from_city": "Chefchaouen",
+    "to_city": "Rabat",
+    "mode": "bus / train+bus",
+    "duration_min": 300,
+    "price_mad": {
+      "min": 120,
+      "max": 220
+    },
+    "frequency": "quelques par jour",
+    "description": "Bus direct ou via Fès/Tanger.",
+    "tags": [
+      "trajet",
+      "inter-villes"
+    ]
+  },
+  {
+    "slug": "agadir-aeroport-agadir-al-massira-aga",
+    "city": "Agadir",
+    "region": "Souss-Massa",
+    "name": "Aéroport Agadir-Al Massira (AGA)",
+    "category": "Transport",
+    "subcategory": "aéroport",
+    "description": "Aéroport international d'Agadir, à environ 25 km du centre.",
+    "address": "Ville, Agadir, Maroc",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -9.413,
+        30.325
+      ]
+    },
+    "tags": [
+      "aéroport"
+    ],
+    "suitable_for": [
+      "couple",
+      "famille",
+      "solo",
+      "groupe"
+    ],
+    "type": "aéroport",
+    "distance_to_center_km": 25,
+    "to_center_price_mad": 250,
+    "transfer": "grand taxi / bus"
+  },
+  {
+    "slug": "agadir-gare-routiere-d-agadir",
+    "city": "Agadir",
+    "region": "Souss-Massa",
+    "name": "Gare routière d'Agadir",
+    "category": "Transport",
+    "subcategory": "gare routière",
+    "description": "Gare routière avec bus CTM et Supratours vers Marrakech, Essaouira, Casablanca et le sud.",
+    "address": "Ville, Agadir, Maroc",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -9.576,
+        30.409
+      ]
+    },
+    "tags": [
+      "gare routière"
+    ],
+    "suitable_for": [
+      "couple",
+      "famille",
+      "solo",
+      "groupe"
+    ],
+    "type": "gare routière",
+    "services": [
+      "CTM",
+      "Supratours"
+    ]
+  },
+  {
+    "slug": "agadir-petit-taxi-agadir",
+    "city": "Agadir",
+    "region": "Souss-Massa",
+    "name": "Petit taxi Agadir",
+    "category": "Transport",
+    "subcategory": "taxi",
+    "description": "Taxis urbains compteur, trajets en ville à petit prix.",
+    "address": "Ville, Agadir, Maroc",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -9.599,
+        30.418
+      ]
+    },
+    "tags": [
+      "taxi"
+    ],
+    "suitable_for": [
+      "couple",
+      "famille",
+      "solo",
+      "groupe"
+    ],
+    "type": "taxi",
+    "avg_price_mad": {
+      "min": 10,
+      "max": 50
+    }
+  },
+  {
+    "slug": "essaouira-aeroport-essaouira-mogador-esu",
+    "city": "Essaouira",
+    "region": "Marrakech-Safi",
+    "name": "Aéroport Essaouira-Mogador (ESU)",
+    "category": "Transport",
+    "subcategory": "aéroport",
+    "description": "Petit aéroport à environ 15 km de la ville.",
+    "address": "Ville, Essaouira, Maroc",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -9.6817,
+        31.3975
+      ]
+    },
+    "tags": [
+      "aéroport"
+    ],
+    "suitable_for": [
+      "couple",
+      "famille",
+      "solo",
+      "groupe"
+    ],
+    "type": "aéroport",
+    "distance_to_center_km": 15,
+    "to_center_price_mad": 120,
+    "transfer": "taxi"
+  },
+  {
+    "slug": "essaouira-gare-routiere-d-essaouira",
+    "city": "Essaouira",
+    "region": "Marrakech-Safi",
+    "name": "Gare routière d'Essaouira",
+    "category": "Transport",
+    "subcategory": "gare routière",
+    "description": "Gare routière avec bus CTM et Supratours vers Marrakech, Agadir et Casablanca.",
+    "address": "Ville, Essaouira, Maroc",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -9.758,
+        31.505
+      ]
+    },
+    "tags": [
+      "gare routière"
+    ],
+    "suitable_for": [
+      "couple",
+      "famille",
+      "solo",
+      "groupe"
+    ],
+    "type": "gare routière",
+    "services": [
+      "CTM",
+      "Supratours"
+    ]
+  },
+  {
+    "slug": "ouarzazate-aeroport-ouarzazate-ozz",
+    "city": "Ouarzazate",
+    "region": "Drâa-Tafilalet",
+    "name": "Aéroport Ouarzazate (OZZ)",
+    "category": "Transport",
+    "subcategory": "aéroport",
+    "description": "Aéroport desservant Ouarzazate et la région, à environ 5 km de la ville.",
+    "address": "Ville, Ouarzazate, Maroc",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -6.91,
+        30.939
+      ]
+    },
+    "tags": [
+      "aéroport"
+    ],
+    "suitable_for": [
+      "couple",
+      "famille",
+      "solo",
+      "groupe"
+    ],
+    "type": "aéroport",
+    "distance_to_center_km": 5,
+    "to_center_price_mad": 60,
+    "transfer": "petit taxi"
+  },
+  {
+    "slug": "ouarzazate-gare-routiere-d-ouarzazate",
+    "city": "Ouarzazate",
+    "region": "Drâa-Tafilalet",
+    "name": "Gare routière d'Ouarzazate",
+    "category": "Transport",
+    "subcategory": "gare routière",
+    "description": "Gare routière avec bus CTM et Supratours vers Marrakech, Agadir et le sud.",
+    "address": "Ville, Ouarzazate, Maroc",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -6.894,
+        30.919
+      ]
+    },
+    "tags": [
+      "gare routière"
+    ],
+    "suitable_for": [
+      "couple",
+      "famille",
+      "solo",
+      "groupe"
+    ],
+    "type": "gare routière",
+    "services": [
+      "CTM",
+      "Supratours"
+    ]
+  },
+  {
+    "slug": "route-agadir-marrakech-bus",
+    "city": "Agadir",
+    "region": "Souss-Massa",
+    "name": "Agadir → Marrakech (bus)",
+    "category": "Transport",
+    "subcategory": "trajet inter-villes",
+    "type": "route",
+    "from_city": "Agadir",
+    "to_city": "Marrakech",
+    "mode": "bus",
+    "duration_min": 240,
+    "price_mad": {
+      "min": 100,
+      "max": 160
+    },
+    "frequency": "plusieurs par jour",
+    "description": "Bus CTM ou Supratours, environ 3 h 30 à 4 h.",
+    "tags": [
+      "trajet",
+      "inter-villes"
+    ]
+  },
+  {
+    "slug": "route-agadir-essaouira-bus",
+    "city": "Agadir",
+    "region": "Souss-Massa",
+    "name": "Agadir → Essaouira (bus)",
+    "category": "Transport",
+    "subcategory": "trajet inter-villes",
+    "type": "route",
+    "from_city": "Agadir",
+    "to_city": "Essaouira",
+    "mode": "bus",
+    "duration_min": 180,
+    "price_mad": {
+      "min": 70,
+      "max": 110
+    },
+    "frequency": "plusieurs par jour",
+    "description": "Bus direct le long de la côte.",
+    "tags": [
+      "trajet",
+      "inter-villes"
+    ]
+  },
+  {
+    "slug": "route-agadir-taghazout-bus-taxi",
+    "city": "Agadir",
+    "region": "Souss-Massa",
+    "name": "Agadir → Taghazout (bus / taxi)",
+    "category": "Transport",
+    "subcategory": "trajet inter-villes",
+    "type": "route",
+    "from_city": "Agadir",
+    "to_city": "Taghazout",
+    "mode": "bus / taxi",
+    "duration_min": 40,
+    "price_mad": {
+      "min": 10,
+      "max": 40
+    },
+    "frequency": "fréquent",
+    "description": "Bus local ou taxi collectif, environ 30 minutes.",
+    "tags": [
+      "trajet",
+      "inter-villes"
+    ]
+  },
+  {
+    "slug": "route-essaouira-marrakech-bus",
+    "city": "Essaouira",
+    "region": "Marrakech-Safi",
+    "name": "Essaouira → Marrakech (bus)",
+    "category": "Transport",
+    "subcategory": "trajet inter-villes",
+    "type": "route",
+    "from_city": "Essaouira",
+    "to_city": "Marrakech",
+    "mode": "bus",
+    "duration_min": 170,
+    "price_mad": {
+      "min": 70,
+      "max": 100
+    },
+    "frequency": "plusieurs par jour",
+    "description": "Bus CTM ou Supratours, environ 2 h 30 à 3 h.",
+    "tags": [
+      "trajet",
+      "inter-villes"
+    ]
+  },
+  {
+    "slug": "route-essaouira-agadir-bus",
+    "city": "Essaouira",
+    "region": "Marrakech-Safi",
+    "name": "Essaouira → Agadir (bus)",
+    "category": "Transport",
+    "subcategory": "trajet inter-villes",
+    "type": "route",
+    "from_city": "Essaouira",
+    "to_city": "Agadir",
+    "mode": "bus",
+    "duration_min": 180,
+    "price_mad": {
+      "min": 70,
+      "max": 110
+    },
+    "frequency": "plusieurs par jour",
+    "description": "Bus direct le long de la côte.",
+    "tags": [
+      "trajet",
+      "inter-villes"
+    ]
+  },
+  {
+    "slug": "route-ouarzazate-marrakech-bus-grand-taxi",
+    "city": "Ouarzazate",
+    "region": "Drâa-Tafilalet",
+    "name": "Ouarzazate → Marrakech (bus / grand taxi)",
+    "category": "Transport",
+    "subcategory": "trajet inter-villes",
+    "type": "route",
+    "from_city": "Ouarzazate",
+    "to_city": "Marrakech",
+    "mode": "bus / grand taxi",
+    "duration_min": 270,
+    "price_mad": {
+      "min": 80,
+      "max": 130
+    },
+    "frequency": "plusieurs par jour",
+    "description": "Route du Tizi n'Tichka, environ 4 h à 5 h.",
+    "tags": [
+      "trajet",
+      "inter-villes"
+    ]
+  },
+  {
+    "slug": "route-marrakech-ouarzazate-bus-grand-taxi",
+    "city": "Marrakech",
+    "region": "Marrakech-Safi",
+    "name": "Marrakech → Ouarzazate (bus / grand taxi)",
+    "category": "Transport",
+    "subcategory": "trajet inter-villes",
+    "type": "route",
+    "from_city": "Marrakech",
+    "to_city": "Ouarzazate",
+    "mode": "bus / grand taxi",
+    "duration_min": 270,
+    "price_mad": {
+      "min": 80,
+      "max": 130
+    },
+    "frequency": "plusieurs par jour",
+    "description": "Route du Tizi n'Tichka, environ 4 h à 5 h.",
+    "tags": [
+      "trajet",
+      "inter-villes"
+    ]
+  },
+  {
+    "city": "Marrakech",
+    "region": "Marrakech-Safi",
+    "name": "Aéroport Marrakech-Ménara (RAK)",
+    "category": "Transport",
+    "description": "Aéroport international de Marrakech.",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -8.0363,
+        31.6069
+      ]
+    },
+    "type": "aéroport",
+    "slug": "marrakech-aeroport-marrakech-menara-rak"
+  },
+  {
+    "city": "Marrakech",
+    "region": "Marrakech-Safi",
+    "name": "Gare de Marrakech",
+    "category": "Transport",
+    "description": "Gare ONCF de Marrakech, quartier Guéliz.",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -8.0165,
+        31.6333
+      ]
+    },
+    "type": "gare",
+    "slug": "marrakech-gare-de-marrakech"
+  },
+  {
+    "city": "Fès",
+    "region": "Fès-Meknès",
+    "name": "Aéroport Fès-Saïs (FEZ)",
+    "category": "Transport",
+    "description": "Aéroport de Fès, à quelques km au sud de la ville.",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -4.9783,
+        33.9272
+      ]
+    },
+    "type": "aéroport",
+    "slug": "fes-aeroport-fes-sais-fez"
+  },
+  {
+    "city": "Fès",
+    "region": "Fès-Meknès",
+    "name": "Gare de Fès",
+    "category": "Transport",
+    "description": "Gare ONCF de Fès.",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -4.9944,
+        34.0345
+      ]
+    },
+    "type": "gare",
+    "slug": "fes-gare-de-fes"
+  },
+  {
+    "city": "Meknès",
+    "region": "Fès-Meknès",
+    "name": "Gare de Meknès",
+    "category": "Transport",
+    "description": "Gare ONCF de Meknès, dans la ville nouvelle.",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -5.5313,
+        33.8886
+      ]
+    },
+    "type": "gare",
+    "slug": "meknes-gare-de-meknes"
+  }
+]

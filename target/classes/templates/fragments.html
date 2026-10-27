@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org" xmlns:sec="http://www.thymeleaf.org/extras/spring-security">
+<head th:fragment="head(title)">
+  <meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+  <title th:text="${title} + ' · Maroc Explorer'">Maroc Explorer</title>
+  <script>(function(){var t=localStorage.getItem('theme')||'system';var d=t==='dark'||(t==='system'&&matchMedia('(prefers-color-scheme: dark)').matches);document.documentElement.dataset.theme=d?'dark':'light';})()</script>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Playfair+Display:wght@600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
+  <link rel="stylesheet" th:href="@{/style.css}">
+</head>
+<body>
+
+<header th:fragment="nav" class="site">
+  <div class="container bar">
+    <a class="brand" th:href="@{/}"><span class="mark">✦</span><span th:text="#{brand}"></span></a>
+    <button class="burger" id="burger" type="button" aria-label="Menu">☰</button>
+    <nav class="menu" id="menu">
+      <a th:href="@{/}" th:text="#{nav.home}"></a>
+      <div class="dd">
+        <button type="button" class="dd-btn" th:text="#{nav.destinations} + ' ▾'"></button>
+        <div class="dd-panel">
+          <div class="dd-col" th:each="r : ${regions}">
+            <h4 th:text="${r.key}"></h4>
+            <a th:each="n : ${r.value}" th:href="@{/city/{n}(n=${n})}" th:text="${n}"></a>
+          </div>
+          <a class="dd-all" th:href="@{/explore}" th:text="#{nav.all}"></a>
+        </div>
+      </div>
+      <a th:href="@{/explore}" th:text="#{nav.explore}"></a>
+      <a th:href="@{/itinerary}" th:text="#{nav.itinerary}"></a>
+      <a th:href="@{/favorites}" th:text="#{nav.favorites}"></a>
+      <a th:href="@{/about}" th:text="#{nav.about}"></a>
+    </nav>
+    <div class="tools">
+      <select id="theme" aria-label="theme" th:title="#{theme.system}"><option value="light" th:title="#{theme.light}">☀</option><option value="dark" th:title="#{theme.dark}">☾</option><option value="system" th:title="#{theme.system}">◐</option></select>
+      <span class="langs"><a href="#" data-lang="fr">FR</a><a href="#" data-lang="en">EN</a></span>
+      <span class="nav-auth" sec:authorize="!isAuthenticated()"><a class="btn sm ghost" th:href="@{/login}" th:text="#{nav.login}"></a><a class="btn sm" th:href="@{/signup}" th:text="#{nav.signup}"></a></span>
+      <form sec:authorize="isAuthenticated()" th:action="@{/logout}" method="post" class="inline"><button class="btn sm ghost" th:text="#{nav.logout}"></button></form>
+    </div>
+  </div>
+</header>
+
+<article th:fragment="card(p)" class="card">
+  <a class="media" th:href="@{/place/{c}/{s}(c=${p['col']},s=${p['slug']})}">
+    <img loading="lazy" th:src="@{${@places.img(p)}}" th:alt="${p['name']}" th:data-wiki="${@places.wikiQuery(p)}">
+    <span class="chip" th:text="#{'col.' + ${p['col']}}"></span>
+  </a>
+  <div class="card-body">
+    <div class="meta"><span th:text="${p['city']}"></span><span th:if="${p['subcategory'] != null}" th:text="'· ' + ${p['subcategory']}"></span>
+      <span class="stars" th:if="${p['stars'] != null}" th:text="${#strings.repeat('★', p['stars'])}"></span></div>
+    <h3><a th:href="@{/place/{c}/{s}(c=${p['col']},s=${p['slug']})}" th:text="${p['name']}"></a></h3>
+    <p class="desc" th:text="${p['description']}"></p>
+    <div class="card-foot">
+      <span><b class="price" th:text="${@places.price(p)}"></b> <small class="muted" th:if="${p['price_level'] != null}" th:text="#{'lvl.' + ${p['price_level']}}"></small></span>
+      <form sec:authorize="isAuthenticated()" th:action="@{/fav}" method="post" class="inline">
+        <input type="hidden" name="key" th:value="${p['col'] + ':' + p['slug']}">
+        <button class="heart" th:text="${favs.contains(p['col'] + ':' + p['slug'])} ? '♥' : '♡'" aria-label="favorite"></button>
+      </form>
+    </div>
+  </div>
+</article>
+
+<footer th:fragment="footer" class="site-footer">
+  <div class="container fgrid">
+    <div><a class="brand" th:href="@{/}"><span class="mark">✦</span><span th:text="#{brand}"></span></a><p class="muted" th:text="#{footer.about}"></p></div>
+    <div><h4 th:text="#{nav.destinations}"></h4><a th:each="n : ${cityNames}" th:href="@{/city/{n}(n=${n})}" th:text="${n}"></a></div>
+    <div><h4 th:text="#{footer.explore}"></h4>
+      <a th:each="c : ${cols}" th:href="@{/explore(col=${c})}" th:text="#{'col.' + ${c}}"></a><a th:href="@{/itinerary}" th:text="#{nav.itinerary}"></a></div>
+    <div><h4 th:text="#{footer.account}"></h4><a th:href="@{/login}" th:text="#{nav.login}"></a><a th:href="@{/signup}" th:text="#{nav.signup}"></a>
+      <a th:href="@{/favorites}" th:text="#{nav.favorites}"></a><a th:href="@{/about}" th:text="#{nav.about}"></a></div>
+  </div>
+  <div class="container copy muted" th:text="#{footer.copy}"></div>
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script><script th:src="@{/app.js}"></script>
+</footer>
+</body></html>

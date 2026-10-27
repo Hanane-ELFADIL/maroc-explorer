@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org" th:lang="${#locale.language}">
+<head th:replace="~{fragments :: head(#{login.title})}"></head>
+<body>
+<header th:replace="~{fragments :: nav}"></header>
+<main class="container auth-page">
+  <form class="box auth" method="post" th:action="@{/login}"><h1 th:text="#{login.title}"></h1><p class="muted" th:text="#{login.sub}"></p>
+    <p class="msg" th:if="${param.error}" th:text="#{login.error}"></p><p class="msg ok" th:if="${param.registered}" th:text="#{login.ok}"></p>
+    <input name="username" required autofocus th:placeholder="#{login.user}"><input name="password" type="password" required th:placeholder="#{login.pass}">
+    <button class="btn" th:text="#{login.submit}"></button>
+    <p class="muted center"><span th:text="#{login.noacc}"></span> <a th:href="@{/signup}" th:text="#{nav.signup}"></a></p></form>
+</main>
+<footer th:replace="~{fragments :: footer}"></footer>
+</body></html>

@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org" th:lang="${#locale.language}">
+<head th:replace="~{fragments :: head(#{nav.favorites})}"></head>
+<body>
+<header th:replace="~{fragments :: nav}"></header>
+<main class="container"><div class="sec-head first"><h1 th:text="#{fav.title}"></h1></div>
+  <p th:if="${list.isEmpty()}" class="muted" th:text="#{fav.empty}"></p>
+  <div class="grid"><th:block th:each="d : ${list}"><div th:replace="~{fragments :: card(${d})}"></div></th:block></div></main>
+<footer th:replace="~{fragments :: footer}"></footer>
+</body></html>

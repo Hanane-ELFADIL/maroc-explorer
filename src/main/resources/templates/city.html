@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org" th:lang="${#locale.language}">
+<head th:replace="~{fragments :: head(${c['name']})}"></head>
+<body>
+<header th:replace="~{fragments :: nav}"></header>
+<section class="page-hero">
+  <img th:src="@{${@places.img(c)}}" th:alt="${c['name']}" th:data-wiki="${@places.wikiQuery(c)}">
+  <div class="container"><nav class="crumbs"><a th:href="@{/}" th:text="#{place.home}"></a> › <span th:text="${c['region']}"></span></nav>
+    <h1 th:text="${c['name']}"></h1><p th:text="${c['description']}"></p></div>
+  <small class="credit" th:if="${@places.credit(c) != null}"><a th:href="${@places.credit(c)[1]}" target="_blank" rel="noopener" th:text="'📷 ' + ${@places.credit(c)[0]}"></a></small>
+</section>
+<div class="tabs"><div class="container">
+  <a href="#facts" th:text="#{city.facts}"></a><a href="#map-sec" th:text="#{city.map}"></a>
+  <a th:each="k : ${sections}" th:href="'#' + ${k}" th:text="#{'col.' + ${k}}"></a>
+</div></div>
+<main class="container">
+  <section class="section" id="facts"><div class="sec-head"><h2 th:text="#{city.facts}"></h2></div>
+    <div class="facts-grid"><div class="fact" th:each="f : ${facts}"><small th:text="${#messages.msgOrNull('f.' + f[0]) ?: f[0]}"></small><b th:text="${f[1]}"></b></div></div>
+    <div class="nearby" th:if="${!nearbyCities.isEmpty()}"><span class="muted" th:text="#{city.nearby} + ' :'"></span><a class="pill" th:each="n : ${nearbyCities}" th:href="@{/city/{n}(n=${n})}" th:text="${n}"></a></div>
+  </section>
+  <section class="section" id="map-sec"><div class="sec-head"><h2 th:text="#{city.map}"></h2></div><div id="map"></div></section>
+  <section class="section" th:each="k : ${sections}" th:id="${k}">
+    <div class="sec-head"><h2 th:text="#{'col.' + ${k}}"></h2><span class="count" th:text="${lists.get(k).size()}"></span></div>
+    <div class="grid" th:if="${k != 'transport'}"><th:block th:each="d : ${lists.get(k)}"><div th:replace="~{fragments :: card(${d})}"></div></th:block></div>
+    <div class="list" th:if="${k == 'transport'}">
+      <a class="row" th:each="d : ${lists.get(k)}" th:href="@{/place/transport/{s}(s=${d['slug']})}">
+        <img th:src="@{${@places.img(d)}}" alt=""><span><b th:text="${d['name']}"></b><small class="muted" th:text="${d['description']}"></small></span>
+        <em th:text="${@places.price(d)}"></em></a>
+    </div>
+  </section>
+</main>
+<script th:inline="javascript">window.MARKERS = /*[[${markers}]]*/ [];</script>
+<footer th:replace="~{fragments :: footer}"></footer>
+</body></html>

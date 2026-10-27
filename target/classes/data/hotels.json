@@ -1,0 +1,2506 @@
+[
+  {
+    "slug": "tanger-hotel-el-minzah",
+    "city": "Tanger",
+    "region": "Tanger-Tétouan-Al Hoceïma",
+    "name": "Hôtel El Minzah",
+    "category": "Hôtel",
+    "subcategory": "Hôtel",
+    "description": "Palace historique de 1930 aux jardins andalous, institution de la ville.",
+    "address": "Centre, Tanger, Maroc",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -5.8112,
+        35.7843
+      ]
+    },
+    "tags": [
+      "luxe",
+      "historique",
+      "spa"
+    ],
+    "suitable_for": [
+      "couple",
+      "famille",
+      "solo"
+    ],
+    "type": "Hôtel",
+    "stars": 5,
+    "price_per_night_mad": {
+      "min": 1700,
+      "max": 3500
+    },
+    "price_level": 4,
+    "amenities": [
+      "piscine",
+      "wifi",
+      "petit-déjeuner",
+      "spa",
+      "parking",
+      "bar"
+    ],
+    "rooms_types": [
+      "simple",
+      "double",
+      "suite"
+    ],
+    "breakfast_included": false,
+    "distance_to_center_km": 0.8
+  },
+  {
+    "slug": "tanger-nord-pinus-tanger",
+    "city": "Tanger",
+    "region": "Tanger-Tétouan-Al Hoceïma",
+    "name": "Nord-Pinus Tanger",
+    "category": "Hôtel",
+    "subcategory": "Riad",
+    "description": "Palais de la Kasbah transformé en hôtel de charme avec vue sur le détroit.",
+    "address": "Kasbah, Tanger, Maroc",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -5.8131,
+        35.7893
+      ]
+    },
+    "tags": [
+      "romantique",
+      "vue-mer",
+      "kasbah"
+    ],
+    "suitable_for": [
+      "couple"
+    ],
+    "type": "Riad",
+    "stars": 4,
+    "price_per_night_mad": {
+      "min": 1500,
+      "max": 3200
+    },
+    "price_level": 4,
+    "amenities": [
+      "wifi",
+      "petit-déjeuner",
+      "terrasse",
+      "vue-mer"
+    ],
+    "rooms_types": [
+      "chambre double",
+      "suite"
+    ],
+    "breakfast_included": true,
+    "distance_to_center_km": 0.3
+  },
+  {
+    "slug": "tanger-dar-nour",
+    "city": "Tanger",
+    "region": "Tanger-Tétouan-Al Hoceïma",
+    "name": "Dar Nour",
+    "category": "Hôtel",
+    "subcategory": "Maison d'hôtes",
+    "description": "Maison d'hôtes de charme dans la médina avec chambres décorées et toit-terrasse.",
+    "address": "Kasbah, Tanger, Maroc",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -5.8126,
+        35.7884
+      ]
+    },
+    "tags": [
+      "médina",
+      "charme",
+      "romantique"
+    ],
+    "suitable_for": [
+      "couple",
+      "solo"
+    ],
+    "type": "Maison d'hôtes",
+    "stars": 3,
+    "price_per_night_mad": {
+      "min": 700,
+      "max": 1300
+    },
+    "price_level": 3,
+    "amenities": [
+      "wifi",
+      "petit-déjeuner",
+      "terrasse"
+    ],
+    "rooms_types": [
+      "chambre double",
+      "suite"
+    ],
+    "breakfast_included": true,
+    "distance_to_center_km": 0.3
+  },
+  {
+    "slug": "tanger-hilton-garden-inn-tanger-city-center",
+    "city": "Tanger",
+    "region": "Tanger-Tétouan-Al Hoceïma",
+    "name": "Hilton Garden Inn Tanger City Center",
+    "category": "Hôtel",
+    "subcategory": "Hôtel",
+    "description": "Hôtel moderne de chaîne près du centre commercial et du centre d'affaires.",
+    "address": "Centre-ville, Tanger, Maroc",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -5.805,
+        35.77
+      ]
+    },
+    "tags": [
+      "moderne",
+      "famille",
+      "affaires"
+    ],
+    "suitable_for": [
+      "famille",
+      "solo",
+      "groupe"
+    ],
+    "type": "Hôtel",
+    "stars": 4,
+    "price_per_night_mad": {
+      "min": 1100,
+      "max": 2000
+    },
+    "price_level": 3,
+    "amenities": [
+      "piscine",
+      "wifi",
+      "petit-déjeuner",
+      "parking",
+      "salle-de-sport"
+    ],
+    "rooms_types": [
+      "simple",
+      "double",
+      "suite"
+    ],
+    "breakfast_included": false,
+    "distance_to_center_km": 3.0
+  },
+  {
+    "slug": "tanger-ibis-tanger-city-center",
+    "city": "Tanger",
+    "region": "Tanger-Tétouan-Al Hoceïma",
+    "name": "Ibis Tanger City Center",
+    "category": "Hôtel",
+    "subcategory": "Hôtel",
+    "description": "Hôtel milieu de gamme, pratique pour les séjours courts et familiaux.",
+    "address": "Centre-ville, Tanger, Maroc",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -5.8045,
+        35.77
+      ]
+    },
+    "tags": [
+      "pratique",
+      "famille"
+    ],
+    "suitable_for": [
+      "famille",
+      "solo",
+      "groupe"
+    ],
+    "type": "Hôtel",
+    "stars": 3,
+    "price_per_night_mad": {
+      "min": 550,
+      "max": 900
+    },
+    "price_level": 2,
+    "amenities": [
+      "wifi",
+      "petit-déjeuner",
+      "parking",
+      "climatisation"
+    ],
+    "rooms_types": [
+      "simple",
+      "double",
+      "suite"
+    ],
+    "breakfast_included": false,
+    "distance_to_center_km": 3.0
+  },
+  {
+    "slug": "tanger-hotel-rembrandt",
+    "city": "Tanger",
+    "region": "Tanger-Tétouan-Al Hoceïma",
+    "name": "Hôtel Rembrandt",
+    "category": "Hôtel",
+    "subcategory": "Hôtel",
+    "description": "Hôtel du centre historique, bien situé pour rejoindre à pied la médina.",
+    "address": "Centre, Tanger, Maroc",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -5.813,
+        35.7852
+      ]
+    },
+    "tags": [
+      "central",
+      "budget"
+    ],
+    "suitable_for": [
+      "couple",
+      "solo",
+      "groupe"
+    ],
+    "type": "Hôtel",
+    "stars": 3,
+    "price_per_night_mad": {
+      "min": 500,
+      "max": 900
+    },
+    "price_level": 2,
+    "amenities": [
+      "wifi",
+      "petit-déjeuner",
+      "climatisation"
+    ],
+    "rooms_types": [
+      "simple",
+      "double",
+      "suite"
+    ],
+    "breakfast_included": false,
+    "distance_to_center_km": 0.5
+  },
+  {
+    "slug": "tanger-hotel-continental",
+    "city": "Tanger",
+    "region": "Tanger-Tétouan-Al Hoceïma",
+    "name": "Hôtel Continental",
+    "category": "Hôtel",
+    "subcategory": "Hôtel",
+    "description": "Hôtel historique du XIXe siècle surplombant le port et la médina.",
+    "address": "Port / médina, Tanger, Maroc",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -5.8118,
+        35.7868
+      ]
+    },
+    "tags": [
+      "historique",
+      "vue-port",
+      "médina"
+    ],
+    "suitable_for": [
+      "couple",
+      "solo",
+      "groupe"
+    ],
+    "type": "Hôtel",
+    "stars": 3,
+    "price_per_night_mad": {
+      "min": 450,
+      "max": 900
+    },
+    "price_level": 2,
+    "amenities": [
+      "wifi",
+      "petit-déjeuner",
+      "vue-port"
+    ],
+    "rooms_types": [
+      "simple",
+      "double",
+      "suite"
+    ],
+    "breakfast_included": false,
+    "distance_to_center_km": 0.3
+  },
+  {
+    "slug": "tanger-hotel-les-almohades",
+    "city": "Tanger",
+    "region": "Tanger-Tétouan-Al Hoceïma",
+    "name": "Hôtel Les Almohades",
+    "category": "Hôtel",
+    "subcategory": "Hôtel",
+    "description": "Hôtel de bord de baie avec piscine et accès à la promenade.",
+    "address": "Baie, Tanger, Maroc",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -5.796,
+        35.778
+      ]
+    },
+    "tags": [
+      "plage",
+      "famille",
+      "piscine"
+    ],
+    "suitable_for": [
+      "famille",
+      "couple",
+      "groupe"
+    ],
+    "type": "Hôtel",
+    "stars": 4,
+    "price_per_night_mad": {
+      "min": 900,
+      "max": 1600
+    },
+    "price_level": 3,
+    "amenities": [
+      "piscine",
+      "wifi",
+      "petit-déjeuner",
+      "parking",
+      "restaurant"
+    ],
+    "rooms_types": [
+      "simple",
+      "double",
+      "suite"
+    ],
+    "breakfast_included": false,
+    "distance_to_center_km": 2.0
+  },
+  {
+    "slug": "tanger-hotel-muniria",
+    "city": "Tanger",
+    "region": "Tanger-Tétouan-Al Hoceïma",
+    "name": "Hôtel Muniria",
+    "category": "Hôtel",
+    "subcategory": "Auberge",
+    "description": "Petite pension simple, célèbre pour avoir hébergé des écrivains de la Beat Generation.",
+    "address": "Médina, Tanger, Maroc",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -5.8124,
+        35.7869
+      ]
+    },
+    "tags": [
+      "histoire",
+      "littérature",
+      "budget"
+    ],
+    "suitable_for": [
+      "solo",
+      "groupe"
+    ],
+    "type": "Auberge",
+    "stars": 2,
+    "price_per_night_mad": {
+      "min": 250,
+      "max": 450
+    },
+    "price_level": 1,
+    "amenities": [
+      "wifi"
+    ],
+    "rooms_types": [
+      "dortoir",
+      "chambre privée"
+    ],
+    "breakfast_included": true,
+    "distance_to_center_km": 0.3
+  },
+  {
+    "slug": "tanger-hotel-chellah",
+    "city": "Tanger",
+    "region": "Tanger-Tétouan-Al Hoceïma",
+    "name": "Hôtel Chellah",
+    "category": "Hôtel",
+    "subcategory": "Hôtel",
+    "description": "Hôtel économique du centre, simple et bien placé.",
+    "address": "Centre, Tanger, Maroc",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -5.8103,
+        35.7866
+      ]
+    },
+    "tags": [
+      "budget",
+      "central"
+    ],
+    "suitable_for": [
+      "solo",
+      "groupe"
+    ],
+    "type": "Hôtel",
+    "stars": 2,
+    "price_per_night_mad": {
+      "min": 300,
+      "max": 500
+    },
+    "price_level": 1,
+    "amenities": [
+      "wifi",
+      "climatisation"
+    ],
+    "rooms_types": [
+      "simple",
+      "double",
+      "suite"
+    ],
+    "breakfast_included": false,
+    "distance_to_center_km": 0.4
+  },
+  {
+    "slug": "rabat-sofitel-rabat-jardin-des-roses",
+    "city": "Rabat",
+    "region": "Rabat-Salé-Kénitra",
+    "name": "Sofitel Rabat Jardin des Roses",
+    "category": "Hôtel",
+    "subcategory": "Hôtel",
+    "description": "Hôtel de luxe dans un grand jardin, orienté affaires et séjours haut de gamme.",
+    "address": "Souissi, Rabat, Maroc",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -6.83,
+        33.99
+      ]
+    },
+    "tags": [
+      "luxe",
+      "spa",
+      "affaires"
+    ],
+    "suitable_for": [
+      "couple",
+      "famille",
+      "solo"
+    ],
+    "type": "Hôtel",
+    "stars": 5,
+    "price_per_night_mad": {
+      "min": 2000,
+      "max": 4200
+    },
+    "price_level": 4,
+    "amenities": [
+      "piscine",
+      "wifi",
+      "petit-déjeuner",
+      "spa",
+      "parking",
+      "golf"
+    ],
+    "rooms_types": [
+      "simple",
+      "double",
+      "suite"
+    ],
+    "breakfast_included": false,
+    "distance_to_center_km": 3.5
+  },
+  {
+    "slug": "rabat-la-tour-hassan-palace",
+    "city": "Rabat",
+    "region": "Rabat-Salé-Kénitra",
+    "name": "La Tour Hassan Palace",
+    "category": "Hôtel",
+    "subcategory": "Hôtel",
+    "description": "Hôtel historique de luxe à deux pas de la Tour Hassan, de style arabo-andalou.",
+    "address": "Centre, Rabat, Maroc",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -6.833,
+        34.02
+      ]
+    },
+    "tags": [
+      "luxe",
+      "historique",
+      "spa"
+    ],
+    "suitable_for": [
+      "couple",
+      "famille",
+      "solo"
+    ],
+    "type": "Hôtel",
+    "stars": 5,
+    "price_per_night_mad": {
+      "min": 1500,
+      "max": 3000
+    },
+    "price_level": 4,
+    "amenities": [
+      "piscine",
+      "wifi",
+      "petit-déjeuner",
+      "spa",
+      "parking"
+    ],
+    "rooms_types": [
+      "simple",
+      "double",
+      "suite"
+    ],
+    "breakfast_included": false,
+    "distance_to_center_km": 1.0
+  },
+  {
+    "slug": "rabat-hotel-balima",
+    "city": "Rabat",
+    "region": "Rabat-Salé-Kénitra",
+    "name": "Hôtel Balima",
+    "category": "Hôtel",
+    "subcategory": "Hôtel",
+    "description": "Hôtel mythique de 1932, face au Parlement, au charme colonial.",
+    "address": "Centre, Rabat, Maroc",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -6.836,
+        34.0205
+      ]
+    },
+    "tags": [
+      "historique",
+      "central",
+      "charme"
+    ],
+    "suitable_for": [
+      "couple",
+      "solo",
+      "groupe"
+    ],
+    "type": "Hôtel",
+    "stars": 4,
+    "price_per_night_mad": {
+      "min": 1100,
+      "max": 2000
+    },
+    "price_level": 3,
+    "amenities": [
+      "wifi",
+      "petit-déjeuner",
+      "bar",
+      "café"
+    ],
+    "rooms_types": [
+      "simple",
+      "double",
+      "suite"
+    ],
+    "breakfast_included": false,
+    "distance_to_center_km": 0.5
+  },
+  {
+    "slug": "rabat-villa-mandarine",
+    "city": "Rabat",
+    "region": "Rabat-Salé-Kénitra",
+    "name": "Villa Mandarine",
+    "category": "Hôtel",
+    "subcategory": "Hôtel",
+    "description": "Boutique-hôtel dans une villa avec jardin de mandariniers.",
+    "address": "Souissi, Rabat, Maroc",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -6.836,
+        33.991
+      ]
+    },
+    "tags": [
+      "romantique",
+      "jardin",
+      "charme"
+    ],
+    "suitable_for": [
+      "couple"
+    ],
+    "type": "Hôtel",
+    "stars": 4,
+    "price_per_night_mad": {
+      "min": 1500,
+      "max": 2800
+    },
+    "price_level": 4,
+    "amenities": [
+      "piscine",
+      "wifi",
+      "petit-déjeuner",
+      "jardin",
+      "spa"
+    ],
+    "rooms_types": [
+      "simple",
+      "double",
+      "suite"
+    ],
+    "breakfast_included": false,
+    "distance_to_center_km": 3.0
+  },
+  {
+    "slug": "rabat-dar-el-kebira",
+    "city": "Rabat",
+    "region": "Rabat-Salé-Kénitra",
+    "name": "Dar El Kébira",
+    "category": "Hôtel",
+    "subcategory": "Riad",
+    "description": "Riad de charme dans la médina, à proximité des Oudayas.",
+    "address": "Médina, Rabat, Maroc",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -6.8352,
+        34.0245
+      ]
+    },
+    "tags": [
+      "médina",
+      "riad",
+      "authentique"
+    ],
+    "suitable_for": [
+      "couple",
+      "solo",
+      "groupe"
+    ],
+    "type": "Riad",
+    "stars": 4,
+    "price_per_night_mad": {
+      "min": 800,
+      "max": 1500
+    },
+    "price_level": 3,
+    "amenities": [
+      "wifi",
+      "petit-déjeuner",
+      "terrasse"
+    ],
+    "rooms_types": [
+      "chambre double",
+      "suite"
+    ],
+    "breakfast_included": true,
+    "distance_to_center_km": 0.7
+  },
+  {
+    "slug": "rabat-riad-kalaa",
+    "city": "Rabat",
+    "region": "Rabat-Salé-Kénitra",
+    "name": "Riad Kalaa",
+    "category": "Hôtel",
+    "subcategory": "Riad",
+    "description": "Riad élégant près de la Kasbah des Oudayas avec belle terrasse.",
+    "address": "Kasbah des Oudayas, Rabat, Maroc",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -6.836,
+        34.0285
+      ]
+    },
+    "tags": [
+      "riad",
+      "oudayas",
+      "romantique"
+    ],
+    "suitable_for": [
+      "couple",
+      "solo"
+    ],
+    "type": "Riad",
+    "stars": 4,
+    "price_per_night_mad": {
+      "min": 900,
+      "max": 1700
+    },
+    "price_level": 3,
+    "amenities": [
+      "wifi",
+      "petit-déjeuner",
+      "terrasse"
+    ],
+    "rooms_types": [
+      "chambre double",
+      "suite"
+    ],
+    "breakfast_included": true,
+    "distance_to_center_km": 1.5
+  },
+  {
+    "slug": "rabat-dar-al-batoul",
+    "city": "Rabat",
+    "region": "Rabat-Salé-Kénitra",
+    "name": "Dar Al Batoul",
+    "category": "Hôtel",
+    "subcategory": "Maison d'hôtes",
+    "description": "Maison d'hôtes dans la médina, accueil familial et cuisine locale.",
+    "address": "Médina, Rabat, Maroc",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -6.8345,
+        34.0272
+      ]
+    },
+    "tags": [
+      "authentique",
+      "médina",
+      "budget-moyen"
+    ],
+    "suitable_for": [
+      "couple",
+      "solo",
+      "groupe"
+    ],
+    "type": "Maison d'hôtes",
+    "stars": 3,
+    "price_per_night_mad": {
+      "min": 600,
+      "max": 1000
+    },
+    "price_level": 2,
+    "amenities": [
+      "wifi",
+      "petit-déjeuner",
+      "terrasse"
+    ],
+    "rooms_types": [
+      "chambre double",
+      "suite"
+    ],
+    "breakfast_included": true,
+    "distance_to_center_km": 1.3
+  },
+  {
+    "slug": "rabat-hilton-garden-inn-rabat-agdal",
+    "city": "Rabat",
+    "region": "Rabat-Salé-Kénitra",
+    "name": "Hilton Garden Inn Rabat Agdal",
+    "category": "Hôtel",
+    "subcategory": "Hôtel",
+    "description": "Hôtel de chaîne moderne dans le quartier Agdal, proche de la gare.",
+    "address": "Agdal, Rabat, Maroc",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -6.849,
+        33.996
+      ]
+    },
+    "tags": [
+      "moderne",
+      "affaires",
+      "famille"
+    ],
+    "suitable_for": [
+      "famille",
+      "solo",
+      "groupe"
+    ],
+    "type": "Hôtel",
+    "stars": 4,
+    "price_per_night_mad": {
+      "min": 1000,
+      "max": 1800
+    },
+    "price_level": 3,
+    "amenities": [
+      "piscine",
+      "wifi",
+      "petit-déjeuner",
+      "parking",
+      "salle-de-sport"
+    ],
+    "rooms_types": [
+      "simple",
+      "double",
+      "suite"
+    ],
+    "breakfast_included": false,
+    "distance_to_center_km": 2.5
+  },
+  {
+    "slug": "rabat-hotel-terminus",
+    "city": "Rabat",
+    "region": "Rabat-Salé-Kénitra",
+    "name": "Hôtel Terminus",
+    "category": "Hôtel",
+    "subcategory": "Hôtel",
+    "description": "Hôtel économique à côté de la gare, pratique pour les voyageurs en transit.",
+    "address": "Gare Rabat-Ville, Rabat, Maroc",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -6.836,
+        34.014
+      ]
+    },
+    "tags": [
+      "budget",
+      "gare"
+    ],
+    "suitable_for": [
+      "solo",
+      "groupe"
+    ],
+    "type": "Hôtel",
+    "stars": 2,
+    "price_per_night_mad": {
+      "min": 350,
+      "max": 600
+    },
+    "price_level": 2,
+    "amenities": [
+      "wifi",
+      "climatisation"
+    ],
+    "rooms_types": [
+      "simple",
+      "double",
+      "suite"
+    ],
+    "breakfast_included": false,
+    "distance_to_center_km": 1.0
+  },
+  {
+    "slug": "rabat-ibis-rabat-agdal",
+    "city": "Rabat",
+    "region": "Rabat-Salé-Kénitra",
+    "name": "Ibis Rabat Agdal",
+    "category": "Hôtel",
+    "subcategory": "Hôtel",
+    "description": "Hôtel milieu de gamme moderne, proche de la gare d'Agdal et du tramway.",
+    "address": "Agdal, Rabat, Maroc",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -6.849,
+        33.9975
+      ]
+    },
+    "tags": [
+      "pratique",
+      "tramway"
+    ],
+    "suitable_for": [
+      "famille",
+      "solo",
+      "groupe"
+    ],
+    "type": "Hôtel",
+    "stars": 3,
+    "price_per_night_mad": {
+      "min": 500,
+      "max": 850
+    },
+    "price_level": 2,
+    "amenities": [
+      "wifi",
+      "petit-déjeuner",
+      "parking",
+      "climatisation"
+    ],
+    "rooms_types": [
+      "simple",
+      "double",
+      "suite"
+    ],
+    "breakfast_included": false,
+    "distance_to_center_km": 2.5
+  },
+  {
+    "slug": "chefchaouen-lina-ryad-spa",
+    "city": "Chefchaouen",
+    "region": "Tanger-Tétouan-Al Hoceïma",
+    "name": "Lina Ryad & Spa",
+    "category": "Hôtel",
+    "subcategory": "Riad",
+    "description": "Riad de charme avec spa et chambres décorées de bleu, au cœur de la médina.",
+    "address": "Médina, Chefchaouen, Maroc",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -5.264,
+        35.1689
+      ]
+    },
+    "tags": [
+      "luxe",
+      "spa",
+      "romantique"
+    ],
+    "suitable_for": [
+      "couple"
+    ],
+    "type": "Riad",
+    "stars": 4,
+    "price_per_night_mad": {
+      "min": 1100,
+      "max": 2000
+    },
+    "price_level": 3,
+    "amenities": [
+      "wifi",
+      "petit-déjeuner",
+      "spa",
+      "hammam",
+      "terrasse"
+    ],
+    "rooms_types": [
+      "chambre double",
+      "suite"
+    ],
+    "breakfast_included": true,
+    "distance_to_center_km": 0.2
+  },
+  {
+    "slug": "chefchaouen-dar-echchaouen",
+    "city": "Chefchaouen",
+    "region": "Tanger-Tétouan-Al Hoceïma",
+    "name": "Dar Echchaouen",
+    "category": "Hôtel",
+    "subcategory": "Riad",
+    "description": "Maison traditionnelle rénovée avec patio et vues sur la médina.",
+    "address": "Médina, Chefchaouen, Maroc",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -5.2625,
+        35.1693
+      ]
+    },
+    "tags": [
+      "authentique",
+      "vue",
+      "riad"
+    ],
+    "suitable_for": [
+      "couple",
+      "solo",
+      "groupe"
+    ],
+    "type": "Riad",
+    "stars": 4,
+    "price_per_night_mad": {
+      "min": 700,
+      "max": 1300
+    },
+    "price_level": 3,
+    "amenities": [
+      "wifi",
+      "petit-déjeuner",
+      "terrasse",
+      "hammam"
+    ],
+    "rooms_types": [
+      "chambre double",
+      "suite"
+    ],
+    "breakfast_included": true,
+    "distance_to_center_km": 0.3
+  },
+  {
+    "slug": "chefchaouen-casa-hassan",
+    "city": "Chefchaouen",
+    "region": "Tanger-Tétouan-Al Hoceïma",
+    "name": "Casa Hassan",
+    "category": "Hôtel",
+    "subcategory": "Riad",
+    "description": "Riad central réputé pour son accueil et son toit-terrasse.",
+    "address": "Médina, Chefchaouen, Maroc",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -5.2638,
+        35.169
+      ]
+    },
+    "tags": [
+      "central",
+      "accueil",
+      "terrasse"
+    ],
+    "suitable_for": [
+      "couple",
+      "solo",
+      "groupe"
+    ],
+    "type": "Riad",
+    "stars": 3,
+    "price_per_night_mad": {
+      "min": 500,
+      "max": 900
+    },
+    "price_level": 2,
+    "amenities": [
+      "wifi",
+      "petit-déjeuner",
+      "terrasse"
+    ],
+    "rooms_types": [
+      "chambre double",
+      "suite"
+    ],
+    "breakfast_included": true,
+    "distance_to_center_km": 0.2
+  },
+  {
+    "slug": "chefchaouen-dar-ba-sidi-bouhali",
+    "city": "Chefchaouen",
+    "region": "Tanger-Tétouan-Al Hoceïma",
+    "name": "Dar Ba Sidi Bouhali",
+    "category": "Hôtel",
+    "subcategory": "Riad",
+    "description": "Maison d'hôtes dans une maison familiale restaurée de la médina.",
+    "address": "Médina, Chefchaouen, Maroc",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -5.264,
+        35.1683
+      ]
+    },
+    "tags": [
+      "famille",
+      "charme",
+      "médina"
+    ],
+    "suitable_for": [
+      "couple",
+      "famille",
+      "solo"
+    ],
+    "type": "Riad",
+    "stars": 3,
+    "price_per_night_mad": {
+      "min": 500,
+      "max": 900
+    },
+    "price_level": 2,
+    "amenities": [
+      "wifi",
+      "petit-déjeuner",
+      "terrasse"
+    ],
+    "rooms_types": [
+      "chambre double",
+      "suite"
+    ],
+    "breakfast_included": true,
+    "distance_to_center_km": 0.3
+  },
+  {
+    "slug": "chefchaouen-hotel-parador",
+    "city": "Chefchaouen",
+    "region": "Tanger-Tétouan-Al Hoceïma",
+    "name": "Hôtel Parador",
+    "category": "Hôtel",
+    "subcategory": "Hôtel",
+    "description": "Hôtel avec terrasse panoramique et petite piscine, face à la médina.",
+    "address": "Place Mohammed V, Chefchaouen, Maroc",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -5.265,
+        35.1697
+      ]
+    },
+    "tags": [
+      "piscine",
+      "vue",
+      "famille"
+    ],
+    "suitable_for": [
+      "famille",
+      "couple",
+      "groupe"
+    ],
+    "type": "Hôtel",
+    "stars": 3,
+    "price_per_night_mad": {
+      "min": 450,
+      "max": 850
+    },
+    "price_level": 2,
+    "amenities": [
+      "wifi",
+      "piscine",
+      "petit-déjeuner",
+      "terrasse"
+    ],
+    "rooms_types": [
+      "simple",
+      "double",
+      "suite"
+    ],
+    "breakfast_included": false,
+    "distance_to_center_km": 0.3
+  },
+  {
+    "slug": "chefchaouen-dar-meziana",
+    "city": "Chefchaouen",
+    "region": "Tanger-Tétouan-Al Hoceïma",
+    "name": "Dar Meziana",
+    "category": "Hôtel",
+    "subcategory": "Riad",
+    "description": "Maison d'hôtes de la médina avec patio et chambres bleues.",
+    "address": "Médina, Chefchaouen, Maroc",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -5.2615,
+        35.1695
+      ]
+    },
+    "tags": [
+      "médina",
+      "charme"
+    ],
+    "suitable_for": [
+      "couple",
+      "solo"
+    ],
+    "type": "Riad",
+    "stars": 3,
+    "price_per_night_mad": {
+      "min": 400,
+      "max": 800
+    },
+    "price_level": 2,
+    "amenities": [
+      "wifi",
+      "petit-déjeuner",
+      "terrasse"
+    ],
+    "rooms_types": [
+      "chambre double",
+      "suite"
+    ],
+    "breakfast_included": true,
+    "distance_to_center_km": 0.4
+  },
+  {
+    "slug": "chefchaouen-hotel-atlas-chefchaouen",
+    "city": "Chefchaouen",
+    "region": "Tanger-Tétouan-Al Hoceïma",
+    "name": "Hôtel Atlas Chefchaouen",
+    "category": "Hôtel",
+    "subcategory": "Hôtel",
+    "description": "Hôtel simple et fonctionnel proche du centre, avec parking.",
+    "address": "Centre-ville, Chefchaouen, Maroc",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -5.268,
+        35.1696
+      ]
+    },
+    "tags": [
+      "pratique",
+      "budget-moyen"
+    ],
+    "suitable_for": [
+      "famille",
+      "solo",
+      "groupe"
+    ],
+    "type": "Hôtel",
+    "stars": 3,
+    "price_per_night_mad": {
+      "min": 380,
+      "max": 700
+    },
+    "price_level": 2,
+    "amenities": [
+      "wifi",
+      "petit-déjeuner",
+      "parking"
+    ],
+    "rooms_types": [
+      "simple",
+      "double",
+      "suite"
+    ],
+    "breakfast_included": false,
+    "distance_to_center_km": 0.6
+  },
+  {
+    "slug": "chefchaouen-hotel-zouar",
+    "city": "Chefchaouen",
+    "region": "Tanger-Tétouan-Al Hoceïma",
+    "name": "Hôtel Zouar",
+    "category": "Hôtel",
+    "subcategory": "Hôtel",
+    "description": "Petit hôtel économique dans la médina.",
+    "address": "Médina, Chefchaouen, Maroc",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -5.2645,
+        35.169
+      ]
+    },
+    "tags": [
+      "budget",
+      "médina"
+    ],
+    "suitable_for": [
+      "solo",
+      "groupe"
+    ],
+    "type": "Hôtel",
+    "stars": 2,
+    "price_per_night_mad": {
+      "min": 250,
+      "max": 450
+    },
+    "price_level": 1,
+    "amenities": [
+      "wifi",
+      "petit-déjeuner"
+    ],
+    "rooms_types": [
+      "simple",
+      "double",
+      "suite"
+    ],
+    "breakfast_included": false,
+    "distance_to_center_km": 0.2
+  },
+  {
+    "slug": "chefchaouen-hotel-madrid",
+    "city": "Chefchaouen",
+    "region": "Tanger-Tétouan-Al Hoceïma",
+    "name": "Hôtel Madrid",
+    "category": "Hôtel",
+    "subcategory": "Hôtel",
+    "description": "Hôtel économique de la médina.",
+    "address": "Médina, Chefchaouen, Maroc",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -5.2625,
+        35.1688
+      ]
+    },
+    "tags": [
+      "budget",
+      "central"
+    ],
+    "suitable_for": [
+      "solo",
+      "groupe"
+    ],
+    "type": "Hôtel",
+    "stars": 2,
+    "price_per_night_mad": {
+      "min": 200,
+      "max": 350
+    },
+    "price_level": 1,
+    "amenities": [
+      "wifi"
+    ],
+    "rooms_types": [
+      "simple",
+      "double",
+      "suite"
+    ],
+    "breakfast_included": false,
+    "distance_to_center_km": 0.3
+  },
+  {
+    "slug": "chefchaouen-pension-castellana",
+    "city": "Chefchaouen",
+    "region": "Tanger-Tétouan-Al Hoceïma",
+    "name": "Pension Castellana",
+    "category": "Hôtel",
+    "subcategory": "Auberge",
+    "description": "Petite pension simple, adaptée aux petits budgets et aux randonneurs.",
+    "address": "Médina, Chefchaouen, Maroc",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -5.2633,
+        35.1692
+      ]
+    },
+    "tags": [
+      "budget",
+      "backpacker"
+    ],
+    "suitable_for": [
+      "solo",
+      "groupe"
+    ],
+    "type": "Auberge",
+    "stars": 1,
+    "price_per_night_mad": {
+      "min": 150,
+      "max": 250
+    },
+    "price_level": 1,
+    "amenities": [
+      "wifi"
+    ],
+    "rooms_types": [
+      "dortoir",
+      "chambre privée"
+    ],
+    "breakfast_included": true,
+    "distance_to_center_km": 0.2
+  },
+  {
+    "slug": "agadir-sofitel-agadir-thalassa-sea-spa",
+    "city": "Agadir",
+    "region": "Souss-Massa",
+    "name": "Sofitel Agadir Thalassa Sea & Spa",
+    "category": "Hôtel",
+    "subcategory": "Hôtel",
+    "description": "Grand hôtel de luxe en bord de mer avec centre de thalassothérapie.",
+    "address": "Baie des Palmiers, Agadir, Maroc",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -9.635,
+        30.4075
+      ]
+    },
+    "tags": [
+      "luxe",
+      "plage",
+      "spa"
+    ],
+    "suitable_for": [
+      "couple",
+      "famille",
+      "solo"
+    ],
+    "type": "Hôtel",
+    "stars": 5,
+    "price_per_night_mad": {
+      "min": 2000,
+      "max": 4200
+    },
+    "price_level": 4,
+    "amenities": [
+      "piscine",
+      "wifi",
+      "petit-déjeuner",
+      "spa",
+      "thalassothérapie",
+      "plage"
+    ],
+    "rooms_types": [
+      "simple",
+      "double",
+      "suite"
+    ],
+    "breakfast_included": false,
+    "distance_to_center_km": 3.5
+  },
+  {
+    "slug": "agadir-riu-palace-tikida-agadir",
+    "city": "Agadir",
+    "region": "Souss-Massa",
+    "name": "Riu Palace Tikida Agadir",
+    "category": "Hôtel",
+    "subcategory": "Hôtel",
+    "description": "Resort de bord de mer tout inclus, pratique pour les séjours en famille.",
+    "address": "Baie des Palmiers, Agadir, Maroc",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -9.632,
+        30.409
+      ]
+    },
+    "tags": [
+      "plage",
+      "famille",
+      "piscine"
+    ],
+    "suitable_for": [
+      "famille",
+      "couple"
+    ],
+    "type": "Hôtel",
+    "stars": 5,
+    "price_per_night_mad": {
+      "min": 1500,
+      "max": 3200
+    },
+    "price_level": 4,
+    "amenities": [
+      "piscine",
+      "wifi",
+      "petit-déjeuner",
+      "spa",
+      "plage",
+      "tout-inclus"
+    ],
+    "rooms_types": [
+      "simple",
+      "double",
+      "suite"
+    ],
+    "breakfast_included": false,
+    "distance_to_center_km": 3.5
+  },
+  {
+    "slug": "agadir-hyatt-place-taghazout-bay",
+    "city": "Agadir",
+    "region": "Souss-Massa",
+    "name": "Hyatt Place Taghazout Bay",
+    "category": "Hôtel",
+    "subcategory": "Hôtel",
+    "description": "Hôtel moderne au calme, proche des spots de surf de Taghazout.",
+    "address": "Taghazout Bay, Agadir, Maroc",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -9.706,
+        30.523
+      ]
+    },
+    "tags": [
+      "surf",
+      "moderne",
+      "piscine"
+    ],
+    "suitable_for": [
+      "couple",
+      "famille",
+      "solo",
+      "groupe"
+    ],
+    "type": "Hôtel",
+    "stars": 4,
+    "price_per_night_mad": {
+      "min": 900,
+      "max": 1800
+    },
+    "price_level": 3,
+    "amenities": [
+      "piscine",
+      "wifi",
+      "petit-déjeuner",
+      "salle-de-sport",
+      "plage"
+    ],
+    "rooms_types": [
+      "simple",
+      "double",
+      "suite"
+    ],
+    "breakfast_included": false,
+    "distance_to_center_km": 18.0
+  },
+  {
+    "slug": "agadir-hotel-argana",
+    "city": "Agadir",
+    "region": "Souss-Massa",
+    "name": "Hôtel Argana",
+    "category": "Hôtel",
+    "subcategory": "Hôtel",
+    "description": "Hôtel central de longue date, à deux pas de la plage et de la corniche.",
+    "address": "Centre, Agadir, Maroc",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -9.599,
+        30.4175
+      ]
+    },
+    "tags": [
+      "central",
+      "piscine",
+      "famille"
+    ],
+    "suitable_for": [
+      "famille",
+      "couple",
+      "groupe"
+    ],
+    "type": "Hôtel",
+    "stars": 4,
+    "price_per_night_mad": {
+      "min": 700,
+      "max": 1300
+    },
+    "price_level": 3,
+    "amenities": [
+      "piscine",
+      "wifi",
+      "petit-déjeuner",
+      "restaurant"
+    ],
+    "rooms_types": [
+      "simple",
+      "double",
+      "suite"
+    ],
+    "breakfast_included": false,
+    "distance_to_center_km": 0.8
+  },
+  {
+    "slug": "agadir-kenzi-europa",
+    "city": "Agadir",
+    "region": "Souss-Massa",
+    "name": "Kenzi Europa",
+    "category": "Hôtel",
+    "subcategory": "Hôtel",
+    "description": "Hôtel de la chaîne Kenzi proche du centre et de la plage.",
+    "address": "Centre, Agadir, Maroc",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -9.601,
+        30.4155
+      ]
+    },
+    "tags": [
+      "central",
+      "spa",
+      "piscine"
+    ],
+    "suitable_for": [
+      "famille",
+      "couple",
+      "solo"
+    ],
+    "type": "Hôtel",
+    "stars": 4,
+    "price_per_night_mad": {
+      "min": 800,
+      "max": 1500
+    },
+    "price_level": 3,
+    "amenities": [
+      "piscine",
+      "wifi",
+      "petit-déjeuner",
+      "spa"
+    ],
+    "rooms_types": [
+      "simple",
+      "double",
+      "suite"
+    ],
+    "breakfast_included": false,
+    "distance_to_center_km": 0.9
+  },
+  {
+    "slug": "agadir-allegro-agadir",
+    "city": "Agadir",
+    "region": "Souss-Massa",
+    "name": "Allegro Agadir",
+    "category": "Hôtel",
+    "subcategory": "Hôtel",
+    "description": "Hôtel de bord de mer dans la zone de Founty, avec grande piscine.",
+    "address": "Founty, Agadir, Maroc",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -9.628,
+        30.399
+      ]
+    },
+    "tags": [
+      "plage",
+      "famille",
+      "piscine"
+    ],
+    "suitable_for": [
+      "famille",
+      "couple",
+      "groupe"
+    ],
+    "type": "Hôtel",
+    "stars": 4,
+    "price_per_night_mad": {
+      "min": 900,
+      "max": 1700
+    },
+    "price_level": 3,
+    "amenities": [
+      "piscine",
+      "wifi",
+      "petit-déjeuner",
+      "plage",
+      "spa"
+    ],
+    "rooms_types": [
+      "simple",
+      "double",
+      "suite"
+    ],
+    "breakfast_included": false,
+    "distance_to_center_km": 3.0
+  },
+  {
+    "slug": "agadir-hotel-sindibad",
+    "city": "Agadir",
+    "region": "Souss-Massa",
+    "name": "Hôtel Sindibad",
+    "category": "Hôtel",
+    "subcategory": "Hôtel",
+    "description": "Hôtel à prix doux proche de la Vallée des Oiseaux et du centre.",
+    "address": "Centre, Agadir, Maroc",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -9.6,
+        30.4215
+      ]
+    },
+    "tags": [
+      "budget",
+      "central",
+      "piscine"
+    ],
+    "suitable_for": [
+      "famille",
+      "solo",
+      "groupe"
+    ],
+    "type": "Hôtel",
+    "stars": 3,
+    "price_per_night_mad": {
+      "min": 350,
+      "max": 650
+    },
+    "price_level": 2,
+    "amenities": [
+      "piscine",
+      "wifi",
+      "petit-déjeuner"
+    ],
+    "rooms_types": [
+      "simple",
+      "double",
+      "suite"
+    ],
+    "breakfast_included": false,
+    "distance_to_center_km": 0.6
+  },
+  {
+    "slug": "agadir-ibis-agadir",
+    "city": "Agadir",
+    "region": "Souss-Massa",
+    "name": "Ibis Agadir",
+    "category": "Hôtel",
+    "subcategory": "Hôtel",
+    "description": "Hôtel milieu de gamme pratique, proche du centre-ville.",
+    "address": "Centre, Agadir, Maroc",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -9.5985,
+        30.418
+      ]
+    },
+    "tags": [
+      "pratique",
+      "central",
+      "budget-moyen"
+    ],
+    "suitable_for": [
+      "famille",
+      "solo",
+      "groupe"
+    ],
+    "type": "Hôtel",
+    "stars": 3,
+    "price_per_night_mad": {
+      "min": 450,
+      "max": 800
+    },
+    "price_level": 2,
+    "amenities": [
+      "wifi",
+      "petit-déjeuner",
+      "climatisation",
+      "parking"
+    ],
+    "rooms_types": [
+      "simple",
+      "double",
+      "suite"
+    ],
+    "breakfast_included": false,
+    "distance_to_center_km": 0.7
+  },
+  {
+    "slug": "essaouira-heure-bleue-palais",
+    "city": "Essaouira",
+    "region": "Marrakech-Safi",
+    "name": "Heure Bleue Palais",
+    "category": "Hôtel",
+    "subcategory": "Riad",
+    "description": "Palais de charme dans la médina, avec spa, piscine et grand raffinement.",
+    "address": "Médina, Essaouira, Maroc",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -9.771,
+        31.512
+      ]
+    },
+    "tags": [
+      "luxe",
+      "spa",
+      "romantique"
+    ],
+    "suitable_for": [
+      "couple"
+    ],
+    "type": "Riad",
+    "stars": 5,
+    "price_per_night_mad": {
+      "min": 2200,
+      "max": 4500
+    },
+    "price_level": 4,
+    "amenities": [
+      "piscine",
+      "wifi",
+      "petit-déjeuner",
+      "spa",
+      "hammam",
+      "terrasse"
+    ],
+    "rooms_types": [
+      "chambre double",
+      "suite"
+    ],
+    "breakfast_included": true,
+    "distance_to_center_km": 0.3
+  },
+  {
+    "slug": "essaouira-le-medina-essaouira-thalassa-sea-spa",
+    "city": "Essaouira",
+    "region": "Marrakech-Safi",
+    "name": "Le Médina Essaouira Thalassa Sea & Spa",
+    "category": "Hôtel",
+    "subcategory": "Hôtel",
+    "description": "Hôtel de luxe face à l'océan, avec centre de thalassothérapie.",
+    "address": "Bord de mer, Essaouira, Maroc",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -9.771,
+        31.502
+      ]
+    },
+    "tags": [
+      "luxe",
+      "plage",
+      "spa"
+    ],
+    "suitable_for": [
+      "couple",
+      "famille",
+      "solo"
+    ],
+    "type": "Hôtel",
+    "stars": 5,
+    "price_per_night_mad": {
+      "min": 1500,
+      "max": 3000
+    },
+    "price_level": 4,
+    "amenities": [
+      "piscine",
+      "wifi",
+      "petit-déjeuner",
+      "spa",
+      "thalassothérapie",
+      "plage"
+    ],
+    "rooms_types": [
+      "simple",
+      "double",
+      "suite"
+    ],
+    "breakfast_included": false,
+    "distance_to_center_km": 1.2
+  },
+  {
+    "slug": "essaouira-villa-maroc",
+    "city": "Essaouira",
+    "region": "Marrakech-Safi",
+    "name": "Villa Maroc",
+    "category": "Hôtel",
+    "subcategory": "Riad",
+    "description": "Maison d'hôtes historique composée de deux maisons de la médina, décor soigné.",
+    "address": "Médina, Essaouira, Maroc",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -9.77,
+        31.513
+      ]
+    },
+    "tags": [
+      "charme",
+      "médina",
+      "historique"
+    ],
+    "suitable_for": [
+      "couple",
+      "solo"
+    ],
+    "type": "Riad",
+    "stars": 4,
+    "price_per_night_mad": {
+      "min": 900,
+      "max": 1800
+    },
+    "price_level": 3,
+    "amenities": [
+      "wifi",
+      "petit-déjeuner",
+      "terrasse",
+      "hammam"
+    ],
+    "rooms_types": [
+      "chambre double",
+      "suite"
+    ],
+    "breakfast_included": true,
+    "distance_to_center_km": 0.2
+  },
+  {
+    "slug": "essaouira-hotel-des-iles",
+    "city": "Essaouira",
+    "region": "Marrakech-Safi",
+    "name": "Hôtel des Îles",
+    "category": "Hôtel",
+    "subcategory": "Hôtel",
+    "description": "Hôtel entouré de jardins, à quelques pas de la plage et de la médina.",
+    "address": "Bord de mer, Essaouira, Maroc",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -9.769,
+        31.5
+      ]
+    },
+    "tags": [
+      "plage",
+      "jardin",
+      "piscine"
+    ],
+    "suitable_for": [
+      "famille",
+      "couple",
+      "groupe"
+    ],
+    "type": "Hôtel",
+    "stars": 4,
+    "price_per_night_mad": {
+      "min": 700,
+      "max": 1300
+    },
+    "price_level": 3,
+    "amenities": [
+      "piscine",
+      "wifi",
+      "petit-déjeuner",
+      "spa",
+      "restaurant"
+    ],
+    "rooms_types": [
+      "simple",
+      "double",
+      "suite"
+    ],
+    "breakfast_included": false,
+    "distance_to_center_km": 1.0
+  },
+  {
+    "slug": "essaouira-dar-loulema",
+    "city": "Essaouira",
+    "region": "Marrakech-Safi",
+    "name": "Dar Loulema",
+    "category": "Hôtel",
+    "subcategory": "Maison d'hôtes",
+    "description": "Riad élégant de la médina avec patio, décoration soignée et ambiance intime.",
+    "address": "Médina, Essaouira, Maroc",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -9.769,
+        31.513
+      ]
+    },
+    "tags": [
+      "charme",
+      "médina",
+      "romantique"
+    ],
+    "suitable_for": [
+      "couple"
+    ],
+    "type": "Maison d'hôtes",
+    "stars": 4,
+    "price_per_night_mad": {
+      "min": 800,
+      "max": 1500
+    },
+    "price_level": 3,
+    "amenities": [
+      "wifi",
+      "petit-déjeuner",
+      "terrasse"
+    ],
+    "rooms_types": [
+      "chambre double",
+      "suite"
+    ],
+    "breakfast_included": true,
+    "distance_to_center_km": 0.2
+  },
+  {
+    "slug": "essaouira-riad-mimouna",
+    "city": "Essaouira",
+    "region": "Marrakech-Safi",
+    "name": "Riad Mimouna",
+    "category": "Hôtel",
+    "subcategory": "Riad",
+    "description": "Riad de la médina, accueillant et bien placé pour explorer à pied.",
+    "address": "Médina, Essaouira, Maroc",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -9.769,
+        31.511
+      ]
+    },
+    "tags": [
+      "médina",
+      "budget-moyen",
+      "authentique"
+    ],
+    "suitable_for": [
+      "couple",
+      "solo",
+      "groupe"
+    ],
+    "type": "Riad",
+    "stars": 3,
+    "price_per_night_mad": {
+      "min": 450,
+      "max": 800
+    },
+    "price_level": 2,
+    "amenities": [
+      "wifi",
+      "petit-déjeuner",
+      "terrasse"
+    ],
+    "rooms_types": [
+      "chambre double",
+      "suite"
+    ],
+    "breakfast_included": true,
+    "distance_to_center_km": 0.3
+  },
+  {
+    "slug": "essaouira-riad-chbanate",
+    "city": "Essaouira",
+    "region": "Marrakech-Safi",
+    "name": "Riad Chbanate",
+    "category": "Hôtel",
+    "subcategory": "Riad",
+    "description": "Riad de charme avec patio et toit-terrasse, dans une rue calme de la médina.",
+    "address": "Médina, Essaouira, Maroc",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -9.768,
+        31.5125
+      ]
+    },
+    "tags": [
+      "charme",
+      "médina",
+      "terrasse"
+    ],
+    "suitable_for": [
+      "couple",
+      "solo"
+    ],
+    "type": "Riad",
+    "stars": 3,
+    "price_per_night_mad": {
+      "min": 500,
+      "max": 900
+    },
+    "price_level": 2,
+    "amenities": [
+      "wifi",
+      "petit-déjeuner",
+      "terrasse",
+      "hammam"
+    ],
+    "rooms_types": [
+      "chambre double",
+      "suite"
+    ],
+    "breakfast_included": true,
+    "distance_to_center_km": 0.3
+  },
+  {
+    "slug": "essaouira-hotel-smara",
+    "city": "Essaouira",
+    "region": "Marrakech-Safi",
+    "name": "Hôtel Smara",
+    "category": "Hôtel",
+    "subcategory": "Hôtel",
+    "description": "Petit hôtel économique près de la place principale.",
+    "address": "Médina, Essaouira, Maroc",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -9.768,
+        31.51
+      ]
+    },
+    "tags": [
+      "budget",
+      "central"
+    ],
+    "suitable_for": [
+      "solo",
+      "groupe"
+    ],
+    "type": "Hôtel",
+    "stars": 2,
+    "price_per_night_mad": {
+      "min": 250,
+      "max": 450
+    },
+    "price_level": 1,
+    "amenities": [
+      "wifi"
+    ],
+    "rooms_types": [
+      "simple",
+      "double",
+      "suite"
+    ],
+    "breakfast_included": false,
+    "distance_to_center_km": 0.3
+  },
+  {
+    "slug": "ouarzazate-le-berbere-palace",
+    "city": "Ouarzazate",
+    "region": "Drâa-Tafilalet",
+    "name": "Le Berbère Palace",
+    "category": "Hôtel",
+    "subcategory": "Hôtel",
+    "description": "Grand hôtel de style kasbah, connu pour son architecture et ses jardins.",
+    "address": "Avenue Mohammed V, Ouarzazate, Maroc",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -6.9,
+        30.918
+      ]
+    },
+    "tags": [
+      "luxe",
+      "spa",
+      "jardin"
+    ],
+    "suitable_for": [
+      "couple",
+      "famille",
+      "solo"
+    ],
+    "type": "Hôtel",
+    "stars": 5,
+    "price_per_night_mad": {
+      "min": 1500,
+      "max": 3000
+    },
+    "price_level": 4,
+    "amenities": [
+      "piscine",
+      "wifi",
+      "petit-déjeuner",
+      "spa",
+      "jardin"
+    ],
+    "rooms_types": [
+      "simple",
+      "double",
+      "suite"
+    ],
+    "breakfast_included": false,
+    "distance_to_center_km": 0.5
+  },
+  {
+    "slug": "ouarzazate-kenzi-azghor",
+    "city": "Ouarzazate",
+    "region": "Drâa-Tafilalet",
+    "name": "Kenzi Azghor",
+    "category": "Hôtel",
+    "subcategory": "Hôtel",
+    "description": "Hôtel de la chaîne Kenzi au centre-ville, avec piscine et terrasse.",
+    "address": "Centre, Ouarzazate, Maroc",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -6.896,
+        30.917
+      ]
+    },
+    "tags": [
+      "central",
+      "piscine",
+      "famille"
+    ],
+    "suitable_for": [
+      "famille",
+      "couple",
+      "groupe"
+    ],
+    "type": "Hôtel",
+    "stars": 4,
+    "price_per_night_mad": {
+      "min": 800,
+      "max": 1500
+    },
+    "price_level": 3,
+    "amenities": [
+      "piscine",
+      "wifi",
+      "petit-déjeuner",
+      "restaurant"
+    ],
+    "rooms_types": [
+      "simple",
+      "double",
+      "suite"
+    ],
+    "breakfast_included": false,
+    "distance_to_center_km": 0.5
+  },
+  {
+    "slug": "ouarzazate-karam-palace",
+    "city": "Ouarzazate",
+    "region": "Drâa-Tafilalet",
+    "name": "Karam Palace",
+    "category": "Hôtel",
+    "subcategory": "Hôtel",
+    "description": "Hôtel confortable proche du centre, avec spa et piscine.",
+    "address": "Centre, Ouarzazate, Maroc",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -6.892,
+        30.918
+      ]
+    },
+    "tags": [
+      "spa",
+      "piscine",
+      "central"
+    ],
+    "suitable_for": [
+      "famille",
+      "couple",
+      "solo"
+    ],
+    "type": "Hôtel",
+    "stars": 4,
+    "price_per_night_mad": {
+      "min": 700,
+      "max": 1400
+    },
+    "price_level": 3,
+    "amenities": [
+      "piscine",
+      "wifi",
+      "petit-déjeuner",
+      "spa"
+    ],
+    "rooms_types": [
+      "simple",
+      "double",
+      "suite"
+    ],
+    "breakfast_included": false,
+    "distance_to_center_km": 0.4
+  },
+  {
+    "slug": "ouarzazate-ksar-ighnda",
+    "city": "Ouarzazate",
+    "region": "Drâa-Tafilalet",
+    "name": "Ksar Ighnda",
+    "category": "Hôtel",
+    "subcategory": "Maison d'hôtes",
+    "description": "Maison d'hôtes à l'ambiance de kasbah, avec piscine et jardin.",
+    "address": "Route de Marrakech, Ouarzazate, Maroc",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -6.9,
+        30.93
+      ]
+    },
+    "tags": [
+      "charme",
+      "kasbah",
+      "piscine"
+    ],
+    "suitable_for": [
+      "couple",
+      "solo"
+    ],
+    "type": "Maison d'hôtes",
+    "stars": 4,
+    "price_per_night_mad": {
+      "min": 700,
+      "max": 1300
+    },
+    "price_level": 3,
+    "amenities": [
+      "piscine",
+      "wifi",
+      "petit-déjeuner",
+      "jardin",
+      "terrasse"
+    ],
+    "rooms_types": [
+      "chambre double",
+      "suite"
+    ],
+    "breakfast_included": true,
+    "distance_to_center_km": 4.0
+  },
+  {
+    "slug": "ouarzazate-dar-kamar",
+    "city": "Ouarzazate",
+    "region": "Drâa-Tafilalet",
+    "name": "Dar Kamar",
+    "category": "Hôtel",
+    "subcategory": "Maison d'hôtes",
+    "description": "Maison d'hôtes de charme proche de la kasbah de Taourirt.",
+    "address": "Centre, Ouarzazate, Maroc",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -6.895,
+        30.92
+      ]
+    },
+    "tags": [
+      "charme",
+      "terrasse",
+      "central"
+    ],
+    "suitable_for": [
+      "couple",
+      "solo"
+    ],
+    "type": "Maison d'hôtes",
+    "stars": 3,
+    "price_per_night_mad": {
+      "min": 400,
+      "max": 800
+    },
+    "price_level": 2,
+    "amenities": [
+      "wifi",
+      "petit-déjeuner",
+      "terrasse"
+    ],
+    "rooms_types": [
+      "chambre double",
+      "suite"
+    ],
+    "breakfast_included": true,
+    "distance_to_center_km": 0.4
+  },
+  {
+    "slug": "ouarzazate-auberge-chez-le-pacha",
+    "city": "Ouarzazate",
+    "region": "Drâa-Tafilalet",
+    "name": "Auberge Chez Le Pacha",
+    "category": "Hôtel",
+    "subcategory": "Auberge",
+    "description": "Adresse économique et conviviale, appréciée des routards.",
+    "address": "Centre, Ouarzazate, Maroc",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -6.894,
+        30.919
+      ]
+    },
+    "tags": [
+      "budget",
+      "backpacker",
+      "central"
+    ],
+    "suitable_for": [
+      "solo",
+      "groupe"
+    ],
+    "type": "Auberge",
+    "stars": 2,
+    "price_per_night_mad": {
+      "min": 200,
+      "max": 400
+    },
+    "price_level": 1,
+    "amenities": [
+      "wifi",
+      "petit-déjeuner"
+    ],
+    "rooms_types": [
+      "dortoir",
+      "chambre privée"
+    ],
+    "breakfast_included": true,
+    "distance_to_center_km": 0.3
+  },
+  {
+    "city": "Marrakech",
+    "region": "Marrakech-Safi",
+    "name": "La Mamounia",
+    "category": "Hôtel",
+    "description": "Palace historique d'Art déco et de style marocain, avec grands jardins et spa.",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -7.9946,
+        31.6209
+      ]
+    },
+    "tags": [
+      "luxe",
+      "jardin",
+      "spa"
+    ],
+    "type": "Palace",
+    "stars": 5,
+    "price_per_night_mad": {
+      "min": null,
+      "max": null
+    },
+    "price_level": 4,
+    "amenities": [
+      "piscine",
+      "spa",
+      "wifi",
+      "hammam"
+    ],
+    "slug": "marrakech-la-mamounia"
+  },
+  {
+    "city": "Marrakech",
+    "region": "Marrakech-Safi",
+    "name": "Riad Kniza",
+    "category": "Hôtel",
+    "description": "Riad de luxe de la médina, souvent cité pour son décor traditionnel et son accueil.",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -7.995,
+        31.634
+      ]
+    },
+    "tags": [
+      "médina",
+      "romantique",
+      "riad"
+    ],
+    "type": "Riad",
+    "stars": 5,
+    "price_per_night_mad": {
+      "min": null,
+      "max": null
+    },
+    "price_level": 3,
+    "amenities": [
+      "wifi",
+      "petit-déjeuner"
+    ],
+    "slug": "marrakech-riad-kniza"
+  },
+  {
+    "city": "Fès",
+    "region": "Fès-Meknès",
+    "name": "Palais Jamaï",
+    "category": "Hôtel",
+    "description": "Ancien palais du XIXe siècle surplombant la médina, avec jardins et piscine.",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -4.9755,
+        34.069
+      ]
+    },
+    "tags": [
+      "luxe",
+      "vue médina",
+      "jardin"
+    ],
+    "type": "Palace",
+    "stars": 5,
+    "price_per_night_mad": {
+      "min": null,
+      "max": null
+    },
+    "price_level": 4,
+    "amenities": [
+      "piscine",
+      "spa",
+      "wifi"
+    ],
+    "slug": "fes-palais-jamai"
+  },
+  {
+    "city": "Meknès",
+    "region": "Fès-Meknès",
+    "name": "Hôtel Transatlantique",
+    "category": "Hôtel",
+    "description": "Hôtel perché au-dessus de la vallée de l'Oued Boufekrane, avec vue sur la médina.",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -5.543,
+        33.883
+      ]
+    },
+    "tags": [
+      "vue",
+      "piscine"
+    ],
+    "type": "Hôtel",
+    "stars": 4,
+    "price_per_night_mad": {
+      "min": null,
+      "max": null
+    },
+    "price_level": 3,
+    "amenities": [
+      "piscine",
+      "wifi",
+      "parking"
+    ],
+    "slug": "meknes-hotel-transatlantique"
+  }
+]
